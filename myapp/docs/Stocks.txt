@@ -1,0 +1,2652 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2758
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf2 RANDALL MORCK\
+University of Alberta\
+ANDREI SHLEIFER\
+Harvard University\
+ROBERT W. VISHNY\
+University of Chicago\
+
+\fs19\fsmilli9736 The 
+\fs21\fsmilli10806 Stock 
+\fs24\fsmilli12095 Market 
+\fs19\fsmilli9725 and 
+\fs29\fsmilli14581 Investment:\
+
+\fs16\fsmilli8488 Is 
+\fs18\fsmilli9180 the 
+\fs23\fsmilli11807 Market 
+\fs16\fsmilli8076 a 
+\fs27\fsmilli13797 Sideshow?\
+
+\fs16 RECENT EVENTS 
+\fs22 and research findings increasingly suggest that the stock\
+market is not driven solely by news about fundamentals. There seem to\
+be good theoretical as well as empirical reasons to believe that investor\
+sentiment, also referred to as fads and fashions, affects stock prices. By\
+investor sentiment we mean beliefs held by some investors that cannot\
+be rationally justified. Such investors are sometimes referred to as noise\
+traders. To affect prices, these less-than-rational beliefs have to be\
+correlated across noise traders, otherwise trades based on mistaken\
+judgments would cancel out. When investor sentiment affects the\
+demand of enough investors, security prices diverge from fundamental\
+values.\
+The debates over market efficiency, exciting as they are, would not\
+be important if the stock market did not affect real economic activity. If\
+the stock market were a sideshow, market inefficiencies would merely\
+redistribute wealth between smart investors and noise traders. But if the\
+stock market influences real economic activity, then the investor senti-\
+ment that affects stock prices could also indirectly affect real activity.\
+
+\fs18 We would like to thank Gene Fama, Jim Poterba, David Romer, Matt Shapiro, Chris\
+Sims, and Larry Summers for helpful comments. The National Science Foundation,\
+The Center for the Study of the Economy and the State, the Alfred P. Sloan Foundation,\
+and Dimensional Fund Advisors provided financial support.\
+157158 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 It is well known that stock returns by themselves achieve respectable\
+
+\fs20 R2 
+\fs22 's in forecasting investment changes in aggregate data.' If stock\
+returns are infected by sentiment, and if stock returns predict investment,\
+then perhaps sentiment influences investment. There is also evidence,\
+however, that investment has not always responded to sharp movements\
+in stock prices. For example, real investment did not seem to rise sharply\
+during the stock market boom in the late 1920s. Nor was there an\
+investment collapse after the crash of 
+\fs20 1987.2 
+\fs22 It remains an open question,\
+then, whether inefficient markets have real consequences.\
+In this paper, we try to address empirically the broader question of\
+how the stock market affects investment. We identify four theories that\
+explain the correlation between stock returns and subsequent invest-\
+ment. The first says that the stock market is a passive predictor of future\
+activity that managers do not rely on to make investment decisions. The\
+second theory says that, in making investment decisions, managers rely\
+on the stock market as a source of information, which may or may not\
+be correct about future fundamentals. The third theory, which is perhaps\
+the most common view of the stock market's influence, says that the\
+stock market affects investment through its influence on the cost of funds\
+and external financing. Finally, the fourth theory says that the stock\
+market exerts pressure on investment quite aside from its informational\
+and financing role, because managers have to cater to investors' opinions\
+in order to protect their livelihood. For example, a low stock price may\
+increase the probability of a takeover or a forced removal of top\
+management. If the market is pessimistic about the firm's profitability,\
+top management may be deterred from investing heavily by the prospect\
+of further erosion in the stock price.\
+The first theory leaves no room for investor sentiment to influence\
+investment, but the other three theories allow sentiment to influence\
+investment through false signals, financing costs, or market pressure on\
+managers. Our empirical analysis looks for evidence on whether senti-\
+ment affects investment through these three channels by investigating\
+whether the component of stock prices that is orthogonal to future\
+economic fundamentals influences investment.\
+
+\fs18 1. See Bosworth (1975), Fama (1981), Fischer and Merton (1984), Barro (1990),\
+Sensenbrenner (1990), and Blanchard, Rhee, and Summers (1990).\
+2. Barro (1990); Blanchard, Rhee, and Summers (1990).Randall Morck, Andrei Shleifer, and Robert W. Vishny 159\
+
+\fs22 Our tests measure how well the stock market explains investment\
+when we control for the fundamental variables both that determine\
+investment and that the stock market might be forecasting. These\
+fundamental variables serve as a proxy for the profitability of investment\
+projects as well as for the availability of internal funds for investment.3\
+Essentially, we ask, "Suppose a manager knows the future fundamental\
+conditions that affect his investment choice. Would the manager still\
+pay attention to the stock market?" If the answer is yes, then there is an\
+independent role for the stock market, and possibly for investor senti-\
+ment, in influencing investment. The incremental ability of stock returns\
+to explain investment, when future fundamentals are held constant, puts\
+an upper bound on the role of investor sentiment that is orthogonal to\
+fundamentals in explaining investment.\
+For example, suppose that stock prices forecast investment only to\
+the extent that they forecast fundamental factors influencing investment.\
+In this case, that part of stock prices-including possible investor\
+sentiment-that does not help predict fundamentals also does not help\
+predict investment. Thus, investor sentiment may affect stock prices\
+independent of future fundamentals, but that influence does not feed\
+through to investment. If, conversely, the stock market helps predict\
+investment beyond its ability to predict future fundamentals, then\
+investor sentiment may independently influence business investment,\
+through the channels of false signals, financing costs, and market\
+pressure on managers.\
+Our analysis proceeds in several steps. In the first section, we review\
+the evidence and theory behind the idea that investor sentiment affects\
+stock prices. In the second section, we describe several views on why\
+the stock market might predict investment, and how investor sentiment\
+might itself influence investment through the stock market. In the third\
+section, we describe the tests that we use to discover how the stock\
+market influences investment. The fourth and fifth sections present\
+evidence using firm-level data from the COMPUSTAT data base bearing\
+on the alternative views. The next two sections turn to the aggregate\
+data that most studies of investment examine. The final section presents\
+our conclusions.\
+
+\fs18 3. Meyer and Kuh (1957).160 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 Investor Sentiment and the Stock Market\
+Since Robert Shiller's demonstration of the excess volatility of stock\
+market prices, research on the efficiency of financial markets has\
+exploded.4 In subsequent work, Shiller suggested that fads and fashions,\
+as well as fundamentals, influence asset prices.5 Eugene Fama and\
+Kenneth French as well as James Poterba and Lawrence Summers have\
+managed to detect mean reversion in U.S. stock returns.6 While this\
+evidence is consistent with the presence of mean-reverting investor\
+sentiment toward stocks, it is also consistent with time-varying required\
+returns. Perhaps more compelling evidence on the role of investor\
+sentiment comes from the studies of the crash of October 1987. Shiller\
+surveyed investors after the crash and found few who thought that\
+fundamentals had changed.7 Nejat Seyhun found that corporate insiders\
+aggressively bought stocks of their own companies during the crash, and\
+made a lot of money doing 
+\fs14 SO.8 
+\fs22 The insiders quite correctly saw no\
+change in fundamentals and attributed the crash to a sentiment shift.\
+The thrust of the evidence is that stock prices respond not only to news,\
+but also to sentiment changes.\
+Follow-up studies to the work on mean reversion attempt both to\
+prove the influence of investor sentiment on stock prices and to isolate\
+measures of sentiment. One group of studies concerns closed-end mutual\
+funds-funds that issue a fixed number of shares, and then invest the\
+proceeds in other traded securities. If investors want to liquidate their\
+holdings in a closed-end fund, they must sell their shares to other\
+investors, and cannot just redeem them as in the case of an open-end\
+fund. Closed-end funds are extremely useful in financial economics\
+because it is possible to observe both their net asset value, which is the\
+market value of their stock holdings, and their price, and compare the\
+two. A well-known characteristic of closed-end funds is that their stock\
+price is often different from their net asset value, suggesting that markets\
+are inefficient.\
+
+\fs18 4. Shiller(1981).\
+5. Shiller (1984).\
+6. Fama and French (1988); Poterba and Summers (1988).\
+7. Shiller (1987).\
+8. Seyhun (1990).Randall Morck, Andrei Shleifer, and Robert W. Vishny 161\
+
+\fs22 In fact, Bradford De Long, Andrei Shleifer, Lawrence Summers, and\
+Robert Waldmann, following the work of Martin Zweig, have argued\
+that the average discount on closed-end funds can serve as a proxy for\
+individual investor sentiment.9 When individual investors are bearish on\
+stocks, they sell closed-end funds as well as other stocks. In doing so,\
+they drive up the discounts on closed-end funds (that is, their price\
+relative to those of the stocks in their portfolio) because institutional\
+investors typically do not trade these funds and so do not offset the\
+bearishness of individual investors. Conversely, when individuals are\
+bullish on stocks, they buy closed-end funds so that discounts narrow\
+or even become premiums. Charles Lee, Andrei Shleifer, and Richard\
+Thaler present evidence suggesting that discounts might indeed serve as\
+a proxy for individual investor sentiment. 10 We will not review the theory\
+and evidence here, but will use closed-end fund discounts as one measure\
+of investor sentiment, and will study the relationships between discounts,\
+investment, and external financing.\
+The empirical evidence on the potential importance of investor\
+sentiment has been complemented by a range of theoretical arguments\
+that explain why the influence of sentiment on stock prices would not be\
+eliminated through "arbitrage." Arbitrage in this context does not refer\
+to riskless arbitrage, as understood in financial economics, but rather to\
+risky, contrarian strategies whereby smart investors bet against the\
+mispricing. Stephen Figlewski and Robert Shiller have both pointed out\
+that when stock returns are risky, arbitrage of this sort is also risky and\
+therefore not completely effective. " I For example, if an arbitrageur buys\
+underpriced stocks, he runs the risk that fundamental news will be bad\
+and that he will take a bath on what had initially been an attractive trade.\
+Because arbitrage is risky, arbitrageurs will limit the size of their trades,\
+and investor sentiment will have an effect on prices in equilibrium.\
+Others have taken this argument further. 
+\fs14 12 
+\fs22 They point out that if investor\
+sentiment is itself stochastic, it adds further risk to arbitrage because\
+sentiment can turn against an arbitrageur with a short horizon. An\
+arbitrageur buying underpriced stocks runs the risk that they become\
+even more underpriced in the near future, when they might have to be\
+
+\fs18 9. De Long and others (1990); Zweig (1973).\
+10. Lee, Shleifer, and Thaler (1990).\
+11. Figlewski (1979); Shiller (1984).\
+12. De Long and others (1990).162 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 sold. This noise-trader risk makes arbitrage even riskier, allowing the\
+effects of sentiment on prices to be even more pronounced. The upshot\
+of these models is that the theoretical argument that arbitrage prevents\
+investor sentiment from influencing prices is simply wrong.\
+Most models of investor sentiment deal with sentiment that affects\
+the whole stock market or at least a big chunk of it. When sentiment\
+affects a large number of securities, leaning against the wind means\
+bearing systematic risk, and is therefore costly to risk-averse arbitra-\
+geurs. If, in contrast, sentiment affects only a few securities, betting\
+against it means bearing only the risk that can be diversified, and therefore\
+arbitrageurs will bet more aggressively. Thus, investor sentiment can\
+have a pronounced effect on prices only when it affects a large number\
+of securities.\
+This conclusion holds in a perfect capital market, with no trading\
+restrictions or costs of becoming informed about the mispricing of\
+securities. More realistically though, arbitrage is a costly activity and\
+arbitrage resources will be devoted to particular securities only if returns\
+justify bearing the costs. As a result, investor sentiment toward individual\
+securities will not be arbitraged away and will affect their prices, because\
+arbitrageurs' funds and patience are limited. If a stock is mispriced, only\
+a few arbitrageurs would know about it. 
+\fs16 13 
+\fs22 Those who do know may have\
+alternative uses for funds, or may not wait until the mispricing disap-\
+
+\fs20 pears.14 
+\fs22 Waiting is especially costly when arbitrage requires selling a\
+security short, and regulations do not give the short seller full use of the\
+proceeds. Moreover, taking a large position in a security means bearing\
+a large amount of idiosyncratic risk, which is costly to an arbitrageur\
+who is not fully diversified. Finally, as stressed by Fischer Black,\
+arbitrageurs often cannot be certain how mispriced a security is, further\
+limiting their willingness to trade in 
+\fs18 it.15 
+\fs22 All these costs suggest that the\
+resources leaning against the mispricing of any given security are quite\
+limited, and, therefore, even idiosyncratic investor sentiment may\
+influence share prices.\
+To conclude, recent research has produced a variety of empirical\
+evidence suggesting that investor sentiment influences asset prices. A\
+parallel research effort has demonstrated that the usual models in\
+
+\fs18 13. Merton (1987).\
+14. Shleifer and Vishny (1990).\
+15. Black (1986).Randall Morck, Andrei Shleifer, and Robert W. Vishny 163\
+
+\fs22 financial economics, in which investors are risk averse, imply that\
+investor sentiment should affect prices. The argument that marketwide\
+investor sentiment affects prices is particularly strong, but one also\
+expects firm-specific sentiment to affect individual stocks. These theo-\
+ries and evidence raise the obvious question: does the effect of investor\
+sentiment on stock prices feed through to business investment spending?\
+To address this question, we first review how stock prices affect\
+investment in general.\
+The Stock Market and Investment\
+The fact that stock returns predict investment is well established. In\
+this section, we present the four views that can plausibly account for\
+this correlation. In the subsequent sections, we evaluate these views\
+empirically.\
+The Passive Informant Hypothesis\
+According to the passive informant view of the stock market, the\
+market does not play an important role in allocating investment funds.\
+This view contends that the managers of the firm know more than the\
+public or the econometrician about the investment opportunities facing\
+the firm. The stock market, therefore, does not provide any information\
+that would help the manager make investment decisions. The market\
+might tell the manager what market participants think about the firm's\
+investments, but that does not influence his decisions. This "sideshow"\
+view of the stock market says not only that investor sentiment does not\
+affect investment, but also that the manager does not learn anything\
+from the stock price.\
+The passive informant hypothesis implies that the reason for the\
+observed correlation between stock returns and subsequent investment\
+growth is that the econometrician's information set is smaller than the\
+manager's. If the econometrician knew everything that the manager\
+does, the variation in investment could be accounted for using only the\
+variables known to the manager when he decided how much to invest.\
+The passive informant hypothesis has some intuitive appeal. It is\
+plausible that outsiders know very little about the firm that insiders do
+\fs20 164 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 not also know, since outsiders collect information that is largely devoted\
+to understanding insiders' actions. Many a financial analyst's main\
+responsibility is talking to company managers. This superiority of\
+insiders' knowledge seems especially likely with respect to firm-specific\
+fundamentals, where information about the firm is most likely to hit\
+managers first. One might argue, however, that the market does teach\
+insiders something new about the future state of the aggregate economy\
+and so conveys information useful in making investment decisions.\
+Some supportforthe passive informant hypothesis comes from studies\
+of insider 
+\fs20 trading.16 
+\fs22 Seyhun, for example, shows that insiders make\
+money on trading in their firms' stock. Moreover, insiders successfully\
+predict both future idiosyncratic returns and future market returns,\
+suggesting that insiders' special knowledge helps them with both aggre-\
+gate and firm-specific forecasts. At the same time, the evidence does not\
+reject the view that even though insiders can forecast some components\
+of returns that are firm-specific, they do not forecast other components.\
+That is, they can make money trading and still learn something from\
+stock returns. They may or may not use this knowledge in making\
+investment decisions for their firms.\
+
+\fs20 The Active Informant Hypothesis\
+
+\fs22 The active informant hypothesis assigns a greater role to the stock\
+market. It says that stock prices predict investment because they convey\
+to managers information useful in making investment decisions. This\
+information can accurately, or inaccurately, predict fundamentals. Even\
+when the stock market is the best available predictor, it can err due to\
+the inherent unpredictability of the fundamentals, or because stock\
+prices are contaminated by sentiment that managers cannot separate\
+from information about fundamentals. Even if the stock market sends\
+an inaccurate signal, the information may still be used and so the stock\
+return will influence investment.\
+The market can convey a variety of information that bears on the\
+intrinsic uncertainty facing a firm-such as future aggregate or individual\
+demand. Alternatively, the market can reveal investors' assessment of\
+the competence of a firm's managers and their ability to make good\
+
+\fs16 16. Seyhun (1986, 1988).
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 165\
+
+\fs22 investments. Information conveyed by stock prices can also help resolve\
+extrinsic or equilibrium uncertainty. For example, if an economy can be\
+in one of several self-fulfilling equilibria, the stock market can aggregate\
+beliefs-act as a "sunspot' -regarding which equilibrium is at work.\
+Of course, this type of role can be played by the aggregate stock market\
+only; it is not a consideration when evaluating the dependence of\
+individual firms' decisions on their idiosyncratic returns.\
+We distinguish this sunspot role of the stock market from the influence\
+of investor sentiment. If the stock market is a sunspot, all investors are\
+rational and correctly predict the future state of the economy based on\
+stock market performance. In this case, the stock market does not\
+predict investment, after controlling for future fundamentals, because it\
+is perfectly correlated with future fundamentals. In contrast, investors\
+affected by sentiment hold erroneous beliefs about the future. If such\
+investors affect stock prices, and if managers pay attention to stock\
+prices and cannot separate investor sentiment from fundamental infor-\
+mation, then investment decisions will be distorted by false signals from\
+the market. In this case, then, the stock market will be a faulty active\
+informant and will predict future investment even after controlling for\
+future fundamentals.\
+The difference between the faulty informant and accurate informant\
+hypotheses is a matter of degree, and can be explored empirically. If\
+signals are relatively accurate and future fundamentals are controlled\
+for, the stock market should not help predict investment. By contrast, if\
+investor sentiment influences the stock market, and these false signals\
+influence investment, then the stock market should influence investment\
+even after controlling for future fundamentals. In our empirical work,\
+we test for this difference.\
+One final point is that the false signals hypothesis seems less likely to\
+apply to individual stock returns than to industry stock returns or to the\
+market as a whole. It is easier to argue that managers learn more new\
+things from the stock market about the economy as a whole or about\
+industry conditions than they do about their own firms. On the other\
+hand, it is quite possible that managers change their actions in response\
+to idiosyncratic stock returns because they don't want to be fired or\
+taken over-but that is a story we will address later. The false signals\
+hypothesis is more plausible at the aggregate level, when managers are\
+confused by the aggregate market and respond accordingly. For example,
+\fs20 166 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 there was a very brief slowdown in investment following the crash of\
+October 1987, when managers had to combine their own information\
+with what turned out to be a highly misleading signal from the stock\
+market.\
+
+\fs20 The Financing Hypothesis\
+
+\fs22 According to the two previous hypotheses, the stock market's main\
+role is to convey information: in the first case to the econometrician, and\
+in the second case to the manager. The next two views assign the stock\
+market a more active role. Many people believe that the stock market\
+plays a key role in helping firms raise capital. This applies to new firms,\
+in the case of initial public offerings (IPOs), and to more seasoned firms.\
+The valuation that the market assigns to a company's equity determines\
+the cost of capital to that company, a point made by Stanley Fischer and\
+Robert Merton among others. 
+\fs14 17 
+\fs22 The higher the valuation, the cheaper is\
+the equity. When the stock market is efficient, firms cannot find a\
+particularly advantageous time to undertake equity finance. However,\
+when the stock market is subject to investor sentiment, firms can choose\
+equity finance when the market overvalues them, making the cost of\
+capital irrationally low.\
+As pointed out by Olivier Blanchard, Changyong Rhee, and Lawrence\
+Summers, in a sentiment-infected stock market, rational managers might\
+not invest the proceeds from a new share issue.'8 Fischer and Merton\
+presume that firms for which funds are irrationally cheap will invest in\
+marginal projects. At a rational cost of funds, these projects would have\
+a negative net present value. 19 Blanchard, Rhee, and Summers point out\
+that firms instead may issue the overvalued equity and then invest the\
+proceeds in financial securities, which are zero net-present-value in-\
+vestments, rather than in negative net-present-value projects. In other\
+words, firms issue equity when equity is overpriced, but issue debt or\
+finance internally when equity is not overpriced; investment is the same\
+in either case. The Blanchard-Rhee-Summers view implies that even if\
+
+\fs18 17. Fischer and Merton (1984).\
+18. Blanchard, Rhee, and Summers (1990).\
+19. Fischer and Merton (1984).Randall Morck, Andrei Shleifer, and Robert W. Vishny 167\
+
+\fs22 investor sentiment affects stock prices, it does not necessarily affect\
+investment, only the way in which it is financed.\
+Of course, in some cases one would expect investor sentiment to\
+affect investment through the issuance of new securities. For example,\
+take a firm that has limited debt capacity and that cannot raise all the\
+funds through borrowing that it could profitably invest. For this firm,\
+the marginal return on investment exceeds the risk-adjusted cost of\
+funds in a perfect capital market. If this firm, because of an irrational\
+rise in its stock price, can get access to cheaper financing through the\
+stock market, it would use the proceeds from the equity issue to invest.\
+In this case, the marginal investment has a positive rather than a negative\
+net present value, and is worth undertaking. On this reasoning, the\
+influence of equity issuance on investment would be especially strong\
+for smaller firms.\
+The discussion so far, as well as most of the literature, explains how\
+stock market valuation determines the attractiveness of stock financing.\
+But, for a variety of reasons, it also helps determine the attractiveness\
+of bond financing and may, therefore, have a bigger effect on investment.\
+While investor pessimism might simply cause the firm to switch from\
+equity to debt financing, this substitution will be limited if the market\
+value of the firm's debt deteriorates at the same time. The stock market\
+conveys information about how much a company is worth. Potential\
+lenders presumably use this information in deciding how much to lend\
+and on what terms. Therefore, stock price increases would increase debt\
+capacity and reduce the costs of debt, and the reverse would be true for\
+stock price decreases. In addition, a critical determinant of debt capacity\
+is how much the assets of the firm could be sold for should the firm fail\
+to meet its debt obligations and therefore need to sell some assets. The\
+more valuable the firm, the higher the prices its assets will fetch on\
+resale, and therefore the greater the firm's debt capacity. In this way, an\
+increase in the market value of the firm should also make debt financing\
+of this firm more attractive.\
+The implication of the financing hypothesis-concerning both equity\
+and debt finance-is that the key channel of the stock market's influence\
+on investment is through the issuance of new securities. The hypothesis\
+also implies that this channel is more important for smaller firms,\
+particularly new firms that do not yet have public equity. If stock prices
+\fs18 168 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 have an important influence on financing decisions, there should be\
+considerable room for investor sentiment to affect investment.\
+
+\fs20 The Stock Market Pressure Hypothesis\
+
+\fs22 Even without conveying any information to the managers, or affecting\
+the cost of security issues, the stock market can influence investment by\
+exerting pressure on managers. For example, if investors dislike oil\
+companies and drive down the prices of their shares, then, for fear of\
+being fired or taken over, managers of oil companies might try to disinvest\
+and diversify, even if further investment in oil is profitable. If market\
+participants vote their sentiment by selling and buying stocks, and if the\
+hiring and firing of managers is tied to the performance of the stock, then\
+these votes will affect investment even if they are uninformed.\
+One particular version of this hypothesis is the short horizons theory 
+\fs14 .20\
+
+\fs22 When arbitrage funds are limited, smart investors are reluctant to buy\
+and hold underpriced, long-term investment projects because mispricing\
+takes a long time to be corrected.2' Managers who are averse to low\
+stock prices, for fear of being fired or taken over, will avoid these long-\
+term investments even if these projects have a positive net present value.\
+Thus, investor sentiment can affect investment.\
+The crucial implication here is that the stock market has an influence\
+on investment beyond its influence through financing costs and beyond\
+its ability to predict future fundamentals. After controlling for financing\
+costs and fundamentals, the stock market still affects investment. In this\
+respect, the market pressure hypothesis resembles the faulty informant\
+version of the active predictor hypothesis. The main difference is that\
+false signals are most likely to be listened to when they come from the\
+aggregate market, but are unlikely to influence an individual firm's\
+managers when they are idiosyncratic. In contrast, while the market\
+pressure hypothesis may apply on the aggregate level, it is most plausible\
+at the individual firm level. Therefore, the finding of a residual role for\
+the stock market would have different interpretations in aggregate and\
+cross-sectional regressions.\
+
+\fs16 20. Stein (1988); Shleifer and Vishny (1990).\
+21. Shleifer and Vishny (1990).
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 169\
+
+\fs22 Empirical Design\
+The empirical approach taken in this paper is somewhat atheoretical.\
+We use a fairly unstructured approach, placing few restrictions on how\
+stock returns enter the investment equations in order to allow the\
+maximum scope for the stock market to affect investment. For our\
+analysis, we regress investment growth on stock returns and the growth\
+in fundamental variables in order to see how important the stock market\
+is after controlling for fundamentals. The idea of these regressions is to\
+ask, "If managers knew future fundamentals, would orthogonal move-\
+ments in share price still help predict their investment decisions?"\
+We do not attempt to estimate consistently the structural parameters\
+of the investment and financing equations, as we are not prepared to\
+make the necessary identifying assumptions. Realizing that investment,\
+financing, and fundamentals are all simultaneously determined, we still\
+wish to interpret our quasi-reduced-form results as evidence on a more\
+narrow question-the incremental explanatory power of the stock mar-\
+ket in predicting investment. Even with this more modest objective in\
+mind, our interpretation of the evidence still rests on several key\
+assumptions discussed below.\
+To identify the role of investor sentiment, we focus on the merits of\
+the faulty informant, financing, and market pressure views of the stock\
+market, with the caveat that the faulty informant view makes more sense\
+in aggregate data than in cross-sectional data.22 The financing view\
+predicts that the main link from the stock market to investment is through\
+financing; therefore, we examine financing data to evaluate this view.\
+Our tests of the faulty informant and market pressure views are less\
+direct. Essentially, these views maintain that the stock market plays an\
+independent role in predicting investment beyond the information it\
+provides about future fundamentals and beyond its effect on financing.\
+It is important to stress that we can never reject the null hypothesis that\
+investor sentiment does not affect investment through the stock market.\
+
+\fs18 22. Because the accurate active informant view involves perfectly correct signals\
+about future fundamentals, there is no room for the irrational influence of investor\
+sentiment. This hypothesis, therefore, is irrelevant to this discussion. We also ignore for\
+the time being the passive informant view because in it the stock market, and thereby\
+investor sentiment, do not influence investment.
+\fs20 170 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 It could be that the ability of the stock market to predict investment\
+simply reflects the econometrician's inability to properly measure the\
+fundamentals that drive both investment and the stock market.\
+To implement the tests, we run four main types of regressions. In a\
+general form,\
+(1) Al, 
+\fs20 = 
+\fs22 f[AF,],\
+
+\fs20 (2) Al, = f[AF,, Rt_ J\
+
+\fs22 (3) 
+\fs18 At 
+\fs12 = 
+\fs20 f[AFt, ANt],\
+(4) 
+\fs18 AIt 
+\fs20 = fAFt, ANt, R,t 1],\
+
+\fs22 where Al, is the investment growth rate in year t, AF, is the growth rate\
+of fundamentals-cash flow and sales-in year t, R,_ 1 is the stock return\
+in year t - 1, and AN, is the form of financing in year t, which includes\
+debt, and equity issues.23 Like most researchers, we run all our regres-\
+sions in changes rather than levels because residuals in the levels\
+regressions are serially correlated. For example, in the firm-level data\
+the "fixed effect" is the dominant influence in the investment-level\
+equations, and one gets little information about what drives year-to-year\
+changes in investment from these equations. Moreover, the cross-\
+sectional relation between the fixed effect and the fundamentals produces\
+some perverse results, with nothing but industry having much explana-\
+tory power.\
+The financing hypothesis says that adding financing variables should\
+help explain the variation in investment. The coefficients on the financing\
+variables in equation 3 should be significant and large, and the incremen-\
+tal 
+\fs20 R2, 
+\fs22 as we move from equation 1 to equation 3, should be large.\
+Moreover, if financing really is the main channel through which the stock\
+market affects investment, then moving from equation 3 to equation 4\
+should produce an insignificant coefficient on the lagged market return,\
+and should certainly not raise the R2 much. Finally, if the financing view\
+is important, then, as we move from equation 2 to equation 4, the\
+coefficient on the lagged return should fall, since the sensitivity of\
+investment to return should be reduced once the financing variables are\
+included in the regression.\
+The faulty informant and market pressure hypotheses say that stock\
+returns should help explain investment beyond their ability to predict\
+
+\fs18 23. A slightly richer lag structure is allowed for in the aggregate data.Randall Morck, Andrei Shleifer, and Robert W. Vishny 171\
+
+\fs22 the firm's fundamental conditions and beyond their impact on financing.\
+If so, the coefficient on R,_ should be significant in equation 2, and the\
+
+\fs20 R2 
+\fs22 in equation 2 should be much larger than in equation 1. Also, when\
+we control for financing as well as for fundamentals, the return variable\
+in equation 4 should be significant and the incremental 
+\fs20 R2 
+\fs22 in equation 4\
+relative to equation 3 should be large. If the stock return has significant\
+explanatory power for investment beyond its effect on fundamentals\
+and financing, market sentiment very possibly influences investment.\
+Of course, we may not have specified the full set of fundamentals. In\
+that case, the stock market matters only to the extent that we have an\
+omitted variable, and the role of investor sentiment may evaporate with\
+its inclusion. That is, the stock market may prove an "accurate passive\
+informant" even if we find that equation 4 explains investment much\
+better than equation 3. Our exercise is still useful, however, because the\
+incremental 
+\fs18 R2, 
+\fs22 as we move from equation 3 to equation 4, is an estimated\
+upper bound on how much of the variation in investment can be explained\
+by sentiment. A small incremental 
+\fs20 R2 
+\fs22 implies that investor sentiment is\
+probably not very important. If the 
+\fs20 R2 
+\fs22 is large, the presumption that\
+sentiment is important gains strength.\
+This approach raises several conceptual issues. First, our market\
+value variable is a stock return rather than a change in q, the ratio of the\
+firm's market value to replacement cost.24 Since both the capital stock\
+and the market value of debt move much more slowly than the market\
+value of equity, the practical difference between using stock returns and\
+changes in q is fairly small. Robert Barro conducts an empirical race\
+between these approaches, and finds that the data favor stock returns\
+over changes in 
+\fs14 q.25 
+\fs22 He attributes this finding to the fact that the capital\
+stock is measured with error. Because we are interested in allowing the\
+maximum scope for the stock market to predict investment, we use\
+returns rather than changes in q in our analysis.\
+Second, by focusing only on the incremental explanatory power of\
+stock returns, we may underestimate the scope for sentiment to influence\
+investment. Because sales, cash flow, and investment are all simulta-\
+neously determined, some of the investment variation explained by sales\
+may actually be driven by stock returns. For example, suppose that a\
+
+\fs18 24. Since Brainard and Tobin (1968) first used q, many others have followed in their\
+steps-Blanchard, Rhee, and Summers (1990), Hayashi (1982), and Summers (1981).\
+25. Barro (1990).172 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 good stock return raises investment, which in turn improves sales\
+through larger capacity or lower variable costs. Controlling for sales,\
+we might find only a small effect of the stock return on investment, even\
+when the true effect is large. We argue below that the data do not support\
+this view, and assume that, at least over our one- to three-year estimation\
+period, stock returns are not an important driving force behind the sales\
+process.\
+A related concern is that investor sentiment is sometimes considered\
+an overreaction to fundamental news. In fact, some recent evidence on\
+stock returns suggests that fads and fundamentals are positively corre-\
+lated.26 If so, we may be underestimating the explanatory power of\
+investor sentiment, because our tests focus only on its incremental\
+explanatory power over and above fundamentals. The power of our tests\
+will be particularly low if the stock market overreacts to fundamentals\
+in a uniform fashion across all firms at all times. If this is not the case,\
+however, our tests should detect some of the effects of overreaction.\
+Our only goal is to calibrate the role of investor sentiment that is\
+orthogonal to fundamentals.\
+A final conceptual issue is how to measure the importance of sentiment\
+in explaining investment. Focusing on the incremental 
+\fs18 R2 
+\fs22 and the\
+parameter estimate on stock returns, we pretty much ignore t-statistics\
+in the firm-level regressions. We do so because most variables are highly\
+significant with several thousand observations. The t-statistics will play\
+a larger role in our discussion of the aggregate time series evidence.\
+We do not rely on 
+\fs18 R2 
+\fs22 to choose between two specifications on a\
+statistical basis. Rather we use incremental R2's to gauge the fraction of\
+all investment variation that is conceivably due to investor sentiment.\
+Because investment is extraordinarily volatile, especially at the firm\
+level, even fairly large regression estimates of the marginal effect of\
+stock returns may not explain much of the variation in investment. A\
+large coefficient on stock prices indicates that the stock market can help\
+predict significant changes in investment. Yet, if the incremental 
+\fs18 R2 
+\fs22 is\
+low, an irrational stock market is an unlikely cause of widespread under-\
+or overinvestment in many sectors of the economy, since stock market\
+behavior helps predict only a small fraction of the variation in investment.\
+
+\fs18 26. Barsky and De Long (1989); Campbell and Kyle (1988).Randall Morck, Andrei Shleifer, and Robert W. Vishny 173\
+
+\fs22 Evidence from Firm-Level Data\
+Most of the recent empirical work on the ability of stock returns to\
+forecast investment has focused on aggregate data. Yet we would argue\
+that cross-sectional data are equally important. The distortion of the\
+allocation of capital across firms that could arise from deviant share\
+prices may be a greater source of harm than the false signals that distort\
+aggregate investment. Investment variation over the business cycle\
+caused by false signals from the stock market largely amounts to\
+intertemporal substitution of investment. Misallocation of capital across\
+sectors, however, can lead to more permanent damage, as socialist\
+economies illustrate. Also, it seems likely that the stock market allocates\
+investment across sectors and firms through relative share prices more\
+than it allocates investment over time through the variation in returns\
+over time. We therefore begin by examining the relationship between\
+relative stock returns and investment.\
+Our main empirical results are based on the analysis of annual data\
+from the COMPUSTAT data base between 1960 and 1987. The sample\
+was constructed by Bronwyn Hall.27 Because the coverage of firms by\
+COMPUSTAT has expanded greatly over time, we have only 93 firms\
+in 1960, rising to 1,032 firms in 1987. The sources and construction of all\
+the data are described in the appendix.\
+The investment variable we use is the growth rate of real capital\
+expenditures excluding acquisitions. The two measures of fundamentals\
+are the growth rates of sales and cash flow, which we believe are the\
+most important fundamental determinants of investment. We use sales\
+growth as a measure of fundamentals because it reflects future demand\
+for the firm's products and serves as a measure of investment profitabil-\
+ity. Cash flow measures fundamentals both because it reflects current\
+(and presumably future) profitability and because it facilitates investment\
+if a firm is constrained in the capital market.28 Our cash flow variable is\
+after-tax corporate profits (net of interest payments) plus depreciation,\
+and therefore closely approximates the inflow of funds available for\
+investment. We have also experimented with other proxies, such as\
+
+\fs18 27. Cummins, Hall, Laderman, and Mundy (1988).\
+28. Fazzari, Hubbard, and Petersen (1988).
+\fs20 174 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 different lags on sales and cash flow growth, but these variables did not\
+noticeably increase the R2.\
+The construction of new debt and new share issue variables is\
+described in the appendix. Instead of using a continuous variable equal\
+to the percent increase in actual debt or shares outstanding, we use\
+dummy variables. The equity dummy variable equals 1 if a firm increased\
+its equity by more than 5 percent and the debt dummy equals 1 if a firm\
+increased its debt by more than 10 percent in the annual data. At three-\
+year frequencies we use cutoffs of 10 percent for equity issues and 20\
+percent for debt issues. We use dummies rather than continuous variables\
+because the data on security issues have many errors as well as many\
+outliers. Some of these outliers may be traced to security issues made in\
+conjunction with large acquisitions. Recall that we exclude acquisitions\
+in our measure of capital expenditures. As a practical matter, using\
+dummies rather than continuous variables results in a higher explanatory\
+power of the regressions, so we are giving the financing hypothesis the\
+benefit of the doubt.29 In the financing section, we also present results\
+on dollar proceeds from external financing normalized by investment.\
+
+\fs20 Development of the Empirical Model\
+
+\fs22 Because we are looking at a cross-section of firms, we compute capital\
+asset pricing model (CAPM) alphas (abnormal returns) for all firms. We\
+do that by regressing each firm's returns net of Treasury bill (T-bill)\
+returns on the return of the value-weighted market index net of the T-\
+bill return, using monthly data for the whole sample period. The\
+regression coefficient on market return is the firm's beta, which is\
+assumed to be constant during the whole period. We then define alpha\
+as the residual in the regression for each firm. In a given year, alpha is\
+the firm's excess stock return in that year, where returns are cumulated\
+exponentially.\
+If the CAPM is an inappropriate model for generating expected\
+returns, our alphas may compensate for risks that are not allowed for by\
+the CAPM. In that case, a high alpha may be due to a high expected\
+
+\fs18 29. Theoretically, it is not clear whether changes in investment should be predicted by\
+the level of issuing activity or by the changes in issuing activity. Using changes has the\
+problem that changes are negative after a large issue. The explanatory power of the\
+specification in changes is also inferior to that in levels.Randall Morck, Andrei Shleifer, and Robert W. Vishny 175\
+
+\fs22 return that is simply compensation for the firm being riskier than implied\
+by its market beta alone. Thus, while an unexpectedly high return may\
+lead to a rise in investment, a high alpha due to a high expected return\
+should not, and its presence will tend to bias the coefficient on alpha\
+downward. Because firms may face different risks and different expected\
+returns than implied by the CAPM, we have also estimated residuals\
+from a market model that allows firms to have different expected returns\
+even after controlling for beta. (Of course over any 15- to 20-year period\
+the firm's average return may be due as much to luck as to expected\
+return.) Using these market-model residuals rather than CAPM alphas\
+changes the marginal explanatory power of the stock market in our\
+investment equations by less than half of 1 percent.\
+Table 1 describes some of the variables. The top panel contains\
+univariate statistics for our variables measured at annual frequencies.\
+Investment growth is extraordinarily volatile. Over the period 1960-87,\
+the mean investment growth rate is 23.7 percent, but the median is only\
+4.7 percent: there are quite a few small firms with enormous growth\
+rates. In this sample, one-quarter of the observations, which are firm-\
+years, have experienced investment growth rates of over 43 percent,\
+and another quarter had investment declines of over 25 percent. The\
+mean and the median cash flow growth rates are both around 5 percent.\
+The mean sales growth rate is 6.5 percent, but the median is only 4.3\
+percent, again pointing to the presence of a few, very rapidly growing\
+small firms. While the median alpha is close to zero, the mean of 0.07\
+indicates either a survivorship bias in COMPUSTAT or else some quirks\
+in the CAPM. To partially address the survivorship bias, we have\
+included the companies from the COMPUSTAT Research File in our\
+sample, but, unfortunately, it does not include all firms that have\
+disappeared from COMPUSTAT. In any case, the non-zero mean alpha\
+should not affect the interpretation of our tests, which largely exploit\
+cross-sectional variation in alphas.\
+In the sample of annual data, 10 percent of the firm-years show\
+increases in outstanding equity shares of more than 5 percent, and over\
+30 percent of the firm-years show increases of book debt of more than\
+10 percent. For the firms that increased equity by more than 5 percent,\
+the median ratio of the equity issue to investment is 0.91 and the mean\
+is 1.47. For the firms that increased their debt by more than 10 percent,\
+the median ratio of the debt issue to investment is 0.74 and the mean is
+\fs18 176 Brookings Papers on Economic Activity, 2:1990\
+
+\fs16 Table 1. Description of Firm-Level Financial Variables, One- and Three-Year\
+Spans, 1960-87\
+
+\fs18 Standard\
+Variable Median Mean deviation Minimum Maximum\
+One-year spana\
+
+\fs16 Investment growthb 0.047 0.237 0.911 -1.00 10.00\
+Alphac - 0.003 0.070 0.441 -0.94 9.68\
+Cash flow growthd 0.056 0.046 0.878 -9.86 9.92\
+Sales growth 0.043 0.065 0.258 - 1.00 7.09\
+New share dummye 0 0.104 
+\fs18 0.305 
+\fs16 0 
+\fs18 1\
+
+\fs16 New debt dummy' 0 0.312 0.463 0 1\
+
+\fs18 Three-year spang\
+
+\fs16 Investment growthb 0.097 0.482 1.390 - 1.00 10.00\
+Alphac -0.004 0.205 0.930 -0.98 14.80\
+Cash flow growthd 0.123 0.209 1.060 -9.78 9.63\
+Sales growth 0.113 0.199 0.529 - 1.00 8.75\
+New share dummye 0 0.197 0.398 0 1\
+New debt dummy' 0 0.408 0.492 0 1\
+
+\fs12 Source: COMPUSTAT data base and Center for Research in Security Prices (CRSP) data base, at the Graduate\
+School, University of Chicago.\
+a. The sample for the annual analysis has 27,771 observations.\
+b. Investment is defined as "capital expenditures" from annual statement of changes in financial position, from\
+COMPUSTAT, including COMPUSTAT Research File, 1959-87.\
+c. Alpha is the lagged abnormal stock returns. CAPM betas were estimated for each firm using all available\
+monthly returns from CRSP, 1959-87. These betas were then used to calculate an alpha for each year.\
+d. Cash flow equals net income plus depreciation.\
+e. New share issue is the sale of common equity divided by the total market value of common equity at the\
+beginning of the year, from COMPUSTAT, 1971-87. Where the above data were unavailable, including the years\
+1959-70, sale of common equity was estimated from the change in the number of shares outstanding reported in\
+CRSP, filtering out changes due to liquidation, rights offering, stock splits, or stock dividends.\
+f. New debt issues is the change in book debt divided by the lagged value of book debt.\
+g. The sample for the three-year analysis has 7,950 observations.\
+
+\fs22 1.30. These results show that outside financing roughly matches invest-\
+ment needs over a one-year period, although firms also have their internal\
+cash flows. It appears that firms issue much more than they need for\
+immediate investment. When we compute similar numbers over a three-\
+year horizon, the number of firms that finance in excess of investment\
+drops considerably.\
+The bottom panel of table 1 contains univariate statistics for our\
+variables measured over nonoverlapping three-year periods. Again, the\
+high degree of volatility of investment is confirmed. The standard\
+deviation of investment growth is now 139 percent. Over an average\
+three-year period, investment rises by more than 77 percent for a quarter\
+of all firm-period observations. Roughly 20 percent of all firms expand\
+their outstanding shares by 10 percent or more over a three-year period
+\fs20 Randall Morck, Andrei Shleifer, and Robert W. Vishny 177\
+
+\fs22 while 41 percent of firms expand their book debt by 20 percent or more.\
+Of those expanding equity shares by 10 percent or more, the median\
+ratio of proceeds to three years' worth of investment is 0.46, while the\
+mean is 0.81. The comparable numbers for those expanding debt by 20\
+percent or more are 0.44 and 0.75 respectively. These three-year pro-\
+ceeds-to-investment numbers are significantly lower than the one-year\
+numbers.\
+A key question in our empirical analysis is over which horizon to\
+estimate our growth rate regressions. They can be estimated over\
+relatively short time periods, such as single years, or over relatively long\
+time periods, such as three to four years. The problem with estimating\
+over one-year periods is that the regression would not capture delayed\
+changes in investment due to large changes in the firm's stock market\
+valuation or in fundamental variables. As a practical matter, the explan-\
+atory power of all variables is quite low when investment growth\
+equations are estimated annually.\
+On the other hand, as the horizon gets longer endogeneity problems\
+become worse. One potential problem is the feedback from investment\
+to sales discussed above. Another is that we move closer to estimating\
+an identity between sources and uses of funds, though we are still very\
+far from it. The right-hand side of our equation does not include\
+dividends, acquisitions, or accumulation of liquid assets. All things\
+considered, we prefer the three-year specification to the one-year\
+
+\fs20 specification.30\
+Regression of the Stock Market's Influence on Investment\
+
+\fs22 The basic regressions for nonoverlapping three-year periods are\
+presented in table 2. In these regressions, we use contemporaneous\
+fundamentals, financing variables, and stock returns (represented by\
+alpha) lagged one year. That is, we measure investment growth from\
+year t to year t + 3 and the stock return from year t - 1 to year t + 2.\
+All equations are estimated using a dummy variable for each three-year\
+time period. We have also estimated these regressions using industry-\
+period dummies. The results are not qualitatively different, but the\
+
+\fs18 30. In regressions run using annual data, we found extremely low 
+\fs16 R2 's 
+\fs18 even in equations\
+including both the stock returns and fundamental variables. For this reason, we proceed\
+to the three-year regressions.178 Brookings Papers on Economic Activity, 2:1990\
+
+\fs16 Table 2. Regressions of Growth in Real Investment on Selected Financial Variables,\
+Firm-Level Data over Three-Year Spans, 1960-87\
+
+\fs18 Independent variables\
+Cash New New\
+flow Sales share debt\
+Equation Alpha growth growth dummy dummy 
+\fs16 R2\
+2.1 0.525 ... ... ... ... 0.157\
+(32.7)\
+2.2 ... 0.182 0.851 ... ... 0.208\
+(12.0) (27.9)\
+2.3 0.331 0.126 0.707 .. 
+\fs14 ... 
+\fs16 0.246\
+(20.1) (8.4) (23.1)\
+2.4 ... 0.190 0.725 0.155 0.350 0.224\
+(12.7) (22.7) (4.3) (11.8)\
+2.5 0.323 0.136 0.594 0.123 0.333 0.260\
+(19.7) (9.1) (18.7) (3.5) (11.5)\
+2.6 0.328 0.125 0.686 0.133 . 
+\fs12 . 
+\fs16 . 0.248\
+(19.9) (8.3) (22.1) (3.7)\
+2.7 0.325 0.138 0.613 . 
+\fs12 . 
+\fs16 . 0.336 0.259\
+(19.9) (9.2) (19.5) (11.6)\
+
+\fs12 Source: Authors' own calculations using COMPUSTAT and CRSP data bases with 7,950 observations from 1963-\
+87. See table 1 for an explanation of variables. The numbers in parentheses are t-statistics.\
+
+\fs22 abnormal stock return does have noticeably lower incremental explan-\
+atory power. Omitting the industry-period dummies leaves more room\
+for relative stock returns across sectors to predict differences in invest-\
+ment growth.\
+Equation 2.1 confirms the basic starting point of this paper-that\
+stock returns predict investment. The parameter estimate suggests that\
+a 10 percent excess return on a firm's stock over three years predicts an\
+average 5.3 percent increase in annual investment by the end of the three\
+years. The t-statistic is quite large, which is to be expected with this\
+many observations. The explanatory power of this regression is 15.7\
+percent (13.1 percent without time-period dummies)-a respectable 
+\fs20 R2\
+
+\fs22 for relative stock returns, but less impressive considering that the stock\
+return variable picks up the effect of any omitted fundamental variables.\
+Equation 2.2 shows that our two fundamental variables, sales growth\
+and cash flow growth, can explain 20.8 percent of the variation in\
+investment over a three-year period. Both variables are significant: a 10\
+percent growth in sales is associated with an 8.5 percent growth in
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 179\
+
+\fs22 investment over three years; a 10 percent growth in cash flow leads to a\
+1.8 percent growth in investment.\
+Equation 2.3 represents one test of the hypothesis that the stock\
+market influences investment beyond its ability to predict future funda-\
+mentals, since the equation includes contemporaneous fundamentals\
+together with the lagged stock return. Not surprisingly, the coefficient\
+on alpha drops by about 40 percent from its level in equation 2.1. When\
+future fundamentals are held constant, the responsiveness of investment\
+to lagged stock returns is significantly smaller. The incremental 
+\fs20 R2 
+\fs22 of\
+equation 2.3 is only 3.8 percent relative to that of equation 2.2. The\
+lagged abnormal return explains only 3.8 percent of the variation in\
+investment beyond what can be explained by fundamentals. This incre-\
+mental R2 is an estimated upper bound on how much investor sentiment\
+toward individual stocks can affect investment.3' Presumably, if we\
+could measure and include other fundamental determinants of invest-\
+ment in the regression, the incrementalR2 would be even smaller. Simply\
+by including the available crude measures of fundamentals, we can cut\
+down the incremental explanatory power of relative stock returns by\
+more than 70 percent, which seems to indicate that their ability to predict\
+investment is largely based on their correlation with future fundamentals.\
+The comparison of equations 2.2 and 2.3 illustrates the general finding\
+of this paper. The coefficient on the abnormal return, controlling for the\
+fundamentals, is both statistically and economically significant. A 30\
+percent abnormal stock return over three years, which is large but not\
+unusual, is associated with a 10 percent extra growth in investment over\
+three years. So high stock returns indeed predict high investment. At\
+the same time, because investment is so volatile, the incremental\
+explanatory power of the stock market is typically small; in this case it\
+is only 3.8 percent. Thus, variation in relative market valuation across\
+firms and sectors cannot account for much of the variation in investment.\
+Although equation 2.3 shows that lagged stock returns do not explain\
+much of the variation in investment, it does not distinguish between the\
+
+\fs18 31. This interpretation depends on our treating the fundamentals from equation 2.2 as\
+the primary explanatory variables. Absent these priors, it would be just as appropriate to\
+interpret the incremental R2 when fundamentals are added to equation 2.1 as the indepen-\
+dent contribution of the fundamentals. This would leave the upper bound on possible\
+independent effects from stock prices and investor sentiment uncertain.
+\fs20 180 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 financing and the market pressure hypotheses. Equations 2.4-2.7 present\
+some results using financing variables. Equation 2.4 shows that both\
+contemporaneous stock and bond financing are positively correlated\
+with investment. Firms that expand outstanding shares by 10 percent or\
+more over three years on average show 16 percent higher investment\
+growth than firms that do not expand their shares by so much, whereas\
+firms that make a 20 percent or more bond issue on average show 35\
+percent higher investment growth. These magnitudes are fairly large,\
+and the coefficients are estimated fairly precisely. The incremental 
+\fs20 R2 
+\fs22 of\
+this regression, relative to equation 2.2 with fundamentals alone, is 1.6\
+percent. So financing can explain a bit more of the variation in investment\
+than fundamentals alone. Presumably, the explanatory power of relative\
+stock returns for investment through financing is a strict subset of this\
+explanatory power.\
+Equation 2.5 adds the lagged stock return to equation 2.4. These\
+results indicate that the stock market influences investment beyond its\
+influence on financing, consistent with the faulty informant and market\
+pressure hypotheses. At the same time, the incremental 
+\fs20 R2 
+\fs22 of this\
+equation relative to equation 2.4 is only 3.6 percent. There is not much\
+room for investor sentiment to predict investment.\
+One interesting question is how much of the explanatory power of the\
+financing variables comes from share issues and how much from debt\
+issues. Equations 2.6 and 2.7 address this question. Equation 2.6 shows\
+that, with the debt dummy omitted, the 
+\fs20 R2 
+\fs22 drops from 0.26 to 0.25, and\
+equation 2.7 shows that, with the equity dummy omitted, the 
+\fs20 R2 
+\fs22 does\
+not really drop at all. Debt financing explains a greater fraction of\
+the variation in investment than equity financing. Since stock returns\
+presumably exert a greater influence on stock than on bond financing,\
+this result does not bode well for the importance of the financing view of\
+the stock market's impact on investment.\
+
+\fs20 Interpretations and Alternative Specifications\
+
+\fs22 The small incremental explanatory power of stock market variables,\
+controlling for fundamentals, suggests that either the market does not\
+matter much or we have misspecified the regressions. We have already\
+mentioned that in some ways our incremental R2 overstates the incre-\
+mental explanatory power of the stock market, since some fundamental
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 181\
+
+\fs22 determinants of investment have been left out of the regression. We\
+have tried adding further measures of fundamentals, such as more lags\
+on cash flow and sales growth, but these do not seem to help explain\
+investment or reduce the explanatory power of returns.\
+There are also reasons why the stock market may be more important\
+than we estimate. First, we may have used the wrong lag structure-the\
+stock market may anticipate investment at either a longer or shorter\
+horizon than we specified in table 2. We have experimented with several\
+alternative lag structures. When the stock return is contemporaneous\
+
+\fs20 with the fundamentals, using alpha from t to t + 3 rather than t - 
+\fs22 1 
+\fs20 to\
+
+\fs22 t + 2, the 
+\fs20 R2 
+\fs22 for equation 2.1 is 0.12, and for equation 2.3 is 0.23. We\
+have also allowed for returns to be measured over a longer period and\
+with longer lags, but the incremental 
+\fs20 R2 
+\fs22 for the stock return is always\
+lower than in table 2. Another possibility is to break up the three-year\
+return into its component parts so that the return from t - 1 to t + 2 is\
+
+\fs20 replaced by the returns from t - 
+\fs22 1 
+\fs20 to t, from t to t + 1, and from t + 
+\fs22 1\
+to t + 2. This change actually does raise the explanatory power of stock\
+returns, but only slightly; the 
+\fs20 R2 
+\fs22 in the analog of equation 2.3 rises by a\
+small amount. None of our alternative specifications of the effect of\
+relative stock returns on investment has noticeably more explanatory\
+power than the one we report in table 2.\
+Second, we may have underestimated the effect of the stock market\
+by focusing only on relative stock returns and by using time-period\
+dummies instead of the return on the aggregate stock market over time.\
+We discuss the effects of the aggregate stock market at a later point in\
+the paper. Here we report what happens when we substitute the return\
+on the value-weighted stock market for time dummies.32 The marginal\
+explanatory power of the aggregate stock return in these equations is\
+quite low. The 
+\fs20 R2 
+\fs22 in equation 2.3, without time dummies, rises by only\
+0.2 percent when the aggregate stock market is added to the regression.\
+This finding makes sense if variation in investment growth in response\
+to idiosyncratic factors accounts for most of the variation of investment\
+in the pooled time-series/cross-section data.\
+As we discussed above, we are also concerned that stock returns\
+drive the sales-cash flow process and that the effect of stock returns is\
+therefore larger than the effect implied by its incremental explanatory\
+
+\fs18 32. We use the value-weighted index developed by the Center for Research in Security\
+Prices (CRSP) at the University of Chicago.182 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 power over and above fundamental variables. Most importantly, the\
+stock market may be influencing sales through investment. In our view,\
+the data do not much support this possibility. One reason is that the\
+coefficient on sales growth seems too low to be driven by feedback from\
+investment to sales. The point estimates in table 2 indicate that a doubling\
+of sales over three years is associated with a roughly 70 percent increase\
+in investment. Given that the average ratio of investment to the capital\
+stock is 8 percent, this means that a 70 percent increase in investment\
+roughly corresponds to raising the capital stock by an additional 5.6\
+percent each year. Over three years, the capital stock would grow 17\
+percent. Hence over three years a doubling of sales is associated with a\
+17 percent increase in the capital stock. This seems to us to be too large\
+an effect on sales to be driven by the increased investment itself.\
+Another piece of evidence against the investment to sales feedback is\
+the following. If autonomous changes in investment feed into sales and\
+largely account for the correlation between sales and investment, then\
+sales should not explain the same variation in investment as the stock\
+market. More plausibly, both increased sales and a high stock return are\
+associated with widely recognized investment opportunities; therefore,\
+they both explain much of the same variation in investment.\
+Finally, the observed weak relation between external financing and\
+investment along with the weak correlation between stock returns and\
+external financing represents more direct evidence that external financ-\
+ing, the most plausible mechanism for stock returns to affect investment,\
+does not appear to be important.\
+We should also briefly mention that we ran regressions in which\
+investment growth is measured over a four-year period. In these regres-\
+sions using time period dummies, the 
+\fs20 R2 
+\fs22 of the stock market alone is 17.5\
+percent, that of fundamentals alone is 22.9 percent, and that of the\
+market and fundamentals together is 26.5 percent. The market again has\
+a small incremental 
+\fs20 R2. 
+\fs22 The incremental explanatory power of the\
+financing variables is less than 2 percent.\
+The financing hypothesis predicts that the influence of the stock\
+market should be particularly great for smaller firms, which rely to a\
+greater extent on external financing. One could also imagine that the\
+smaller firms are more sensitive to pressure from the stock market. To\
+examine these issues, we have reestimated our three-year regression for\
+"small" firms. We define a firm as "small" if, when it entered COM-
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 183\
+
+\fs16 Table 3. Regressions of Growth in Real Investment for Small Firms on Selected\
+Financial Variables, Firm-Level Data over Three-Year Spans, 196087a\
+
+\fs18 Independent variables\
+Cash New New\
+flow Sales share debt\
+Equation Alpha growth growth dummy dummy 
+\fs16 R2\
+3.1 0.412 ... ... ... ... 0.134\
+(13.4)\
+3.2 ... 0.166 0.773 ... ... 0.177\
+(5.6) (12.0)\
+3.3 0.245 0.120 0.648 ... 
+\fs14 ... 
+\fs16 0.199\
+(7.6) (4.0) (9.8)\
+3.4 ... 0.170 0.619 0.218 0.459 0.196\
+(5.8) (9.2) (2.6) (6.4)\
+3.5 0.234 0.127 0.511 0.158 0.449 0.216\
+(7.3) (4.3) (7.5) (1.9) (6.4)\
+3.6 0.238 0.118 0.628 0.175 . 
+\fs12 . 
+\fs16 . 0.201\
+(7.3) (4.0) (9.4) (2.1)\
+3.7 0.240 0.128 0.528 . 
+\fs12 . 
+\fs16 . 0.453 0.215\
+(7.5) (4.4) (7.8) (6.4)\
+
+\fs12 Source: Authors' own calculations using COMPUSTAT and CRSP data bases with 2,042 observations every third\
+year from 1963-87. See table I for a description of the variables. The numbers in parentheses are t-statistics.\
+a. A firm is classified as "small" if it falls in the bottom quintile of all COMPUSTAT firms in terms of the market\
+value of equity the first year it entered the survey.\
+
+\fs22 PUSTAT, it fell in the bottom quintile of all COMPUSTAT firms\
+measured by the market value of equity. This definition ensures that we\
+do not make our classification based on in-sample performance. Table 3\
+presents the results. Overall, "small" firms do not appear to be very\
+different from the rest of the sample. The stock market by itself explains\
+13.4 percent of the variation in investment-less than in the whole\
+sample. Fundamentals explain 17.7 percent of the variation in invest-\
+ment, compared to 20.8 percent in the whole sample. This is not\
+surprising, since for smaller firms the more distant fundamentals are\
+probably a more important determinant of investment. The incremental\
+
+\fs20 R2 
+\fs22 of the stock market, once fundamentals are controlled for, is 2.2\
+percent, compared to 3.8 percent in the whole sample. There is no\
+evidence that the stock market is a more important predictor or deter-\
+minant of investment for "small" firms.\
+The fundamental and financing variables together explain 19.6 percent\
+of the variation in investment. Interestingly, the coefficients on both the\
+equity and debt financing dummies are larger than they are in the whole
+\fs18 184 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 sample, indicating the greater relative sensitivity of investment to\
+external financing for "small" firms. Financing variables add 2 percent\
+to the 
+\fs20 R2, 
+\fs22 adding relative stock returns adds another 2 percent. For\
+"small" firms, as for the whole sample, the faulty informant, financing,\
+and market pressure views of the stock market help explain the data,\
+but not a lot. As in the whole sample, most of the explanatory power of\
+financing comes from debt issues.\
+A final test concerns the market pressure view of the stock market\
+and investment. It has been argued that recently the stock market has\
+become a harsher judge of managerial performance, with the takeover\
+wave of the 1980s being a manifestation of its new role. The short\
+horizons of corporate managers reflect these stock market pressures. If\
+these views are correct, the sensitivity of investment to stock returns\
+should have increased in the 1980s, and the coefficient on alpha in later\
+years should be higher. We have tested this proposition and found no\
+evidence to support this idea. There is no trend in the coefficient on\
+alpha or in its marginal explanatory power over our sample period.\
+Financing Equations\
+We have established that there is a potential link from financing to\
+investment and from the stock market to investment holding financing\
+constant. We now look more closely at how responsive financing is to\
+abnormal stock returns. The analysis provides more detail on the link\
+between the stock market and investment, and sheds light on how much\
+investor sentiment may affect financing itself.\
+To address these issues, we estimate logit models in which the\
+dependent variables are the three-year financing dummy variables from\
+the previous section. The stock financing dummy is equal to 1 if the firm\
+increased its shares outstanding by over 10 percent. The debt financing\
+dummy is equal to 1 if the firm increased its debt by over 20 percent. In\
+the logits, we control for the growth of sales and cash flow, just as in the\
+investment equations. Our measure of return for each firm is alpha over\
+a three-year period, starting two years before the three-year issuing\
+period. For financing equations, this return measure provides the best\
+fit. The results of the logits are presented in table 4.\
+The results indicate that the probability of both debt and equity
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 185\
+Table 4. Financing Decisions of Firms over Three Years: Implied Probabilities\
+of Issuing Debt or Equity, Given Selected Abnormal Stock Returns\
+Value (and percentile) of alpha\
+0.02 0.47 1.16 1.84\
+(50th) (75th) (90th) (95th)\
+Implied probability\
+of issuing\
+Equity 0.172 0.186 0.207 0.230\
+Debt 0.365 0.376 0.393 0.411\
+Logit equations for\
+calculating probabilities\
+Cash Number\
+flow Sales in\
+Equation Issue Constant Alpha growth growth sample\
+4.1 Equity -1.670 0.200 0.060 0.840 7,774\
+(7.0) (1.9) (12.3)\
+4.2 Debt - 0.733 0.107 -0.227 1.860 7,971\
+(3.8) (7.6) (22.2)\
+
+\fs14 Source: Authors' own calculations using COMPUSTAT and CRSP data bases. See table I for description of\
+variables. The numbers in parentheses (bottom panel) are t-statistics. Given percentiles of alpha are chosen for\
+illustration; other variables are evaluated at their medians in equations 4.1 and 4.2.\
+
+\fs22 financing rises with fundamentals growth and abnormal market returns.\
+Using equation 4.1, at the median three-year alpha of 1.7 percent, we\
+find that the implied probability of an equity issue is 17.2 percent. That\
+probability rises to 20.7 percent at the 90th percentile alpha of 116\
+percent, and to 23.0 percent at the 95th percentile alpha of 184 percent.\
+We interpret these data to mean that the probability of an equity issue is\
+moderately, but not strongly, responsive to the prior stock return. To\
+get a 3.5 percent increase in the probability of an equity issue requires a\
+1 6 percent extra abnormal return over three years. Financing is sensitive\
+to prior stock returns, but just as with investment, the sensitivity is\
+weak. The results for bond issues are similar. At the median alpha, the\
+probability of an issue is 36.5 percent, which rises to 39.3 percent at the\
+90th percentile and 41.1 percent at the 95th percentile. The stock market\
+does not seem to have a strong effect on the frequency of either stock or\
+bond financing.\
+Though the frequency of external financing does not respond strongly\
+to stock returns, perhaps the size of issues (average dollar proceeds)\
+rises significantly when the firm's value rises. This effect may be
+\fs18 186 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 particularly important for equity issues because if the number of shares\
+issued is held constant, dollar proceeds are proportional to the value of\
+equity. We therefore turn to regressions in which we estimate the relation\
+between abnormal stock returns and money raised through debt and\
+equity financing. We normalize these proceeds by the firm's investment.\
+This allows us to calibrate the potential growth in investment that would\
+result if the entire amount of the higher proceeds from external financing\
+were devoted to additional investment. In this way, we can reconcile\
+our estimates of the effect of stock returns on investment with the effects\
+that can be attributed directly to financing.\
+Our analysis consists of separately regressing three-year proceeds\
+from debt, equity, and both combined between t - 3 and t (normalized\
+by the total amount of investment over the three years from t - 5 to\
+
+\fs20 t - 2) on abnormal returns from t - 5 to t - 2 (alpha) and sales and cash\
+
+\fs22 flow growth from t - 3 to t. These results are presented in table 5. As\
+expected, stock returns have a much larger effect on proceeds from\
+equity issues than on proceeds from debt issues.\
+The parameter estimate for alpha says that a 100 percent abnormal\
+increase in the share price is associated with an increase in average\
+equity proceeds equal to 14 percent of the three years' investment. On\
+the other hand, debt proceeds rise by only 5 percent of the three years'\
+investment. The effect on combined proceeds is 19 percent of three\
+years' investment. This implies that, assuming all additional proceeds\
+from external financing are used for investment, a 100 percent abnormal\
+return produces a 19 percent rise in investment over three years. The\
+effect on investment would be smaller if the firm used the proceeds to\
+pay higher dividends to existing shareholders, make acquisitions, or\
+accumulate liquid assets. If the high valuation and issuing opportunity\
+is viewed as temporary, the firm may spread out the proceeds over more\
+years and investment will rise by less.\
+It is interesting to contrast the potential financing effect on investment\
+based on these estimates with the parameter estimates for abnormal\
+returns in the three-year investment equations. Recall from equation 2.3\
+that, controlling for sales and cash flow growth, a 100 percent abnormal\
+return is associated with a 33 percent rise in annual investment over\
+three years. The upper bound on the financing effect estimated here is a\
+19 percent increase in investment. Thus, the impact of the financing\
+effect on investment appears to be smaller than our estimated upper
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 187\
+Table 5. Regressions of the Ratio of Financing to Investment on Selected Financial\
+Variables, Three-Year Spans, 1960-1987 
+\fs10 a\
+
+\fs18 Independent variables\
+Cash Number\
+flow Sales in\
+FinancinglInvestment Alpha growth growth sample R2\
+
+\fs16 5.3 Equity/Investment 0.142 0.023 0.369 7,495 0.153\
+(15.4) (2.4) (18.8)\
+5.4 Debt/Investment 0.052 -0.071 0.867 7,630 0.148\
+
+\fs18 (4.0) (5.3) (29.1)\
+5.5 (Debt + Equity)/Investment 0.189 -0.044 1.140 7,442 0.233\
+(12.1) (2.8) (32.7)\
+
+\fs14 Source: Authors' own calculations using COMPUSTAT and CRSP data bases. Regressions include time-period\
+effects. The numbers in parentheses are t-statistics.\
+a. The ratio is between the dollar proceeds from debt and equity issues made between time t and t - 3 and the\
+sum of investments made between time t - 5 and t - 2. Alpha is from t - 5 to t - 2 and sales and cash flow\
+growth are from t - 3 to t.\
+
+\fs20 bound for the explanatory power of stock returns in the investment\
+equations. At the same time, financing can plausibly account for a\
+significant part of the explanatory power of stock returns in the invest-\
+ment equations. The residual component could be due to market pressure\
+or faulty informant effects or to the ability of stock returns to explain\
+fundamentals that are not captured by our simple sales and cash flow\
+measures.\
+Taken together, the investment and the financing evidence do not\
+leave much room for the influence of investor sentiment. External\
+financing is not sufficiently sensitive to stock returns, and investment is\
+not well explained by external financing. It is hard to explain much of\
+the variation in investment through investor sentiment.\
+Aggregate Investment Equations\
+The results using firm-level data do not give relative stock returns\
+much of a role beyond forecasting fundamentals. One possible reason\
+for this result is that fads and fashions in the stock market are largely\
+marketwide. Therefore, we would expect the financing and market\
+pressure hypotheses to matter in the aggregate but not at the industry or\
+firm level. This possibility is not self-evident; one could well imagine\
+that financing would be particularly responsive to alphas rather than
+\fs18 188 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 marketwide returns. That is, if equity finance responds to extreme\
+overpricing of equities, we should see a large effect from the alphas. On\
+the other hand, theories of fads, such as those of Shiller and De Long\
+and others, suggest that investor sentiment is likely to be more pro-\
+nounced in the aggregate data.33 The issue is largely empirical. We\
+therefore test the influence of the stock market on investment in aggregate\
+data.\
+The appendix describes the data we use on investment, fundamentals,\
+and financing. The fundamentals that most clearly parallel the ones used\
+in the firm-level data are cash flow (after-tax corporate profits plus capital\
+consumption) and personal consumption expenditure. Personal con-\
+sumption expenditure on durables, nondurables, and services seems to\
+be the appropriate measure of final sales in the economy, which is our\
+proxy for the growth of demand. Our investment variable is fixed non-\
+residential investment, which excludes inventory investment. We use\
+annual data on most variables from 1935-88, excluding the war period\
+1942-46 as suggested by Robert Gordon.34 We exclude the early 1930s\
+because corporate profits were negative in some of these years. Our\
+equity finance variable is aggregated over all equity issues by all firms in\
+the data developed by the Center for Research in Security Prices (CRSP).\
+The debt finance variable is from the Federal Reserve. Unfortunately,\
+this variable starts in 1952; therefore, we rerun some of the regressions\
+starting in 1952 to utilize debt financing data. An interest rate variable,\
+the lagged change in yield on AAA corporate bonds, was also tried in\
+the list of fundamentals, but came in with the wrong sign and borderline\
+significance. The variable was dropped. As before, all regressions are\
+estimated in changes rather than levels.\
+Unlike the firm-level data, we have found that two lags of stock\
+returns as well as contemporaneous and lagged changes in fundamentals\
+help explain investment growth in the aggregate data. Accordingly, we\
+have adjusted the aggregate specifications to have one- and two-year\
+lagged stock returns, as well as contemporaneous and lagged growth of\
+consumption and cash flow. In addition, we allow for contemporaneous\
+and one-year lagged effects from the financing variables. Typically, only\
+the one-year lag is significant for the equity issues variable, while for the\
+
+\fs18 33. Shiller (1984); De Long and others (1990).\
+34. Gordon (1986).Randall Morck, Andrei Shleifer, and Robert W. Vishny 189\
+
+\fs22 debt issues variable only the contemporaneous component is significant.\
+Table 6 presents the results for the whole sample.\
+In the aggregate regression, the one- and two-year stock returns\
+together explain 33 percent of the variation in investment. Both are\
+statistically significant, with the coefficient on the one-year lagged return\
+significantly higher. Fundamentals together explain a substantial 81.3\
+percent of the growth rate of investment. The fact that consumption\
+growth is so strongly correlated with investment growth is not surpris-\
+ing-it comes out of any Keynesian multiplier model. Nonetheless, we\
+stress that the correlation in growth rates is by no means perfect, and a\
+significant amount of variation remains to be explained, possibly by\
+stock returns.\
+If investor sentiment affects the stock market and thus investment,\
+but 
+\fs20 not 
+\fs22 consumption, then we should expect the stock market to influence\
+investment even after controlling for consumption. On the other hand,\
+if the stock market works as a sunspot, coordinating agents' decisions,\
+this role would not be captured after controlling for consumption. We\
+test investor sentiment and not sunspot models. Our estimates should\
+not be interpreted as structural parameters; we are simply describing\
+quasi-reduced-form relationships between investment, financing, and\
+fundamental variables.\
+Equation 6.3 shows that the explanatory power of the stock market,\
+after we control for the fundamentals, is only 1.8 percent. Also, the\
+coefficients on lagged returns are no longer significant. The market\
+accounts for only 10 percent of the residual variation in investment,\
+which is much smaller than the 33 percent of variation that the market\
+explains by itself. The stock market appears to be more significant than\
+in the firm-level equations, but is not very important after controlling for\
+fundamentals. The coefficient on the stock market does not seem large\
+either. A 10 percent rise in the lagged market return leads to a O.8 percent\
+increase in investment growth, which is not very large. The inclusion of\
+the stock issues variable does not materially affect our conclusion; it is\
+insignificant and does not have much explanatory power of its own.\
+Given so small a role for the stock market, it is hard to see how the effect\
+of investor sentiment through financing, market pressure, or false signals\
+can be large.\
+The two alternative models of the stock market's impact on investment\
+are the passive and active informant views. James Stock and Mark
+\fs6 g o) 00 00 . . p!: _ X\
+
+\fs12 _~~00\
+
+\fs10 O O O O O X, Y =\
+yen\
+uco\
+
+\fs14 X ! is 
+\fs16 ? 
+\fs14 ^ 
+\fs16 . 
+\fs14 : 
+\fs16 _ 
+\fs14 s 
+\fs16 - 
+\fs14 > M 
+\fs16 -,\
+
+\fs10 00 0. ,4 c,> C';, 4as8\
+
+\fs18 E 
+\fs10 5 U 00 en CD C 
+\fs12 r\
+
+\fs10 _ 
+\fs8 r?QE\
+
+\fs14 o 
+\fs10 ] B ] 
+\fs14 't V) 
+\fs10 > 
+\fs14 ? >? 1 ivX 
+\fs10 Q 
+\fs14 2?\
+
+\fs12 >o S o\
+
+\fs6 X 
+\fs12 n E = X E 
+\fs20 l>F)~~~~~~~~~~~~~~~~~~~\
+
+\fs8 n 4 D > 'D XD u .> ZU L)\
+S
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 191\
+
+\fs22 Watson demonstrate that, as a leading indicator of output, the stock\
+market is dominated by a combination of other fundamental variables,\
+including interest rates.35 This finding means that managers do not need\
+the stock market to make investment decisions when they have other\
+fundamental data; if most explanatory power comes from fundamentals,\
+and managers do not need the stock market to predict them, then\
+managers do not need the stock market to make investment decisions.\
+This argument favors the passive informant view of the stock market.\
+An important exception is the sunspot version of the active informant\
+view. If the stock market informs investors and managers about which\
+equilibrium is at work, the market determines both future consumption\
+and investment. In this case, the stock market still plays an active role,\
+even though it does not help predict investment growth after controlling\
+for consumption growth. Our data do not enable us to distinguish the\
+sunspot active informant model from the passive informant model.\
+The results in table 6 suggest that the role of the stock market, beyond\
+its ability to predict fundamentals, is limited. Nonetheless, we try to\
+evaluate how well financing explains investment. As noted above, our\
+equity financing variable does not explain much. As for debt finance, we\
+must look at the post-1952 sample. Table 7 reports the results for the\
+post-1952 period. For this period, the 
+\fs20 R2 
+\fs22 for stock returns alone is 31.0\
+percent, that for fundamentals alone is 67.4 percent. The incremental 
+\fs20 R2\
+
+\fs22 for the market, after controlling for fundamentals, is a much higher 7.3\
+percent, which may mean more room for investor sentiment to influence\
+investment.\
+Equation 7.4 shows that when the equity issues variable is included\
+in an equation with the fundamentals, it adds 2.6 percent to the 
+\fs20 R2 
+\fs22 and is\
+positive and nearly significant. When 10 percent more firms issue equity\
+in excess of 5 percent, investment grows on average 1.5 percent faster.\
+The debt issue variable alone adds 3.8 percent to the 
+\fs20 R2 
+\fs22 and is negative\
+and statistically significant. Debt financing is high when investment is\
+slowing down. Debt seems to be used to smooth investment so that in a\
+recession, when cash flow falls sharply, investment does not fall as\
+sharply. The sign on debt finance is different from that in firm-level data,\
+which can be explained if debt is used to smooth cyclical variation in\
+investment but not idiosyncratic variation in investment. Together, the\
+stock issue and debt financing variables have an incremental 
+\fs20 R2 
+\fs22 of 9.5\
+
+\fs16 35. Stock and Watson (1990).a;~~~~'t 
+\fs10 C)\
+?c\
+0\
+s b o\
+
+\fs18 ,c;\
+
+\fs10 m\
+
+\fs12 - tJ - - 
+\fs10 m 
+\fs12 - D 
+\fs20 ~~~~~CZ\
+
+\fs10 @ . . . . . . . . . . . . . C\
+
+\fs14 0~~en\
+
+\fs18 a2 e\
+
+\fs26 s~ 
+\fs24 ~~~O 
+\fs22 v: 
+\fs24 tt ON ) 00 
+\fs26 o) 
+\fs22 j 
+\fs30 o\
+
+\fs10 =0S\
+(- CZ R r\
+
+\fs12 _ 
+\fs24 ~~~~~~ 
+\fs12 co\
+W)0 < 
+\fs10 aN??_-, >V >oG\
+
+\fs8 'S _ _ _ _ _ _ _ 
+\fs16 ~C 
+\fs8 W) - 7 C U\
+
+\fs20 C.)~~~~~~~~~~~~~~~~~~ 
+\fs8 C$ )\
+00 
+\fs24 ~ ~~~~~~~~~~~~ 
+\fs8 0 ON C\
+
+\fs12 on\
+
+\fs10 d _ 00 _ O __ t _ < C 0 0 0_ .O 
+\fs14 co\
+
+\fs10 0 _ 0\
+
+\fs12 C\
+'= 
+\fs22 ~~~~~~~~~~~~~~~~~~~0 
+\fs12 W *\
+
+\fs8 \\,C\
+08 _, m_ C14 _1 r- C, 0 en 08 O\
+
+\fs10 CMO= Cd\
+
+\fs20 \\C~~~~~~~~ 
+\fs10 ON en '0\
+S:: 
+\fs8 < X 0 
+\fs20 5,:~~~~~~~~~~~~~~~~~.
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 193\
+
+\fs22 percent, which is much higher than in firm-level data. When the stock\
+market is added to the equation with both fundamentals and financing\
+variables, its incremental 
+\fs20 R2 
+\fs22 is 3.4 percent and the coefficients are\
+borderline significant. Thus, the stock market net of financing matters\
+little.\
+The incremental 
+\fs20 R2 
+\fs22 from the stock market when financing variables\
+are excluded is 7.3 percent; it is only 3.4 percent when financing variables\
+are included. The stock market and financing variables, especially debt\
+financing, are explaining the same variance, consistent with the financing\
+view of the stock market. The trouble is that the coefficient on the debt\
+financing variable is negative, so that it is not possible to tell the story\
+that increases in stock prices make debt financing cheaper, more debt is\
+issued, and investment rises. The equity version of the financing view\
+receives a little more support from the data, but its role seems limited.\
+When the equity financing variable is included, the incremental explan-\
+atory power of the stock market is still 6.4 percent, which is not much\
+below 7.3 percent, the incremental explanatory power of the stock\
+market over and above fundamentals alone. Finally, the fairly low\
+incremental 
+\fs20 R2 
+\fs22 from stock prices when financing variables are included\
+shows that the market pressure view and faulty informant view of the\
+stock market are not particularly important either.\
+As one final test of the potential impact of investor sentiment on\
+investment, we included a measure of the change in the discount on\
+closed-end funds.36 The coefficients on this variable, which we lagged\
+like the stock market, were not significant when the stock market was\
+included in the regression. This means that either discounts on closed-\
+end funds are a poor measure of sentiment or, in keeping with the rest\
+of our findings, investor sentiment does not affect investment.\
+In summary, the stock market appears to have greater incremental\
+explanatory power, after controlling for fundamentals, in aggregate\
+equations than in firm-level equations, though its independent role is\
+still quite limited. Before the financing variables are added, the market\
+has an incremental 
+\fs20 R2 
+\fs22 of over 7.0 percent over the post-1952 subperiod,\
+although it is only 1.8 percent over the full period. This is respectable\
+given that fundamental variables alone explain around 70 percent of the\
+variation in investment. Once financing variables are added, however,\
+
+\fs18 36. Some research indicates that discounts are a plausible measure of investor\
+sentiment. See appendix for full description of this variable.194 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 the incremental explanatory power of the market falls to about 3 percent\
+in the post-1952 sample. This result does not support the financing view\
+of the stock market, since the coefficient on the debt finance variable,\
+while significant, is of the wrong sign. The results imply a fairly small\
+residual role for the stock market beyond its ability to predict fundamen-\
+tals. The two hypotheses that best fit the data are the.passive informant\
+hypothesis and the sunspot version of the active informant hypothesis.\
+Aggregate Financing Equations\
+In this section, we briefly present some financing equations using the\
+aggregate data. Since the channel from the stock market to financing and\
+from financing to investment did not appear to be important, these results\
+will tell us little more about financing and investment. However, the\
+results may shed light on financing decisions and their relationship to\
+stock returns.\
+Table 8 presents three sets of results: for stock financing over the\
+whole period, for stock financing starting in 1952, and for debt financing.\
+From CRSP, our stock financing variable is the proportion of firms that\
+expand their outstanding shares (other than splits and stock dividends)\
+by 5 percent or more. We construct our own aggregate series directly\
+from the firm-level data. For the debt variable, we use debt issues by\
+nonfinancial corporations as a fraction of their outstanding liabilities, a\
+series that is available from the Federal Reserve.\
+The financing equations show that stock returns are borderline\
+significant in predicting stock financing, and not at all significant in\
+predicting debt financing. In the full sample, a 10 percent higher stock\
+return leads to a 0.3 percent increase in the fraction of firms that issue\
+equity. The R2 in the equation with stock returns alone is minuscule, but\
+the incremental 
+\fs20 R2 
+\fs22 from the stock market, once fundamentals are\
+controlled for, is 2.9 percent for stock financing in the whole sample, 1.3\
+percent for stock financing since 1952, and 1.9 percent for bond financing\
+with a negative coefficient. The results are consistent with a weak stock\
+market effect on equity financing, although it is hard to believe that the\
+investor sentiment component of that return has a big effect on invest-\
+ment once all is said and done.\
+Debt financing responds negatively to the growth of after-tax profits,
+\fs20 O~~~~~~c 
+\fs12 kf O N rl cq IC \\C l-) 
+\fs6 k4r)\
+
+\fs10 Q2\
+
+\fs20 ~~~~~~~~~~~~cxS 
+\fs10 enV) 'S\
+
+\fs12 a ? 
+\fs10 S 
+\fs12 < 
+\fs10 . . . 
+\fs12 : : 
+\fs10 t 
+\fs6 t 
+\fs14 U3 ?>, > , m 
+\fs6 o 
+\fs22 >;~~~~~~~~~~~~~~\
+
+\fs10 m t w 9 OONO 
+\fs22 0,0~~~~~~~~~~~~~~~~~
+\fs10 C O\
+
+\fs12 v < S; ?e Y Q r 
+\fs20 rC~~~~~~~~~~~~~~~~~~~(;N,c\
+
+\fs8 2 t0DC\
+
+\fs22 V~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~C 
+\fs12 -i0,\
+
+\fs14 .=~ 
+\fs24 ~ 
+\fs22 ~~~~~~~~~~~~~~r\
+
+\fs10 cnC)\\C(1\
+00_0__0__0 0_0_ ,Cr\
+
+\fs20 tv 
+\fs12 C-4 
+\fs10 D) 
+\fs8 O\
+
+\fs12 @ , nC e 
+\fs16 '=oz~~~\
+
+\fs10 = tv =Y 
+\fs22 v~~~~~~~~~~~~~~\
+
+\fs6 * 1_ * * * t _s _ _t _m _O _oo _? _N _s Ez o 
+\fs20 ,c;~~~~~~~~~~~~~~c\
+Wq~~~~~~~~~~~~~r 
+\fs10 kr "z r- C) kr\
+krD N Ot t CN kr O - en 00 Q=?\
+
+\fs20 =1~~~~~~ 
+\fs10 "I\
+Ot O 't O) "t *) * 
+\fs8 en?^ 
+\fs10 C> ? C)\
+? ? V- C) 
+\fs8 Erc3\
+
+\fs22 _~~~~~~~~c 
+\fs14 cc; 
+\fs16 (- C;66\
+
+\fs20 su-~~~~~~~~~~~~~r 
+\fs10 00 (Z >c\
+
+\fs8 Yq\
+
+\fs22 M/S~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+\fs8 tv.X CZ O\
+
+\fs12 O | 
+\fs2\fsmilli1434 a 
+\fs26 >t 
+\fs10 >\
+t-=0 
+\fs12 0 
+\fs10 > >t 
+\fs12 0 
+\fs10 0- 
+\fs12 0 0 -0mrQ*\
+
+\fs20 /V~~~~~~~~~7 
+\fs8 (7\
+
+\fs6 1_ 
+\fs8 _n O CN w w 
+\fs6 (O\
+
+\fs8 l-0 
+\fs6 C,\\ 
+\fs8 - 
+\fs14 _T 
+\fs8 _\
+CZ\
+)\
+
+\fs4 = X R X X X X X X X X X X X X\
+
+\fs6 n~>,k) 
+\fs4 >-
+\fs18 196 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 indicating that debt is used to smooth cash flows. Debt financing is also\
+negatively correlated with lagged stock returns, and positively, but not\
+significantly, with consumption growth. These results are consistent\
+with our conjectures. During recessions, which follow low stock returns\
+and exhibit low cash flow growth, companies issue debt to obtain cash.\
+By doing so, they attenuate the declines in investment that would be\
+even greater without debt finance. This story implies that debt finance is\
+negatively correlated with investment growth in the aggregate data, even\
+though debt finance actually keeps investment from falling even more.\
+These results also support our earlier conjecture that the financing view\
+of the stock market does not hold where debt is concerned-the need\
+for funds determines when companies will issue debt, not the level of\
+stock returns.\
+The preceding analysis pertains to the financing practices of compa-\
+nies already made public. It suggests that the stock market does not\
+significantly influence the investment of these companies through fi-\
+nancing, and that the market does not have a large impact on financing\
+itself. This does not mean, however, that the stock market is a complete\
+sideshow. It is important to remember that the stock market can be a\
+key source of financing for new companies. Although we do not have\
+the data to analyze new companies' investment, we do have data on the\
+annual number of initial public offerings (IPOs) in the United States\
+between 1960 and 1987, and can examine whether IPOs respond to stock\
+returns and closed-end fund discounts.\
+The results are presented in table 9. Because the regressions are partly\
+specified in levels, we test for linear and exponential trends and detrend\
+accordingly. In the end, we regress the annual number of IPOs, which\
+has been linearly detrended, on the CRSP value-weighted real stock\
+market index, which has been exponentially detrended; on the value-\
+weighted discount on closed-end funds (which does not have a significant\
+trend); on the two-year growth of real personal consumption; and on the\
+two-year growth of real after-tax corporate profits.\
+Equation 9.1 shows that both the market index and the value-weighted\
+discount significantly explain the pace of IPOs, and together they explain\
+44 percent of the time series variation in the number of IPOs. This is a\
+better fit than for any other financing or investment equation from stock\
+market variables. The coefficient on the market index shows that as it\
+rises from a median value of 134 to its 90th percentile value of 179, the
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 197\
+
+\fs16 Table 9. Regression of the Detrended Number of Initial Public Offerings on Detrended\
+Aggregate Financial Variables, 1960-87\
+
+\fs18 Growth\
+Discount Growth in in\
+Stock on closed- personal corporate\
+Equation Constant indexa end funds" consumptionc profitsc R2\
+
+\fs16 9.1 -299 3.96 - 10.30 
+\fs14 ... ... 
+\fs16 0.441\
+(2.61) (1.95)\
+9.2 - 150 
+\fs14 ... ... 
+\fs16 4,617 -796 0.300\
+(2.55) (3.18)\
+9.3 -311 3.79 -8.10 363 - 222 0.462\
+(1.88) (1.37) (0.15) (0.70)\
+
+\fs12 Source: Authors' own calculations using U.S. Department of Commerce data and the CRSP data base. The sample\
+includes 28 observations. The numbers in parentheses are t-statistics.\
+a. Stock index is the exponentially detrended level of the real CRSP value-weighted stock market index.\
+b. The level of discount on closed-end funds is the year-end average discount on a portfolio of closed-end funds,\
+from Lee, Shleifer, and Thaler (1990) for 1965-85, using a portfolio of 18 funds. For 1930-64 and 1986-89, five funds\
+are used: Adams Express, General American, Lehman, Niagara Shares, and Tricontinental.\
+c. Corporate profits and consumption are described in table 6. Here, as in table 8, we use two-year growth in\
+profits and consumption as the independent variable.\
+
+\fs22 number of annual IPOs rises by 178, which is equivalent to rising from\
+the median to roughly the 80th percentile of the number of IPOs. In\
+contrast, when the closed-end fund discount rises from its 50th percentile\
+value of 11.1 percent to its 90th percentile value of 17.8 percent, the\
+number of IPOs falls by about 70. On this metric, the pace of IPOs is\
+about 2.5 times more responsive to the value-weighted index than it is\
+to the discount variable, but the fact that both are significant suggests\
+that investor sentiment, as proxied by the closed-end fund discount,\
+affects IPOs.\
+Equation 9.2 shows that the fundamental variables together have an\
+
+\fs20 R2 
+\fs22 of 30 percent, which is smaller than that of the stock market variables.\
+Equation 9.3 shows that, after controlling for fundamentals, the value-\
+weighted index remains significant and its coefficient loses little of its\
+value. The coefficient on the closed-end fund discount does not change\
+much either, but becomes much less significant. The incremental 
+\fs20 R2\
+
+\fs22 from the two market value variables is 16 percent, which is higher than\
+we have seen elsewhere. In sum, the stock market itself and the closed-\
+end fund discount, as a measure of sentiment, appear to influence initial\
+public offerings both on an absolute scale and relative to their influence\
+on equity and debt financing of seasoned firms. In the IPO market,\
+investor sentiment may very well be important. Unfortunately, the
+\fs18 198 Brookinigs Papers on Economic Activity, 2:1990\
+
+\fs22 strength of our conclusions is limited by the short time series we have\
+on IPOs.\
+Conclusions\
+This paper was motivated by the concern, present in both public\
+policy discussions and in the economics literature, that the stock\
+market's deviant behavior has real consequences for the economy. Is\
+the stock market a sideshow, or does it instead direct investment,\
+perhaps erratically? We have tried to evaluate empirically whether the\
+stock market has a large, independent influence on investment using\
+both firm-level and aggregate data.\
+The firm-level regressions show that movements in relative share\
+prices are associated with fairly large and statistically significant invest-\
+ment changes when fundamentals are held constant, but the incremental\
+
+\fs20 R2 
+\fs22 from relative stock returns is fairly small. The cross-sectional varia-\
+bility of investment is sufficiently large that relative stock returns can\
+account for only a small part of it. We have argued that the explanatory\
+power of relative stock returns for investment is unlikely to be evidence\
+that the stock market provides new information to managers, since\
+managers probably learn little from the market about their own firms'\
+idiosyncratic prospects. We have also provided evidence that the relation\
+between relative stock returns and investment is not driven by the costs\
+of external financing. The explanatory power of relative stock returns\
+for investment may be evidence of the market exerting pressure on\
+managers, although it also seems likely that the market is picking up the\
+effect of imperfectly measured fundamentals. By simply including the\
+contemporaneous growth rate in cash flow and sales we are able to\
+reduce the explanatory power of relative stock returns from 13 percent\
+to 4 percent. In any event, the 4 percent incremental 
+\fs20 R2 
+\fs22 from the return\
+is small relative to what we expected. It suggests that even if the market\
+does exert pressure on managers (or even inform them), it is not a\
+dominant force in explaining why some firms invest and others do not.\
+In some respects, the firm-level evidence is much more important for\
+policy discussions than the aggregate evidence. The allocation of capital\
+across firms and sectors strikes us as more important than the timing of\
+business cycles and the allocation of investment over time. The fact
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 199\
+
+\fs22 that, in the firmi-level data, the stock market has small explanatory power\
+for investment, beyond its ability to predict fundamentals, suggests that\
+complaints about the misallocation of resources due to the stock market\
+may be exaggerated. For if managers respond strongly to the market's\
+whims about their firms and that is a pervasive problem, we would\
+expect these whims to explain a larger part of the variation in investment.\
+The market may not be a complete sideshow, but nor is it very central.\
+The aggregate evidence speaks to the issue of allocation of capital\
+over time. High stock prices can lead to high investment through low\
+financing costs, and by signaling good economic times, thus encouraging\
+managers to invest. Such encouragement can be misleading, as when\
+sentiment leads corporate managers astray, or can be self-fulfilling, as\
+when the market acts as a sunspot.\
+Our aggregate evidence rejects the importance of the financing effect\
+of stock prices for seasoned firms. There is no evidence that high returns\
+lead to significantly more equity or debt financing; in fact, debt financing\
+is low following high stock returns. We have also found substantial\
+evidence against the view that the stock market acts as a faulty informant\
+about future activity. Controlling for fundamental and financing varia-\
+bles, the incremental 
+\fs20 R2 
+\fs22 from stock returns is 2 to 3 percent, and the\
+coefficients are borderline significant. Incidentally, the fundamental\
+variables that make the stock market redundant as a predictor go only\
+as far as one year ahead. The notion that the stock market evaluates\
+
+\fs18 long-term 
+\fs22 prospects of the economy, and so guides long-term invest-\
+ment, is not supported by the data.\
+Two views of the stock market are consistent with the aggregate data.\
+The first is the passive informant view, which says that the stock market\
+simply captures information that people already know, and does not\
+direct investment. The second view is that the stock market is the key\
+sunspot, coordinating the investment decisions of corporate managers,\
+which are then justified by the resulting boom or recession. Importantly,\
+there is nothing irrational about the stock market in this case, it just\
+determines which of the possible multiple equilibria is at work. The first\
+view seems more appealing for several reasons. First, there is the Stock\
+and Watson finding that the stock market gets knocked out as a predictor\
+of the short-run future course of the economy once other predictors are\
+included in regressions. One could argue that the stock market is the\
+first sunspot and everything else follows, but this may be stretching it a
+\fs20 200 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 bit. Second, in episodes such as the late 1920s and post-October 1987\
+corporate managers have largely ignored this sunspot. Overall, a fair\
+reading of the evidence is that the stock market is a sometimes faulty\
+predictor of the future, which does not receive much attention and does\
+not influence aggregate investment.\
+An important exception to this finding is the evidence from the initial\
+public offerings data, where both the stock market index and the discount\
+on closed-end funds help predict the pace of new offerings. This evidence,\
+though limited by the lack of data, suggests that in the market for new\
+issues, the stock market and investor sentiment matter. It could still be\
+that market conditions affect only the timing of IPOs, and not their\
+volume over time. On the other hand, it could be that in low markets\
+good ideas die because they cannot be financed. The effect of investor\
+sentiment on the new issues market is an important area for further\
+research.\
+
+\fs18 APPENDIX\
+
+\fs28 Description of Data\
+
+\fs18 IN 
+\fs14 THE APPENDIX 
+\fs20 we 
+\fs22 describe the sources of our data and the methods\
+used to calculate our variables.\
+Firm-Level Data\
+Investment: "Capital expenditures" are from annual statement of changes\
+in financial position, from COMPUSTAT data base, 1959-87, including\
+COMPUSTAT Research File; acquisitions are not included; observa-\
+tions with growth rates above 1,000 percent are excluded as outliers for\
+this and all the other variables.\
+Sales: From COMPUSTAT, 1959-87.\
+Cash flow: Net income plus depreciation, from COMPUSTAT, 1959-\
+87.
+\fs20 Randall Morck, Andrei Shleifer, and Robert W. Vishny 201\
+Net debt issues: ABook debt, divided by book debt, I, from COMPUS-\
+TAT, 1959-87.\
+
+\fs22 New share issues: Sale of common equity divided by the beginning-of-\
+year total market value of common equity, from COMPUSTAT, 1971-\
+87; where above was missing, including between 1959 and 1970, sale of\
+common equity is estimated from change in the number of shares\
+outstanding reported in CRSP, filtering out changes due to liquidation,\
+rights offering, stock splits, or stock dividends.\
+Alpha: CAPM betas were estimated for each firm using all available\
+monthly returns. These betas were then used to calculate an alpha for\
+each year. Data are from CRSP, 1959-87.\
+Aggregate Data\
+Investment: From U.S. Department of Commerce, "Gross Private Fixed\
+Investment, Non-residential"; the series is the sum of investment in\
+nonresidential structures and equipment for 1935-41 and 1947-88.\
+Consumption: Aggregate personal consumption (including nondurables,\
+durables, and services) from the U.S. Department of Commerce, 1934-\
+41 and 1947-88.\
+Cash flow: After-tax total corporate profits (without depreciation sub-\
+tracted) from U.S. Department of Commerce, 1934-41 and 1947-88.\
+New debt issues: The ratio of net funds raised from corporate bonds to\
+total outstanding liabilities, obtained from sector statements of savings\
+and investment for nonfinancial corporate business; from Federal Re-\
+serve, 1952-89.\
+New share issues: Individual firm share issues were calculated using\
+CRSP data as described above. Aggregate variable is the fraction of\
+firms increasing the number of shares by more than 5 percent in a given\
+year.\
+Stock return: Value-weighted index return from CRSP, 1933-41 and\
+1947-88.\
+Closed-end fund discount: Year-end average discount on a portfolio of\
+closed-end funds; from Lee, Shleifer, and Thaler for 1965-85, using a\
+portfolio of 18 funds; for 1930-64 a portfolio of five funds is used (Adams\
+Express, General American, Lehman, Niagara Shares, and Tricontinen-\
+tal); the same five funds also used for 1986-89.
+\fs18 202 Brookings Papers on Economic Activity, 2:1990\
+
+\fs20 Inflation: 
+\fs22 Most firm-level and aggregate variables are deflated using the\
+GNP deflator. One exception is aggregate investment, which is deflated\
+by the U.S. Department of Commerce's implicit price deflator up to 1982\
+and by the "chain investment index," suggested by Gordon for 1983-\
+88. Also, aggregate personal consumption is deflated by implicit price\
+deflator for personal consumption expenditures.
+\fs36 Comments\
+and Discussion\
+
+\fs22 Matthew Shapiro: The stock market and investment are positively\
+correlated. This well-known empirical finding provides the point of\
+departure for the authors' theoretical discussion. In it, they provide an\
+interesting and useful classification scheme for explanations of this\
+correlation. For the most part, they put aside the question of whether or\
+not the stock market is efficient in the sense that it appropriately discounts\
+future cash flows. Instead they ask a more interesting question. Namely,\
+do the fundamentals, specifically the accumulation of fixed capital,\
+respond to movements in the stock market? Of course, the extent to\
+which investment responds to the stock market depends on the efficiency\
+of the stock market. The authors' theoretical section clearly addresses\
+this simultaneity.\
+Most economists think of the relationship between the stock market\
+and investment in terms of q, the ratio of market value to replacement\
+cost. John Maynard Keynes viewed stock market fluctuations as largely\
+irrational and hence not useful signals about the profitability of invest-\
+ment projects. In William Brainard and James Tobin's formalization of\
+Keynes's chapter 12, managers react to potentially irrational movements\
+in the market by financing expansion either through new issues, when q\
+exceeds one, or through mergers and acquisitions, when q is less than\
+one.' Andrew Abel's and Fumio Hayashi's derivations of q-theoretic\
+models of investment implicitly assume rational stock market valuation\
+to the extent that the shadow value of the fixity of capital is associated\
+with financial variables.2 Under certain assumptions, their q-theoretic\
+models are observationally equivalent to Brainard and Tobin's. But in\
+
+\fs16 1. Brainard and Tobin (1968).\
+2. Abel (1979); Hayashi (1982).\
+
+\fs18 203204 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 these derivations, q diverges from one only because adjustment costs\
+keep the actual capital stock from equaling its desired level. The stock\
+market appropriately reflects this out-of-steady-state 
+\fs20 outcome.3\
+
+\fs22 Randall Morck, Andrei Shleifer, and Robert Vishny do not use q to\
+discuss the relationship between the stock market and investment.\
+Nonetheless, their lucid theoretical discussion clarifies how the stock\
+market's decision to rationally discount future cash flow affects the\
+correlation. The authors consider four hypotheses. One of their hypoth-\
+esis, which is closely related to the Keynes-Brainard-Tobin q-model, is\
+that the market is irrational, but managers use its swings to finance\
+investment. In another hypothesis, the managers of firms actually learn\
+about the profitability of their investments from the stock market. In a\
+third, the managers have superior information about their profits, so\
+they do not learn from the market, but the econometrician gets a signal\
+about profitability from the stock market. These latter two hypotheses\
+maintain that the stock market is rational; both hypotheses are related\
+to adjustment-cost based implementations of the q-theoretic models, but\
+the signaling hypothesis is closest to Abel's and Hayashi's models.\
+Finally, the authors consider a fourth hypothesis-that the investment-\
+stock market correlation arises because managers try to increase re-\
+ported profits by curtailing investment when their stock price falls.\
+Most of the authors' evidence bears on the first and third hypotheses.\
+They have no sharp tests of the fourth hypothesis. They dismiss the\
+second hypothesis-that managers learn about the profitability of their\
+investments from the stock market-because they believe that managers\
+have superior information about the profitability of their investments\
+and describe evidence based on managers' stock trading that supports\
+this belief. The authors' arguments about managers' superior knowledge\
+of their firms' cash flows are convincing. Yet, even if managers have\
+superior knowledge of the profitability of their projects, the market may\
+still provide information useful to them in making investment decisions.\
+Morck, Shleifer, and Vishny discuss stock returns as if they were\
+governed only by innovations in current and expected future cash flows.\
+But stock returns also move with changes in the rates by which cash\
+
+\fs18 3. Tobin and White (1981) note that Summers's (1981) estimates of a q-theoretic\
+equation imply incredibly high adjustment costs. Although they make this point as a\
+reductio ad absurdum of models that link the stock market and investment only through\
+adjustment costs, many have taken this finding as impetus for formulating more compli-\
+cated, but still adjustment-cost driven, q-models.Randall Morck, Andrei Shleifer, and Robert W. Vishny 205\
+
+\fs22 flows are capitalized. Capitalization rates may change because of either\
+changes in the economywide required rate of return or changes in the\
+risk discount for the individual firm. Managers of firms may well change\
+the rate at which they discount future cash flows based on movements\
+on their firms' values. The decomposition of stock returns into innova-\
+tions in required rate of return and cash flow bears on their empirical\
+work.\
+The authors' basic regression relates investment growth to stock\
+returns. Their discussion of the specification proceeds totally innocent\
+of previous work on the demand for capital. There is little mention of\
+the q-theory in their paper despite its obvious relevancy. Indeed, the\
+equation that they estimate is roughly equivalent to differencing the q-\
+theoretic investment equation. In the q-theoretic specification, the left-\
+hand-side variable is the investment-capital ratio. In the authors' speci-\
+fication, it is the percentage change in investment. Hence, they approx-\
+imately difference the numerator of the q-theory's investment-capital\
+variable while letting the change in the capital stock (the denominator)\
+be subsumed into the error term of their regression. Similarly, the right-\
+hand-side variable of the q-theoretic equation is average q, the ratio of\
+market value to replacement cost. Variation in the numerator of average\
+q is dominated by revaluation of equities, so differencing average q\
+yields a variable related to stock returns. In their empirical work, the\
+authors quantify stock returns as the lagged idiosyncratic movement in\
+the sum of price change and dividend yield. Thus, their equation differs\
+somewhat from differencing the q-theoretic equation: it does not account\
+for replacement cost or the revaluation of nonstock financial claims; it\
+looks at just the idiosyncratic movements in stocks where the q-theory\
+would equally include the aggregate component; and the return is lagged\
+rather than contemporaneous.\
+Despite these differences with the q-theoretic specification, the au-\
+thors' empirical results echo the more familiar ones. First, in both their\
+results and those obtained from q equations, the stock market gets a\
+small coefficient. Second, one of the empirical shortcomings of estimated\
+q-investment equations is the extreme serial correlation of their resid-\
+uals. The authors' differenced equations can be understood as acknowl-\
+edgments of this empirical problem with the q equation. Third, in both\
+sets of equations, variables such as cash flow and sales come in much\
+more strongly than the stock market.\
+Putting aside whether or not the authors' results should be understood
+\fs18 206 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 in terms of the q-theory, one should note that examining the growth of\
+investment is a perilous way to study the demand for capital. Lawrence\
+Summers, in his "Requiem for the Investment Equation," points out\
+that having the level of investment as the left-hand-side variable does\
+not make sense unless the right-hand side controls for the deviation of\
+the current capital stock from the desired level (as does the 
+\fs20 q-theory).4\
+
+\fs22 Firms demand a stock of capital; investment is merely the regulation of\
+that stock. Most investment equations sin by slipping a derivative. The\
+authors slip two derivatives by examining the growth in investment.\
+Consequently, the authors' choice of specification makes it very difficult\
+to interpret the magnitude of their estimated coefficient and makes it\
+hard to believe that these coefficients do not vary across firms depending\
+on how actual capital stock departs from its desired level.\
+The authors claim that there is too much firm-level heterogeneity for\
+them to model the relationship in levels. Their inability to get sensible\
+results in a levels specification arises because they have omitted key\
+factors, such as the stock of capital, from their analysis. Unless the\
+omitted factors are deterministic trends, differencing does not solve the\
+specification problem.\
+The authors run the reverse regression with the financing variables\
+on the left-hand side to see how they are correlated with stock returns.\
+One can see from the first set of regressions (with investment growth on\
+the left-hand side) that stock returns and the financing variables cannot\
+be highly correlated. Including the financing factors does not greatly\
+affect the estimated sign of the stock return variable. Therefore, the\
+authors could make their point without recourse to the second set of\
+
+\fs20 regressions.\
+
+\fs22 The authors present results at both the firm and the aggregate level.\
+Their main equation has investment growth as the dependent variable\
+and includes lagged stock returns, other variables (cash flow and sales)\
+to capture the fundamental determinants of stock returns, and still others\
+(dummies for large new issues of equity and debt) to capture new\
+financing. In the firm-level regression, the stock return is purged of its\
+correlation with the aggregate return. In these estimates, the stock\
+market is highly significant and has a large coefficient compared to the\
+aggregate estimates. When the fundamentals variables are included in\
+
+\fs16 4. Summers (1985).
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 207\
+
+\fs22 the regression, they are also very significant and have important explan-\
+atory power. Their inclusion makes the coefficient on the stock return\
+fall somewhat, but it is still large compared to the aggregate estimates.\
+Hence, the fundamental factors are important in explaining investment,\
+but leave a significant role for the stock return. The financing factors are\
+also significant in the regression. Their inclusion leads only to a further\
+small reduction in the coefficient of the stock returns variable, so the\
+stock returns and financing factors are essentially independent.\
+While the absence of the theoretical model makes these results hard\
+to interpret, it is possible to draw some conclusions. The finding that the\
+stock return is a significant explanatory factor for investment, but is\
+hardly a sufficient statistic, is consistent with the large body of empirical\
+work on q-theoretic investment models.\
+The significance of the sales and cash flow variables is hard to interpret.\
+Steven Fazzari, Glenn Hubbard, and Bruce Peterson include them in\
+similar equations, but those authors include them to show that liquidity\
+affects investment. On the other hand, the present authors interpret\
+these variables as the fundamental determinants of stock values. Absent\
+more information, both the Fazzari, Hubbard, and Peterson and the\
+Morck, Shleifer, and Vishny explanations of the correlation of invest-\
+ment and cash flow are consistent with the data.5\
+The significance of the coefficients of the new equity and new debt\
+dummy variables does not imply that financing causes investment.\
+Suppose that the world is Modigliani-Miller on the margin, that is, that\
+firms choose a capital structure that equates the marginal cost of funds\
+across different types of financial claims. New investment must be\
+financed by some means. On the margin, a firm should desire to use all\
+means; thus, it is not surprising to see investment correlated with both\
+forms of financing. Therefore, the financing-investment correlation is\
+not evidence against the economic independence of real decisions from\
+
+\fs20 financing decisions.\
+
+\fs22 The authors abstract from aggregate movements in the stock market\
+in their firm-level regressions by only including the idiosyncratic com-\
+ponent of stock returns and also by including year dummies in the\
+regressions. While neglect of these aggregate components does not bias\
+their estimates, it does reduce the power of their procedure. There is no\
+
+\fs18 5. Fazzari, Hubbard, and Peterson (1988).208 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 theoretical justification for abstracting from the aggregate component of\
+stock returns. By omitting this component, the authors reduce the\
+potential role of their returns variable. Moreover, it would be interesting\
+to see how the aggregate component enters the regressions. They could\
+either report the annual dummies or, better, exclude them in favor of\
+including the systematic component of stock returns (the beta times the\
+aggregate return). As noted earlier, managers should respond to changes\
+in the required rate of return, about which the aggregate market return\
+carries an important signal.6 Consequently, by abstracting from the\
+aggregate, the authors potentially understate the role of the stock market\
+for investment. Doing so also makes it difficult to compare the aggregate\
+and firm-level results.\
+In the aggregate regressions, the stock market has roughly the same\
+coefficient as the firm-level regressions when the univariate relationship\
+is considered, but falls dramatically when the fundamentals are included.\
+The text of the paper reads as if the stock market explains more in the\
+aggregate regressions than the firm-level regressions. The authors come\
+to this conclusion because they rely inappropriately on theR2. Comparing\
+R2's across samples is misleading because the error variances are so\
+different at the firm and aggregate levels. Indeed, as judged by the size\
+and significance of the coefficient of the stock returns variable, the\
+relationship between investment and the stock market is much larger in\
+the firm-level regressions.\
+James M. Poterba: Stock market anomalies-the January effect, the\
+weekend effect, the alphabet effect-are a favorite topic of conversation\
+at Brookings Panel meetings. If asked to justify these anomalies as\
+legitimate subjects of macroeconomic interest, most economists would\
+argue that the stock market provides vital signals for investment and\
+consumption decisions. An understanding of its movements is therefore\
+important to an understanding of macroeconomic fluctuations.\
+In this provocative paper, Randall Morck, Andrei Shleifer, and Robert\
+Vishny attempt to end these discussions. They argue that the conven-\
+tional view of the stock market as an important determinant of corporate\
+
+\fs18 6. They should also respond to firm-specific changes in required rates of return caused\
+for example by changes in the risk-structure of their returns. These could be captured by\
+changes in the betas. Since the authors assume them to be constant, these changes are\
+included in the estimated alphas.
+\fs20 Randall Morck, Andrei Shleifer, and Robert W. Vishny 209\
+
+\fs22 investment is misplaced. Drawing on a rich base of firm-level investment\
+data and stock return data, the authors argue that to a first approximation,\
+
+\fs20 swings in the stock market are irrelevant forfirm investment decisions.\
+
+\fs22 The findings are significant not only because they illuminate what\
+determines investment, but also because they carry strong implications\
+for the welfare cost of "noise trading" and other forces that cause\
+transitory divergences between asset prices and fundamental values.\
+This paper suggests that even if prices gyrate inappropriately, they may\
+have little effect on real activity.\
+The findings in this paper may come as a surprise to some subscribers\
+to the q-theory of investment, which links stock price and investment.\
+Even without this paper, however, a skeptic would have found grounds\
+for concern regarding the stock market's predictive power. James Stock\
+and Mark Watson's recent work on leading indicators finds that in\
+predicting real output the stock market is dominated by a collection of\
+other variables. A twenty-year BPEA tradition of running horseraces\
+between competing investment equations has shown that q-models are\
+outpaced by equations including cash flow, output, and other flow\
+measures of corporate activity. '\
+The central contributions of the current paper are the use of firm-level\
+data in studying the forecast power of the stock market and the focus on\
+the incremental explanatory power of the stock market. Although the\
+basic conclusions seem relatively robust, both the choice of data and the\
+statistical analysis in this paper invite scrutiny.\
+First, the timing convention in the regression equation excludes\
+current stock returns, but includes current cash flow or sales. Since the\
+fundamentals are all dated later than the stock market variable, they\
+have an informational advantage. This concern applies both to the firm-\
+level and aggregate estimates. However, results provided to me by the\
+authors suggest that this issue is not of critical importance: inclusion of\
+the current stock return rather than the lagged stock return in the firm-\
+level equations actually reduces explanatory power; in the aggregate\
+equation, the current stock return enters with a negative coefficient.\
+Thus, the timing convention is unlikely to be central to the empirical\
+conclusion.\
+
+\fs18 1. Sensenbrenner (1990) suggests that q- and neoclassicial accelerator models can\
+perform similarly if a sufficiently rich lag structure is considered.
+\fs20 210 
+\fs18 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 A second issue of specification concerns the use of time effects in the\
+analysis of individual firm investment. Their use removes the effect of\
+aggregate stock market movements, even though these may be an\
+important source of the market's explanatory power for each firm. One\
+can easily imagine that managers invest more (given their firm's cash\
+flow) when the stock market 
+\fs20 overall 
+\fs22 is high, signaling future good times.\
+Even if the broad market movements were uninformative for investment\
+of a given firm, the results would be far stronger than the current findings.\
+A third difficulty is that the paper does not perform the appropriate\
+test of how stock returns affect investment. The ideal test would examine\
+the stock market's explanatory power at t - 1 after controlling for\
+expectations of future fundamentals that were formed by information at\
+t - 1. This would argue for development of a firm-level or aggregate\
+model to predict dividends. Then, the change in the optimal forecast of\
+the present discounted value of dividends should be compared with the\
+stock return in forecasting future investment.\
+A final concern is that the findings are sensitive to changes in\
+specification and sample period. Two other studies-those by Robert\
+Barro and Olivier Blanchard, Changyong Rhee, and Lawrence Sum-\
+mers-that the authors cite estimate similar models with aggregate\
+investment data.2 Barro reports stronger evidence on the link between\
+stock returns and investment than this paper finds. The difference\
+between his results and those of the current paper is apparently due to\
+his inclusion of lagged investment, and his somewhat longer sample\
+period. Blanchard, Rhee, and Summers's paper uses a more formal\
+methodology to construct the expected present value of dividends and\
+to contrast the predictive power of this series with the predictive power\
+of actual stock prices. Using this approach, they were not able to draw\
+strong conclusions about the real effects of sentiment-induced swings in\
+share prices. Thus, I remain nervous that the current findings, particu-\
+larly in aggregate data, are not definitive.\
+Turning from data to statistical methods, I believe this paper also\
+alters the focus of prior debate. By concentrating on the stock market's\
+incremental explanatory power for investment spending, the authors\
+shift from the traditional analysis of q-investment spending. It is impor-\
+tant to distinguish, as the authors do, the claim that the stock market is\
+
+\fs18 2. Barro (1990); Blanchard, Rhee, and Summers (1990).Randall Morck, Andrei Shleifer, and Robert W. Vishny 211\
+
+\fs22 not incrementally important from the claim that it is not important in\
+explaining investment. Unless two variables are orthogonal, there is no\
+way to decompose the share of the variance in another series that they\
+explain. This is not a critical issue with respect to the firm-level data-\
+where the stock return alone can explain roughly 5 percent of the\
+investment variance compared to an "incremental" explanation of 2\
+percent. The issue is more important, however, with respect to the time\
+series findings (see table 6). In this case, the 
+\fs20 R2 
+\fs22 of the stock market alone\
+is 0.33, while that of corporate profits and personal consumption is 0.81.\
+The incremental 
+\fs20 R2 
+\fs22 of the stock market is only 0.02, but this may be a\
+misleading guide to the stock market's power.\
+The finding of low total explanatory power for the stock market does\
+not necessarily imply that sentiment-driven shifts in stock prices do not\
+have significant real effects. There could easily be two sources of\
+variation in stock prices-one fundamental, one fad. If managers could\
+distinguish the two, and respond more to one than the other, the reduced-\
+form relation between stock returns and investment could be very weak,\
+even if fad-induced price movements had very large positive, or negative,\
+effects on investment.\
+Despite these concerns, the empirical results in this paper are striking\
+for the ease with which other specifications reduce the stock market's\
+explanatory role in investment. Knowing only the firm's cash flow and\
+sales, one could predict future investment nearly as well without the\
+stock price as with it. Should one believe the findings? They are consistent\
+with anecdotal evidence on firm behavior during recent years. In January\
+1988, a Conference Board survey asked top executives if the stock\
+market crash had affected their investment plans. More than three-\
+quarters said no. They are also consistent with "episode analysis"\
+performed by Blanchard, Rhee, and Summers, who report that in 1986\
+and 1987 the rapid increase in U.S. equity values was not matched by\
+higher levels of investment. The other natural experiment, provided by\
+the 1929 stock market crash, disagrees with the current findings. Invest-\
+ment did not rise in the late 1920s by as much as the market would have\
+predicted, but it declined precipitously in 1930-31, just as the market\
+signals would have suggested.\
+The final question this paper raises is whether the presence of noise\
+traders or other sources of nonfundamental variation in stock prices\
+affects investment. While the paper's general theme is that such effects
+\fs18 212 Brookings Papers on Economic Activity, 2:1990\
+
+\fs22 are small, there are other channels which may be important. An example\
+illustrates this. If noise traders raise the general level of required returns\
+in the equity market, these traders will reduce the level of investment in\
+all periods, without regard to particular stock market movements.\
+Exploring these channels is a natural direction for future work.\
+General Discussion\
+Several panelists questioned the authors' view that the 
+\fs20 R2 
+\fs22 of the\
+regression of investment on stock prices was an upper bound to the\
+distortionary impact that noise in stock prices might have on investment.\
+Christopher Sims observed that some shocks, unlike changes in expected\
+future earnings or discount rates, can push stock prices and investment\
+in the opposite direction. Without controlling for such shocks, the 
+\fs20 R2\
+
+\fs22 would underestimate the response of investment to noise. Sims gave, as\
+an example, a reduction in the price of capital goods, which would lower\
+stock prices for firms with existing capital stocks but would increase the\
+amount of investment. William Brainard noted that any of the several\
+reasons that have been given for why marginal q, which provides the\
+incentive for investment, may move in the opposite direction from\
+average q, are reasons why the 
+\fs20 R2 
+\fs22 of these equations could underestimate\
+the potential damage from noise. One frequently cited example is the\
+run-up of energy prices after OPEC, which reduced quasi-rents on\
+existing energy-intensive capital goods, but stimulated investment in\
+new, more efficient capital.\
+Robert Barro noted that to the extent that changes in investment had\
+a multiplier-type effect on consumption, consumption could appear to\
+explain investment, even if animal spirits were in fact the primary driving\
+force. Benjamin Friedman pointed out that large changes in stock prices\
+are often accompanied by large changes in other variables. For example,\
+after the crash of 1987 interest rates fell and the dollar depreciated; both\
+worked to increase the attractiveness of investment. These phenomena\
+argued for the inclusion of interest rates and other variables in the\
+aggregate equations. Robert Gordon replied that the absence of an\
+investment response to the stock market crash was less surprising when\
+one remembered that at the end of 1987 the market was at the same level\
+as at the end of 1986. The fact that firms did not revise investment down
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 2 13\
+
+\fs22 because of the crash may reflect the fact that they had not revised it up\
+in response to the stock price boom in the first half of 1987.\
+Some panelists were concerned that the authors had not paid enough\
+attention to the possible intertemporal relationships among the variables\
+and therefore may have underestimated the potential influence of market\
+noise and given too much weight to fundamentals. Sims suggested that\
+a positive signal could lead to an increase in sales contemporaneous\
+with, or even leading, investment. To examine this issue, he suggested\
+running vector autoregressions and looking at the proportion of variance\
+at various horizons explained by stock market innovations.\
+Lawrence Klein suggested testing for robustness, possibly by com-\
+paring estimates for different sample periods. Since the noise component\
+was so large in the cross-sectional estimates, he conjectured that small\
+changes in specification could lead to large changes in coefficient\
+estimates. Gordon pointed out that the 
+\fs20 1950s 
+\fs22 saw two big booms in the\
+stock market with sluggish investment and wondered if the results would\
+be robust to splits of the sample into pre- and post-1952 periods.
+\fs18 214 Brookings Papers on Economic Activity, 2:1990\
+
+\fs20 References\
+Abel, Andrew B. 1979. 
+\fs18 Investment and the Value 
+\fs20 of 
+\fs18 Capital. 
+\fs20 New York:\
+Garland Publishing.\
+Barro, Robert J. 1990. "The Stock Market and Investment." 
+\fs18 Review 
+\fs20 of\
+
+\fs18 Financial Studies 
+\fs20 3: 115-32.\
+Barsky, Robert, and J. Bradford De Long. 1989. "Why Have Stock Prices\
+Fluctuated?" Harvard University (October).\
+Black, Fischer. 1986. "Noise." 
+\fs18 Journal 
+\fs20 of 
+\fs18 Finance 
+\fs20 41: 529-43.\
+Blanchard, Olivier, Changyong Rhee, and Lawrence Summers. 1990. "The\
+Stock Market, Profit and Investment." Working Paper 3370. Cambridge,\
+Mass.: National Bureau of Economic Research (May).\
+Bosworth, Barry. 1975. "The Stock Market and the Economy." 
+\fs18 BPEA, 2:1975,\
+
+\fs20 257-90.\
+Brainard, William C., and James Tobin. 1968. "Pitfalls in Financial Model\
+Building." 
+\fs18 American Economic Review, Papers and Proceedings 56: 
+\fs20 99-\
+122.\
+Campbell, John Y., and Albert S. Kyle. 1988. "Smart Money, Noise Trading\
+and Stock Price Behavior." Technical Working Paper 71. Cambridge,\
+Mass.: National Bureau of Economic Research (October).\
+Cummins, Clint, Bronwyn H. Hall, Elizabeth S. Laderman, and Joy Mundy.\
+1988. "The R & D Master File Documentation." Technical Working Paper\
+72. Cambridge, Mass.: National Bureau of Economic Research (December).\
+De Long, J. Bradford, and Andrei Shleifer. 1990. "The Bubble of 1929:\
+Evidence from Closed-End Funds." Harvard University (May).\
+De Long, J. Bradford, Andrei Shleifer, Lawrence H. Summers, and Robert\
+J. Waldmann. 1990. "Noise Trader Risk in Financial Markets." 
+\fs18 Journal 
+\fs20 of\
+
+\fs18 Political Economy 
+\fs20 98: 703-38.\
+Fama, Eugene F. 1981. "Stock Returns, Real Activity, Inflation and Money."\
+
+\fs18 American Economic Review 
+\fs20 71: 
+\fs18 545-65.\
+
+\fs20 Fama, Eugene F., and Kenneth R. French. 1988. "Permanent and Temporary\
+Components of Stock Prices." 
+\fs18 Journal of Political Economy 
+\fs20 96: 246-73.\
+Fazzari, Steven M., R. Glenn Hubbard, and Bruce C. Petersen. 1988.\
+"Financing Constraints and Corporate Investment." 
+\fs18 BPEA, 
+\fs20 1:1988, 141-\
+95.\
+Figlewski, Stephen. 1979. "Subjective Information and Market Efficiency in\
+a Betting Market." 
+\fs18 Journal of Political Economy 87: 75-88.\
+
+\fs20 Fischer, Stanley, and Robert C. Merton. 1984. "Macroeconomics and Finance:\
+The Role of the Stock Market." 
+\fs18 Carnegie-Rochester Conference Series on\
+Public Policy 21: 
+\fs20 57-108.\
+Gordon, Robert J. 1986. "Introduction: Continuity and Change in Theory,\
+Behavior, and Methodology." In 
+\fs18 The American Business Cycle: Continuity\
+and Change, 
+\fs20 edited by Robert J. Gordon. Chicago: University of Chicago\
+Press, for NBER.
+\fs18 Randall Morck, Andrei Shleifer, and Robert W. Vishny 215\
+
+\fs20 Hayashi, Fumio. 1982. "Tobin's Marginal q and Average q: A Neoclassical\
+Interpretation." 
+\fs18 Econometrica 50: 
+\fs20 213-24.\
+Lee, Charles, Andrei Shleifer, and Richard Thaler. 1990. "Investor Sentiment\
+and the Closed-End Fund Puzzle." Working Paper 3465. Cambridge, Mass.:\
+National Bureau of Economic Research (October).\
+Merton, Robert C. 1987. "A Simple Model of Capital Market Equilibrium\
+with Incomplete Information." 
+\fs18 Journal of Finance 
+\fs20 42: 483-510.\
+Meyer, John R., and Edwin Kuh. 
+\fs18 1957. The Investment Decision: An Empirical\
+Study. 
+\fs20 Cambridge, Mass.: Harvard University Press.\
+Poterba, James M., and Lawrence H. Summers. 1988. "Mean Reversion in\
+Stock Prices: Evidence and Implications." 
+\fs18 Journal of Financial Economics\
+22: 27-59.\
+
+\fs20 Sensenbrenner, Gabriel. 1990. "Aggregate Investment, the Stock Market, and\
+the Q Model: Robust Results for Six OECD Countries." Northwestern\
+University (July).\
+Seyhun, H. Nejat. 1986. "Insiders' Profits, Costs of Trading, and Market\
+Efficiency." 
+\fs18 Journal of Financial Economics 
+\fs20 16: 189-212.\
+. 1988. "The Information Content of Aggregate Insider Trading."\
+
+\fs18 Journal of Business 
+\fs20 61: 1-24.\
+. 1990. "Overreaction or Fundamentals: Some Lessons from Insiders'\
+Response to the Market Crash of 1987." 
+\fs18 Journal 
+\fs20 of 
+\fs18 Finance 
+\fs20 45: 1363-78.\
+Shiller, Robert J. 1981. "Do Stock Prices Move Too Much to Be Justified by\
+Subsequent Changes in Dividends?" 
+\fs18 American Economic Review 
+\fs20 71: 421-\
+36.\
+1984. "Stock Prices and Social Dynamics." 
+\fs18 BPEA, 2:1984, 
+\fs20 457-98.\
+1987. "Investor Behavior in the October 1987 Stock Market Crash:\
+Survey Evidence." Working Paper 2446. Cambridge, Mass.: National\
+Bureau of Economic Research (November).\
+Shleifer, Andrei, and Vishny, Robert W. 1990. "Equilibrium Short Horizons\
+of Investors and Firms." 
+\fs18 American Economic Review, Papers and Pro-\
+ceedings 
+\fs20 80: 
+\fs18 148-53.\
+
+\fs20 Stein, Jeremy C. 1988. "Takeover Threats and Managerial Myopia." 
+\fs18 Journal\
+of Political Economy 
+\fs20 96: 61-80.\
+Stock, James H., and Mark W. Watson. 1990. "Business Cycle Properties of\
+Selected U.S. Economic Time Series, 1959-1988." Working Paper 3376.\
+Cambridge, Mass.: National Bureau of Economic Research (June).\
+Summers, Lawrence H. 1981. "Taxation and Corporate Investment: A q-\
+Theory Approach." 
+\fs18 BPEA, 
+\fs20 1:1981, 67-127.\
+. 1985. "Requiem for the Investment Equation." Remarks presented\
+at Conference on Impact of Taxation on Business Activity. Ottawa, Canada,\
+November 12-13.\
+Tobin, James, and Philip M. White. 1981. "Discussion." 
+\fs18 BPEA, 1:1981, 
+\fs20 132-\
+39.\
+Zweig, Martin E. 1973. "An Investor Expectations Stock Price Predictive\
+Model Using Closed-End Fund Premiums." 
+\fs18 Journal of Finance 28: 67-78.}
