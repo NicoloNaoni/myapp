@@ -102,7 +102,7 @@ async def qa_documents(qa_document_request: QADocumentRequest):
     llm = ChatCohere(model=os.environ['MODEL'], temperature=int(os.environ['TEMPERATURE']))
     retriever = vector_store.as_retriever(search_type='similarity', search_kwargs={'k': int(os.environ['SEARCH_KWARGS'])})
     chain = RetrievalQA.from_chain_type(llm=llm, chain_type='stuff', retriever=retriever)
-    answer_dict = chain.invoke({"query": query})
+    answer_dict = chain.invoke({"query": prompt})
     value = answer_dict["result"]
 
     return {"result": value}
