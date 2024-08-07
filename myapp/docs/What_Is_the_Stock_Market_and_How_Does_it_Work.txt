@@ -1,0 +1,229 @@
+INVESTING
+What Is the Stock Market and How Does It Work?
+
+By PETER GRATTON Updated April 12, 2024
+Reviewed by CIERRA MURRY
+Fact checked by KIRSTEN ROHRS SCHMITT
+Part of the Series
+How to Invest with Confidence
+
+The stock market is not a place you can visit but refers to the trading (some physical, most online) of shares representing the partial owning of companies. It's not only where businesses raise capital but is used as a sign of the economy's health.
+
+KEY TAKEAWAYS
+
+  
+• The stock market refers to the collective trading network involving stocks and their derivatives.
+
+  
+• The original crowdsourcing, the stock market, is a central part of modern economies since it's where companies raise vast sums of money to start a business, expand, or pay off debt.
+
+  
+• Companies listed on stock exchanges must be public, meaning their shares are open not just to a select few but traded on stock exchanges and elsewhere. Public companies are subject to many reporting and transparency regulations.
+
+  
+• Stocks are sold to institutional investors and high-net-worth individuals, but also those with far more modest means looking for income from a share of the profits, to sell the stock later at a higher price, or simply to have a say in how a company is run.
+
+  
+• The Securities and Exchange Commission (SEC) and individual state regulators oversee the U.S. stock market.
+The price of stocks changes based on supply and demand, the company’s performance, economic conditions, and other factors that might not seem rational—like investor “sentiment”—but all of which must be considered if you’re buying or selling shares.
+
+People purchase stocks for a lot of reasons. Some hold onto stocks, looking for income from dividends. Others might think a stock will rise, so they snap it up, trying to buy low and sell high. Still, others might be interested in having a say in how particular companies are run. That’s because you can vote at shareholder meetings based on the number of shares you own.
+
+Both “stock market” and “stock exchange” are often used interchangeably, but they’re not the same. Traders in the stock market buy or sell shares on one or more stock exchanges, which are only part of the overall stock market. The major U.S. stock exchanges include the New York Stock Exchange (NYSE) and Nasdaq.
+
+Ellen Lindner / Investopedia
+How Does the Stock Market Work?
+The stock market is a vast, complex network of trading activities where shares of companies are bought and sold, protected by laws against fraud and other unfair trading practices. It plays a crucial role in modern economies by enabling money to move between investors and companies.
+
+Sometimes the best way to see how something works is to look at its parts. In that light, let's review the major elements of the stock market, from the companies selling shares to stocks to exchanges to the indexes that give us a snapshot of the stock market's health:
+
+What are Public Companies?
+Not all companies can offer stock to the public. Only public companies that have offered their shares for the first time in an initial public offering (IPO) can have their stock bought and sold on exchanges like the NYSE or Nasdaq. From when a company starts planning its IPO through all the time its shares are sold to the public, it must meet stringent regulations and financial disclosure laws.
+
+The primary market could involve raising money and giving parts of a business to friends, family, and others in direct trades, making it the oldest way of dividing shares in a company. Since the primary market is where a company sells its securities directly, today it includes IPOs, follow-on public offerings, private placements, debt offerings, and other times when a company sells part of itself to raise funds.
+
+From then on, stocks are traded in the secondary market on exchanges or "over the counter." More than 58,000 companies worldwide are publicly traded today.
+
+What Are Stocks?
+When you buy a stock or a share, you're getting a piece of that company. How much of the company you own depends on the number of shares the company has issued and the number of shares you own. If it's a small, private company, a single share could represent a large part of the company. Major public companies often have millions, even billions, of shares. For example, Apple Inc. (AAPL) has billions of shares in circulation, so a single share is just a tiny fraction of the company.
+
+Owning shares gives you the right to part of the company's profits, often paid as dividends, and sometimes the right to vote on company matters.
+
+What is a Stock Exchange?
+Once a company goes public, its stocks can be traded freely on the stock market. This means that investors can buy and sell shares among themselves. This is the secondary market for stocks, and most trading is done through stock exchanges. This part of the larger stock market dates to at least 1602 in Amsterdam, evolving since into some of the world's most complex institutions.
+
+Stock exchanges are organized and regulated "places" (much trading today is virtual) where stocks and other types of securities are bought and sold. They play a crucial role in the financial system by providing a platform for companies to raise money by selling their stocks and bonds to the public.
+
+The NYSE and Nasdaq are prime examples, serving as central locations for the buying and selling of stocks. There are major exchanges worldwide, such as the London Stock Exchange, the Tokyo Stock Exchange, and the Shanghai Stock Exchange. Each has its own internal rules, and investors follow different national and local laws. These are meant to ensure fair trading practices and to keep investors confident in dealing there. They also provide transparency in the trading process, giving real-time information on securities prices, which is why it's so easy to find up-to-date stock prices on just about any financial news site.
+
+Stock exchanges wouldn't live up to their name, though, if they didn't offer liquidity, the ability to buy or sell stocks relatively easily. This means that during trading hours, you can buy a stock quickly or just as rapidly sell it to raise cash.
+
+Many stock exchanges also cross-list company shares, offering securities primarily listed on other exchanges. This way, companies can reach more investors when raising capital, and those trading with certain exchanges have far more options.
+
+Though it is called a stock market, other securities, such as exchange-traded funds (ETFs), are also traded there.
+Over The Counter Market
+Stocks and other securities are also traded "over the counter" (OTC). These OTC markets are where you buy or sell stocks directly with another investor, typically without the same level of regulation or public scrutiny. OTC trading involves a network of brokers and dealers who negotiate directly over computer networks and by phone.
+
+This type of trading is commonly used for smaller, less liquid companies that may not meet the stringent listing requirements of the stock exchanges. This can make it more challenging for investors to get reliable information about the companies they are investing in.
+
+Other Assets Traded in the Stock Market?
+In addition to common stocks, many other assets are traded through stock exchanges and OTC. These count as part of the "stock market":
+
+  
+• American depositary receipts: Represent shares in foreign companies and are traded on U.S. stock exchanges. They let U.S. investors invest in foreign companies without dealing with foreign stock exchanges or converting over their currency.
+
+  
+• Derivatives: This is a broad category that includes options and futures, whose value is derived from the value of an underlying asset, such as stocks, bonds, commodities, currencies, interest rates, or market indexes. So, in derivatives trading, you're not directly buying or selling the actual asset (like the stock). Instead, you're trading something whose value is influenced by the changes in the price of an underlying asset.
+
+  
+• Funds: These include mutual funds, which pool money from many investors for a basket of stocks, bonds, and other securities, and exchange-traded funds, which trade on stock exchanges like individual stocks and "track" or try to mirror how a sector, index, or theme of stocks is doing.
+
+  
+• Preferred stocks: These stocks generally provide a set dividend and, as the name suggests, have priority over common stock in getting a share of the profits or what's left over if the company goes bankrupt.
+
+  
+• Real estate investment trusts (REITs): These are worth mentioning to get an idea of the breadth of what counts as the stock market. REITs are companies that own, manage, or finance real estate. Investors can buy shares in them, and they legally must provide 90% of their profits as dividends each year.
+
+More loosely, while independent markets, people often talk about these as part of the "stock market":
+
+  
+• Bonds: These represent debt, and governments and corporations issue them to raise capital. Investors who buy bonds effectively lend money to the issuer in exchange for interest payments and the return of the bond's face value at maturity.
+
+  
+• Commodities: There are 50 major commodities markets worldwide where you buy raw materials like oil, steel, wheat, and coal directly or buy futures contracts based on where their prices might go.
+
+Investors and Traders
+Those involved in the stock market include institutional investors, such as pension funds, mutual funds, insurance companies, and hedge funds, that manage large amounts of money and often have a significant influence over the market since they are trading in large volumes. Retail investors buy and sell securities for their personal accounts—not for an organization. They can range from beginners to experienced traders, and today, most use online platforms. Another key group is accredited investors, high-net-worth individuals with the money and investing experience, so the SEC allows them access to more complex investments, like venture capital and private equity.
+
+Generally speaking, investors approach the market from a long-term perspective. They put money in stocks, ETFs, mutual funds, and other securities, expecting their value to grow over time; these are not the quick trades you see in movies to get in and out fast. These investors are often more concerned with the fundamental strength of the companies or assets they invest in, such as their financial performance, market position, and potential for growth. They decide on investments after research and analysis or after getting recommendations from financial advisors while trying to build wealth steadily through a portfolio that increases in value over time.
+
+Traders, for their part, take a more short-term approach to the stock market. They aim to capitalize on the market’s volatility, trading stocks, options, futures, and other financial instruments within shorter time frames—from seconds and minutes to days and months. Traders often rely on technical analysis, which involves studying market trends, charts, and other statistical measures to predict future price movements. While trading can offer the potential for quick profits, it also comes with higher risks than long-term investing. Quickly buying and selling securities requires a sharp understanding of the market and a more active, hands-on strategy to trading.
+
+Role of Brokers
+Brokers in the stock market play the same role as in insurance and elsewhere, acting as a go-between for investors and the securities markets. They are licensed organizations that buy and sell stocks and other securities for individual and institutional clients. Brokerage firms can be small boutique shops or multinationals offering investment advice, research, and wealth management services while executing trades for customers. Full-service brokers provide detailed financial advice, portfolio management, and personalized services, making them better for investors who prefer a thorough approach to managing their investments. Further down in cost, discount brokers provide a more hands-off experience and are typically preferred by investors who make their own trading decisions.
+
+Online brokerage firms have become increasingly popular with user-friendly platforms that allow investors to trade securities electronically at lower costs and more convenience. These platforms often have educational resources, analytical tools, and real-time market data. There has also been a rise in robo-advisors, automated financial planning services offered at a very low price.
+
+Whatever type of broker, they are all regulated by the SEC and Financial Industry Regulatory Authority (FINRA) in the U.S.
+
+Regulators
+A significant aspect of the stock market—dictating what’s traded and how—is the regulations and regulators involved. In the U.S., the latter is the SEC, an independent federal agency set up in 1934 on the heels of the 1929 market crash and the travails of the Great Depression. The mission of the SEC is “protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation.”
+
+The SEC enforces laws against market manipulation, insider trading, and other forms of fraud while verifying that public companies reveal any significant financial information investors should know when trusting a firm with their money by buying its stock. The SEC also oversees stock exchanges, broker-dealers, investment advisors, mutual funds, and public utility holding companies.
+
+In addition, the exchanges have their own requirements, such as filing timely (usually quarterly) updates to company financial reports and instant reporting of relevant corporate developments to ensure that everyone looking to trade has the same information.
+
+FINRA oversees brokerage firms and their registered securities representatives and is more focused than the SEC on protecting retail investors. Similar agencies exist worldwide, which is crucial given how the stock market is global and a calamity in one corner of the world soon reaches the other—it’s not just something that happens from a few buildings on Wall Street.
+
+While many countries’ regulations differ significantly—they answer to diverse populations and cultural expectations—general rules are enforced to ensure fair practices, protect investors, and promote confidence in the broader stock market.
+
+How Stock Prices are Determined
+Textbook descriptions of stock prices tend to start off talking about investors and dealers coming together, and for there to be a stock trade, the buyer and seller must agree on a figure. But most investors find prices as they are listed in online brokerage accounts or online graphs of stock prices over time, not as coming from tough negotiations. That said, you do have to agree to buy stocks, and each investor or trader making this decision collectively shapes the demand for stocks, which, taken against the supply on hand in the market, produces the prices on our screens.
+
+The factors that influence these prices fall into two main types: fundamental and technical. Fundamental factors are rooted in a company's earnings, profitability from its operations, and the goods or services it offers. Meanwhile, technical factors relate to market sentiment and statistical analyses of historical market activity and stock price trends.
+
+High stock prices can indicate a company's success—or at least the feeling of buyers that they are doing well—but they can also result from stock splits, dividends, and share repurchases. When a stock price drops, this doesn't mean that money is lost from the market as a whole. Instead, it signifies a decrease in the market value of the specific stock. For instance, if a company reports higher profits than expected, its stock price might increase as more investors want to buy shares, hoping for future growth. Similarly, economic events like interest rate changes or geopolitical issues can affect investor confidence and stock prices.
+
+Market Indexes
+Most Americans first learn about the stock market through indexes since reporting on the ups and downs of the Dow Jones Industrial Average (DJIA) or S&P 500 has long been a staple for news programs to quickly get across the news about Wall Street. Indexes like the DJIA, which includes 30 large publicly owned companies, give a picture of the wider stock market. Indexes can be used to take a very wide shot of the market, such as with the S&P 500, representing the 500 largest U.S. public companies. There are currently 11 sectors for specific groups like technology, healthcare, or consumer discretionary companies etc.
+
+Indexes are important since they are used as benchmarks for stocks and portfolios. For example, if you're invested in technology stocks, you'll want to see how your stocks are doing against a tech index. You'll then have a better way to rate your returns.
+
+What Does the Stock Market Do?
+The stock market fills several different roles worth highlighting:
+
+Corporate Governance: Publicly traded companies follow stringent reporting regulations, which makes them far more transparent and accountable. This information allows investors to make informed decisions and helps maintain investor confidence in the market. It's also a boon for everyday Americans to gain a view inside major U.S. corporations since, without these transparency requirements, they could close down much of what we know about them.
+
+Economic Indicator: The stock market's performance is often considered a gauge of an economy's health. Rising stock prices are associated with corporate profitability and economic growth while declining prices signal problems ahead.
+
+Investment Opportunities: The stock market offers the chance to invest in companies and potentially grow a portfolio over time. The stock market has historically delivered returns outpacing inflation, making it a vital tool for retirement planning, wealth building, and financial security.
+
+Liquidity: The stock market enables investors to buy and sell shares of companies and other securities quickly when needed.
+
+Raising Capital: Most importantly, the stock market offers a platform where companies raise funds by issuing stocks. This capital is essential for business expansion, research and development, and other corporate initiatives. By selling shares to the public, companies gain access to these funds without incurring debt.
+
+Resource Allocation: By reflecting the collective judgment of traders and investors through the price of different companies, the stock market is said to help efficiently distribute capital to companies more likely to succeed and away from those that are not.
+
+Why Is the Stock Market So Important?
+Now that we know the different parts of the stock market—who, what, where, and how it works—we can better understand why it's such a large part of our economy today.
+
+When the earliest stock markets formed, the global economy was vastly different. These were eras when trade and commerce were primarily driven by physical goods, with industries like agriculture, textiles, and early manufacturing dominating the economic landscape. Stock markets at the time were fledgling institutions, primarily helping to finance expeditions and trade ventures, which is to say, the colonial enterprises taking goods and peoples from South Asia, the Americas, and Africa. These stock exchanges were already global investment operations. Yet, they played a relatively minor role in everyday economic life.
+
+Fast forward to today, and the stock market is considered central to the global economy, a change underscored by financialization and the increasing dominance of financial markets and institutions. This isn't just because over a million Americans work in finance. Modern economies are characterized by a complex web of financial transactions and instruments, with the stock market not just a barometer for economic health but also seen as critical for distributing and creating wealth.
+
+Financialization has also mirrored broader socioeconomic changes. Today's stock markets are not just platforms for raising capital but have been tied into millions of Americans' retirement and investment strategies. This is why, at perilous times—2007 to 2008 and the pandemic being two major examples—the U.S. government and Federal Reserve felt far more obligated than in previous eras to step in. This was not just to protect the wealth of a select few but because the savings of a vast swath of Americans were at risk. Not long ago, Americans hearing stock market news might be listening for indirect effects on their jobs—say, to see how their firm is doing—but now they are doing so more often for the direct impact on their own portfolios, including 401(K)s.
+
+Of course, many are paying off college, mortgages, and other debts or are otherwise too fragile financially to have a portfolio of stocks or other assets. Still, they, too, feel the reach of the stock market and its effects. First, the market drives funding for technological advances like the smartphones in our pockets or the medications we take, which require many billions of dollars for research and development. This access to capital has been crucial for companies pushing into areas like artificial intelligence or new medical devices, costing many times what a company could otherwise borrow.
+
+Moves in the stock market also affect the broader economy and, by extension, employment. Its performance can influence corporate decisions, influencing job creation (and the opposite as layoffs can boost a stock price), expansion, and overall economic growth. A healthy stock market generally correlates with a more robust economy. But it could also mean more capital in the hands of a wealthy few, increasing the property values of once middle-class areas in almost every major American city.
+
+The stock market also indirectly influences public services and infrastructure. Pension funds, a major part of government spending for employees at the local, state, and federal levels, are significantly invested in the stock market. The returns generated from these investments can influence the financial health of pension funds, affecting the retirement security of millions of people—beyond the many more individuals who don't have pensions and are invested in the market directly through 401(k)s, mutual funds, and individual retirement accounts.
+
+What's the Difference Between the Bond Market and the Stock Market?
+Worldwide, the bond market is larger than the stock market, with about $130 trillion in bonds outstanding and about $101 trillion in stock market capitalization, according to the last data available. The bond and stock markets serve different purposes and offer different risk-reward profiles for investors. In the bond market, investors buy and sell debt securities, typically issued by governments (local, state, and federal) or corporations. When you invest in bonds, you're essentially lending money for regular interest payments and the return on the bond's face value at maturity.
+The stock market involves buying and selling shares and derivatives (instruments whose value correlates in some way to particular stocks) of publicly traded companies. Investing in stocks means buying a piece of ownership in a company. Stocks offer the potential for higher returns than bonds since investors can get both dividends when the company is profitable and returns when the stock price goes up. They also have a higher risk, as stock prices can be more volatile.
+
+What Is an Alternate Trading System?
+Alternative trading systems are platforms for matching large buy and sell transactions and are not regulated like exchanges. Dark pools and many cryptocurrency exchanges are private exchanges or forums for securities and currency trading and run within private groups.
+
+Who Helps an Investor Trade on the Stock Market?
+Stockbrokers act as intermediaries between the stock exchanges and the investors by buying and selling stocks. Portfolio managers are professionals who invest portfolios, or collections of securities, for clients. Investment bankers represent companies in many different ways, such as helping private companies that want to go public via an IPO or planning for mergers and acquisitions.
+
+The Bottom Line
+The stock market is where shares of companies and other financial instruments are bought and sold. It's a network of all-stock trading where investors and traders buy and sell stocks. These trades determine stock prices, reflecting the company's perceived value and market conditions. The stock market is also where companies raise capital and from which investors can grow their wealth. It thus plays a vital role in the global economy. Even if you don't trade on the stock market directly, it influences the products you buy, the type of jobs available, and the retirement you might plan.
+
+ARTICLE SOURCES
+
+Part of the Series
+How to Invest with Confidence
+
+Stock Market Basics
+
+  
+•  Investing: An Introduction
+
+  
+•  Stock Market Definition
+
+  
+• CURRENT ARTICLE
+
+  
+•  Primary and Secondary Markets
+
+  
+•  How to Buy/Sell Stocks
+
+  
+•  Market Hours
+
+  
+•  Stock Exchanges
+
+How Stock Investing Works
+
+Investing vs. Trading
+
+Bonds & Fixed Income
+
+Options & Futures
+
+Managing a Portfolio
+
+Stock Research
+
+Related Terms
+What is Private Investment in Public Equity (PIPE)?
+A private investment in public equity (PIPE) occurs when an institutional or other type of accredited investor buys stock directly from a public company below market price, instead of on a stock exchange. more
+Capital Markets: What They Are and How They Work
+Capital markets are venues where savings and investments are channeled between suppliers and those in need of capital. The best-known are the stock and bond markets. more
+What Are Financial Securities? Examples, Types, Regulation, and Importance
+A security is a fungible, negotiable financial instrument that represents some type of financial value, usually in the form of a stock, bond, or option. more
+What Are Shares? How They Compare to Stocks
+Shares are a unit of ownership of a company that may be purchased by an investor. more
+Over-the-Counter Markets: What They Are and How They Work
+An over-the-counter (OTC) market is a decentralized market where the participants trade with one another directly, without the oversight of an exchange. more
+What Is Stock Trading?
+Stock trading involves buying and selling shares of publicly traded companies. It typically happens in the United States on exchanges like the New York Stock Exchange (NYSE) or the Nasdaq stock market. more
+
+

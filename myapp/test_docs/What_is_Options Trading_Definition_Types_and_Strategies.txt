@@ -1,0 +1,95 @@
+
+What is Option Trading?
+An option is a contract that is written by a seller that conveys to the buyer the right — but not an obligation to buy (for a call option) or to sell (for a put option) a particular asset, at a specific price (strike price/exercise price) in future.
+In return for granting the option, the seller collects a payment (known as a premium) from the buyer.
+Understanding Options Trading
+With the help of Options Trading, an investor/trader can buy or sell stocks, ETFs, and others, at a certain price and within a certain date. It is a type of trading that offers investors fair flexibility to not purchase a security at a certain date/price.
+How Does Options Trading Work?
+When a trader/investor purchase or sell options, they attain a right to apply that option at any point in time, although before the expiration date. Merely buying/selling an option does not require an individual to exercise at the time of expiration.
+Because of this, options are regarded as derivative security.
+Strategies in Option Trading
+
+  
+• Long call options trading strategy
+
+  
+• Short call options trading strategy
+
+  
+• Long put options trading strategy
+
+  
+• Short put options trading strategy
+
+  
+• Long straddle options trading strategy
+
+  
+• Short straddle options trading strategy
+Participants in Options
+1. Buyer of an Option
+The one who, by paying the premium, buys the right to exercise his option on the seller/writer.
+2. Writer/seller of an Option
+The one who receives the premium of the option and thus is obliged to sell/buy the asset if the buyer of the option exercises it.
+3. Call Option
+A call option is an option that provides the holder the right but not the obligation to buy an asset at a set price before a certain date.
+4. Put Option
+A put option is an option that offers the holder, the right but not the obligation, to sell an asset at a set price before a certain date.
+Notable Terms in Options Trading
+1. Premium
+The price that the option buyer pays to the option seller is referred to as the option premium.
+2. Expiry Date
+The date specified in an option contract is known as the expiry date or the exercise date.
+3. Strike Price
+The price at which the contract is entered is the strike price or the exercise price.
+4. American Option
+The option that can be exercised at any date until the expiry date.
+5. European Option
+The option that can be exercised only on the expiry date.
+6. Index Options
+These are the options that have an index as the underlying. In India, the regulators authorized the European style of settlement. Examples of such options include Nifty options, Bank Nifty options, etc.
+7. Stock Options
+These are options on the individual stocks (with stock as the underlying). The contract gives the holder the right to buy or sell the underlying shares at the specified price. The regulator has also authorized the American style of settlement for such options.
+Profitability Scenario in Options
+1. In-the-Money Option
+In-the-money (ITM) option is the one that leads to positive cash flow to the holder if it was exercised immediately.
+For example, in a call option on the index, if the current index value is higher than the strike price (spot price > strike price), the option is said to be in-the-money.
+2. At-the-Money Option
+At-the-money (ATM) option is an option that leads to zero cash flow ( a situation of no profit/no loss) if it were exercised immediately.
+For example, in the previous case, if the current index value is equal to strike price (spot price = strike price), the option is ATM.
+3. Out-of-the-Money Option
+Out-of-the-money (OTM) option is an option that would lead to negative cash flow if it were exercised immediately.
+For example, in the previous case, if the index value is lower than the strike price (spot price < strike price), the option is said to be OTM.
+Check Other Options: 
+
+  
+• HDFC Bank Option Chain
+
+  
+• ITC Option Chain
+
+  
+• Crude Oil Option Chain
+
+  
+• Nifty Trader Option Chain
+
+  
+• Bank Nifty Option Chain
+
+  
+• Finnifty Option Chain
+
+  
+• Midcap Nifty Option Chain
+
+  
+• Natural Gas Option Chain
+
+  
+• Reliance Option Chain
+
+  
+• SBI Option Chain
+
+  

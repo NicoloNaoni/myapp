@@ -1,0 +1,301 @@
+Options Trading: How to Trade Stock Options in 5 Steps
+
+By ELVIN MIRZAYEV Updated June 27, 2024
+Reviewed by JEFREDA R. BROWN
+Fact checked by VIKKI VELASQUEZ
+Part of the Series
+How to Invest with Confidence
+
+Options are a type of contract that gives the buyer the right to buy or sell a security at a specified price at some point in the future. An option holder is essentially paying a premium for the right to buy or sell the security within a certain timeframe.
+
+If market prices become unfavorable for option holders, they will let the option expire worthless and not exercise this right, ensuring that potential losses are not higher than the premium. If the market moves in a favorable direction, the holder may choose to exercise the contract.
+
+Options are generally divided into "call" and "put" contracts. With a call option, the buyer of the contract purchases the right to buy the underlying asset in the future at a predetermined price, known as the exercise price or strike price. With a put option, the buyer acquires the right to sell the underlying asset in the future at the predetermined price.
+
+KEY TAKEAWAYS
+
+  
+• Options trading may sound risky or complex for beginner investors, and so they often stay away.
+
+  
+• Some basic strategies using options, however, can help a novice investor protect their downside and hedge market risk.
+
+  
+• Here we look at four such strategies: long calls, long puts, covered calls, protective puts, and straddles.
+
+  
+• Options trading can be complex, so be sure to understand the risks and rewards involved before diving in.
+
+xPACIFICA / Getty Images
+How to Trade Options in 5 Steps
+Embarking on the path to options trading encompasses five pivotal steps. First, you should assess your financial health, tolerance for risk and options knowledge. This is fundamental to align with the volatile nature of options trading. Then you should choose the right broker. This involves evaluating fees, platform capabilities, and support services.
+
+Next, you need to gain approval for options trading, proving your market savvy and financial preparedness to the brokers. Success in options trading hinges on crafting a comprehensive trading plan that includes clear strategies, risk management techniques, and defined objectives. Lastly, you should understand the tax implications of options trading and continue to learn and manage your risks.
+
+1. Assess Your Readiness
+Options trading can be more complex and riskier than stock trading. It requires a good grasp of market trends, the ability to read and interpret data and indicators, and an understanding of volatility. You need to be honest about your risk tolerance, investment goals, and the time you can dedicate to this activity.
+
+2. Choose a Broker and Get Approved to Trade Options
+You should look for a broker that supports options trading and suits your needs in terms of fees, platform usability, customer service, and educational resources. The best options brokers should offer a good balance between costs and features.
+
+Most brokers require you to fill out an options approval form as part of the account setup process. This usually involves disclosing your financial situation, trading experience, and understanding of the risks involved. Brokers offer different levels of options trading approval based on the risk associated with various strategies, from basic covered calls to more advanced strategies like straddles or iron condors.
+
+3. Create a Trading Plan
+Define your trading strategy, including the types of options strategies you plan to execute, your entry and exit criteria, and how you will manage risk. Paper trading, or simulated trading, can be a valuable tool for testing your strategies without financial risk.
+
+4. Understand the Tax Implications
+Options trading has unique tax considerations. The Internal Revenue Services (IRS) treats options transactions differently depending on the strategy and outcome. It is advisable to consult a tax professional to understand the implications for your situation.
+
+5. Keep Learning and Managing Risk
+The options market evolves, and continuous education is key to staying informed. You need to be always aware of the risks involved in options trading and use risk management techniques to protect your capital.
+
+Pros and Cons of Trading Options
+Pros
+
+  
+• Potential upside gains
+
+  
+• Losses may be limited to premium paid
+
+  
+• Leverage can increase rewards
+
+  
+• Risk hedging
+Cons
+
+  
+• Complex
+
+  
+• Difficult to price
+
+  
+• Advance investment knowledge
+
+  
+• Leverage can multiply potential losses
+
+  
+• Potentially unlimited risk when selling options
+
+Buying Calls (Long Calls)
+There are some advantages to trading options for those looking to make a directional bet in the market. If you think the price of an asset will rise, you can buy a call option using less capital than the asset itself. At the same time, if the price falls instead, your losses are limited to the premium paid for the options and no more. This could be a preferred strategy for traders who:
+
+  
+• Are "bullish" or confident about a particular stock, exchange-traded fund (ETF), or index and want to limit risk
+
+  
+• Want to utilize leverage to take advantage of rising prices.
+
+Options are essentially leveraged instruments in that they allow traders to amplify the potential upside benefit by using smaller amounts than would otherwise be required if trading the underlying asset itself. So, instead of laying out $10,000 to buy 100 shares of a $100 stock, you could hypothetically spend, say, $2,000 on a call contract with a strike price 10% higher than the current market price.
+
+A standard equity option contract on a stock controls 100 shares of the underlying security.
+Example
+Suppose a trader wants to invest $5,000 in Apple (AAPL), trading at around $165 per share. With this amount, they can purchase 30 shares for $4,950. Suppose then that the price of the stock increases by 10% to $181.50 over the next month. Ignoring any brokerage commission or transaction fees, the trader’s portfolio will rise to $5,445, leaving the trader with a net dollar return of $495, or 10% on the capital invested.
+
+Now, let's say a call option on the stock with a strike price of $165 that expires about a month from now costs $5.50 per share or $550 per contract. Given the trader's available investment budget, they can buy nine options for a cost of $4,950. Because the option contract controls 100 shares, the trader is effectively making a deal on 900 shares. If the stock price increases 10% to $181.50 at expiration, the option will expire in the money (ITM) and be worth $16.50 per share (for a $181.50 to $165 strike), or $14,850 on 900 shares. That's a net dollar return of $9,990, or 200% on the capital invested, a much larger return compared to trading the underlying asset directly.
+
+Risk/Reward
+The trader's potential loss from a long call is limited to the premium paid. Potential profit is unlimited because the option payoff will increase along with the underlying asset price until expiration, and there is theoretically no limit to how high it can go.
+
+Image by Julie Bang Â© Investopedia 2019
+Buying Puts (Long Puts)
+If a call option gives the holder the right to purchase the underlying at a set price before the contract expires, a put option gives the holder the right to sell the underlying at a set price. This is a preferred strategy for traders who:
+
+  
+• Are bearish on a particular stock, ETF, or index, but want to take on less risk than with a short-selling strategy
+
+  
+• Want to utilize leverage to take advantage of falling prices
+
+A put option works effectively in the exact opposite direction from the way a call option does, with the put option gaining value as the price of the underlying decreases. Though short-selling also allows a trader to profit from falling prices, the risk with a short position is unlimited because there is theoretically no limit to how high a price can rise. With a put option, if the underlying ends up higher than the strike price, the option will simply expire worthless.
+
+Example
+Say that you think the price of a stock is likely to decline from $60 to $50 or lower based on corporate earnings, but you don't want to risk selling the stock short in case earnings do not disappoint. Instead, you can buy the $50 put for a premium of $2.00. If the stock does not fall below $50, or if indeed it rises, the most you will lose is the $2.00 premium.
+
+However, if you are right and the stock drops to $45, you would make $3 ($50 minus $45. less the $2 premium).
+
+Risk/Reward
+The potential loss on a long put is limited to the premium paid for the options. The maximum profit from the position is capped because the underlying price cannot drop below zero, but as with a long call option, the put option leverages the trader's return.
+
+Image by Julie Bang Â© Investopedia 2019
+Covered Calls
+Unlike the long call or long put, a covered call is a strategy that is overlaid onto an existing long position in the underlying asset. It is essentially an upside call that is sold in an amount that would cover that existing position size. In this way, the covered call writer collects the option premium as income, but also limits the upside potential of the underlying position. This is a preferred position for traders who:
+
+  
+• Expect no change or a slight increase in the underlying's price, collecting the full option premium
+
+  
+• Are willing to limit upside potential in exchange for some downside protection
+
+A covered call strategy involves buying 100 shares of the underlying asset and selling a call option against those shares. When the trader sells the call, the option's premium is collected, thus lowering the cost basis on the shares and providing some downside protection. In return, by selling the option, the trader is agreeing to sell shares of the underlying at the option's strike price, thereby capping the trader's upside potential.
+
+Example
+Suppose a trader buys 1,000 shares of BP (BP) at $44 per share and simultaneously writes 10 call options (one contract for every 100 shares) with a strike price of $46 expiring in one month, at a cost of $0.25 per share, or $25 per contract and $250 total for the 10 contracts. The $0.25 premium reduces the cost basis on the shares to $43.75, so any drop in the underlying down to this point will be offset by the premium received from the option position, thus offering limited downside protection.
+
+If the share price rises above $46 before expiration, the short call option will be exercised (or "called away"), meaning the trader will have to deliver the stock at the option's strike price. In this case, the trader will make a profit of $2.25 per share ($46 strike price - $43.75 cost basis).
+
+However, this example implies the trader does not expect BP to move above $46 or significantly below $44 over the next month. As long as the shares do not rise above $46 and get called away before the options expire, the trader will keep the premium free and clear and can continue selling calls against the shares if desired.
+
+Risk/Reward
+If the share price rises above the strike price before expiration, the short call option can be exercised and the trader will have to deliver shares of the underlying at the option's strike price, even if it is below the market price. In exchange for this risk, a covered call strategy provides limited downside protection in the form of the premium received when selling the call option.
+
+Image by Julie Bang Â© Investopedia 2019
+Protective Puts
+A protective put involves buying a downside put in an amount to cover an existing position in the underlying asset. In effect, this strategy puts a lower floor below which you cannot lose more. Of course, you will have to pay for the option's premium. In this way, it acts as a sort of insurance policy against losses. This is a preferred strategy for traders who own the underlying asset and want downside protection
+
+Thus, a protective put is a long put, like the strategy we discussed above; however, the goal, as the name implies, is downside protection versus attempting to profit from a downside move. If a trader owns shares with a bullish sentiment in the long run but wants to protect against a decline in the short run, they may purchase a protective put. 
+
+If the price of the underlying increases and is above the put's strike price at maturity, the option expires worthless and the trader loses the premium but still has the benefit of the increased underlying price. On the other hand, if the underlying price decreases, the trader’s portfolio position loses value, but this loss is largely covered by the gain from the put option position. Hence, the position can effectively be thought of as an insurance strategy.
+
+Example
+The trader can set the strike price below the current price to reduce premium payment at the expense of decreasing downside protection. This can be thought of as deductible insurance. Suppose, for example, that an investor buys 1,000 shares of Coca-Cola (KO) at a price of $44 and wants to protect the investment from adverse price movements over the next two months. The following put options are available:
+
+  
+    
+      
+        Protective Put Examples
+      
+    
+  
+
+  
+    
+      
+        June 2023 options
+      
+    
+  
+
+  
+    
+      
+        Premium
+      
+    
+  
+
+  
+    
+      
+        $44 put
+      
+    
+  
+
+  
+    
+      
+        $1.23
+      
+    
+  
+
+  
+    
+      
+        $42 put
+      
+    
+  
+
+  
+    
+      
+        $0.47
+      
+    
+  
+
+  
+    
+      
+        $40 put
+      
+    
+  
+
+  
+    
+      
+        $0.20
+      
+    
+  
+
+The table shows that the cost of protection increases with the level thereof. For example, if the trader wants to protect the investment against any drop in price, they can buy 10 at-the-money (ATM) put options at a strike price of $44 for $1.23 per share, or $123 per contract, for a total cost of $1,230. However, if the trader is willing to tolerate some level of downside risk, choosing a less costly out-of-the-money (OTM) option such as the $40 put could also work. In this case, the cost of the option position will be much lower at only $200.
+
+Risk/Reward
+If the price of the underlying stays the same or rises, the potential loss will be limited to the option premium, which is paid as insurance. If, however, the price of the underlying drops, the loss in capital will be offset by an increase in the option's price and is limited to the difference between the initial stock price and strike price plus the premium paid for the option. In the example above, at the strike price of $40, the loss is limited to $4.20 per share ($44 - $40 + $0.20).
+
+Long Straddles
+Buying a straddle lets you capitalize on future volatility but without having to take a bet whether the move will be to the upside or downside—either direction will profit.
+
+Here, an investor buys both a call option and a put option at the same strike price and expiration on the same underlying. Because it involves purchasing two at-the-money options, it is more expensive than some other strategies.
+
+Example
+Consider someone who expects a particular stock to experience large price fluctuations following an earnings announcement on Jan. 15. Currently, the stock’s price is $100.
+
+The investor creates a straddle by purchasing both a $5 put option and a $5 call option at a $100 strike price which expires on Jan. 30. The net option premium for this straddle is $10. The trader would realize a profit if the price of the underlying security was above $110 (which is the strike price plus the net option premium) or below $90 (which is the strike price minus the net option premium) at the time of expiration.
+
+Risk/Reward
+A long straddle can only lose a maximum of what you paid for it. Since it involves two options, however, it will cost more than either a call or put by itself. The maximum reward is theoretically unlimited to the upside and is bounded to the downside by the strike price (e.g., if you own a $20 straddle and the stock price goes to zero, you would make a max. of $20).
+
+Image by Julie Bang Â© Investopedia 2019
+Other Options Strategies
+The strategies outlined here are straightforward and can be employed by most novice traders or investors. There are, however, more nuanced strategies than simply buying calls or puts. While we discuss many of these types of strategies elsewhere, here is just a brief list of some other basic options positions that would be suitable for those comfortable with the ones discussed above:
+
+  
+• Married put strategy: Similar to a protective put, the married put involves buying an at-the-money (ATM) put option in an amount to cover an existing long position in the stock. In this way, it mimics a call option (sometimes called a synthetic call).
+
+  
+• Protective collar strategy: With a protective collar, an investor who holds a long position in the underlying buys an out-of-the-money (i.e., downside) put option, while at the same time writing an out-of-the-money (upside) call option for the same stock.
+
+  
+• Long strangle strategy: Similar to the straddle, the buyer of a strangle goes long on an out-of-the-money call option and a put option at the same time. They will have the same expiration date, but they have different strike prices: The put strike price should be below the call strike price. This involves a lower outlay of premium than a straddle but also requires the stock to move either higher to the upside or lower to the downside in order to be profitable.
+
+  
+• Vertical Spreads: A vertical spread involves the simultaneous buying and selling of options of the same type (i.e., either puts or calls) and expiry, but at different strike prices. These can be constructed as either bull or bear spreads, which will profit when the market rises or falls, respectively. Spreads are less costly than a long call or long put since you are also receiving the options premium from the one you sold. However, this also limits your potential upside to the width between the strikes.
+
+The biggest advantage to buying options is that you have great upside potential with losses limited only to the option's premium. However, this can also be a drawback since options will expire worthless if the stock does not move enough to be in-the-money. This means that buying a lot of out-of-the-money options can be costly.
+
+Options can be very useful as a source of leverage and risk hedging. For example, a bullish investor who wishes to invest $1,000 in a company could potentially earn a far greater return by purchasing $1,000 worth of call options on that firm, as compared to buying $1,000 of that company’s shares. In this sense, the call options provide the investor with a way to leverage their position by increasing their buying power. On the other hand, if that same investor already has exposure to that same company and wants to reduce that exposure, they could hedge their risk by selling put options against that company.
+
+The main disadvantage of options contracts is that they are complex and difficult to price. This is why options are often considered a more advanced investment vehicle, suitable only for experienced investors. In recent years, they have become increasingly popular among retail investors. Because of their capacity for outsized returns or losses, investors should make sure they fully understand the potential implications before entering into any options positions. Failing to do so can lead to devastating losses.
+
+There is also a large risk selling options in that you take on theoretically unlimited risk with profits limited to the premium (price) received for the option.
+
+Options trading can be more complex and riskier than stock trading. It requires a good grasp of market trends, the ability to read and interpret data and indicators, and an understanding of volatility. You need to be honest about your risk tolerance, investment goals, and the time you can dedicate to this activity.
+
+Is Options Trading better than Investing in Stocks?
+Determining whether options trading is better than investing in stocks depends on your investment goals, risk tolerance, time horizon, and market knowledge. Both have their advantages and disadvantages, and the best choice varies based on the individual.
+It should be known that neither options trading nor stock investing is inherently better. They serve different purposes and suit different profiles. A balanced approach for some traders and investors may involve incorporating both strategies into their portfolio, using stocks for long-term growth and options for leverage, income, or hedging. Consider consulting with a financial advisor to align any investment strategy with your financial goals and risk tolerance.
+
+Is Options Trading Right for Me?
+Figuring out whether options trading is right for you involves a self-assessment of several key factors, including your investment goals, risk tolerance, market knowledge, and commitment to ongoing learning. Thus, you should understand your goals, assess your risk tolerance, evaluate your market knowledge and willingness to learn, consider your financial situation, consider your ability to commit time to options trading as well as develop your emotional discipline. It is always advisable to start with education and perhaps paper trading to gain experience and confidence before committing real capital to options trading.
+
+What Are the Levels of Options Trading?
+Most brokers assign different levels of options trading approval based on the riskiness involved and complexity involved. The four strategies discussed here would all fall under the most basic levels, level 1 and Level 2. Customers of brokerages will typically have to be approved for options trading up to a certain level and maintain a margin account.
+
+  
+• Level 1: covered calls and protective puts, when an investor already owns the underlying asset
+
+  
+• Level 2: long calls and puts, which would also include straddles and strangles
+
+  
+• Level 3: options spreads, involving buying one or more options and at the same time selling one or more different options of the same underlying
+
+  
+• Level 4: selling (writing) naked options, which here means unhedged, posing the possibility for unlimited losses
+
+Where Do Options Trade?
+Listed options trade on specialized exchanges such as the Chicago Board Options Exchange (CBOE), the Boston Options Exchange (BOX), or the International Securities Exchange (ISE), among others. These exchanges are largely electronic nowadays, and orders you send through your broker will be routed to one of these exchanges for best execution.
+
+Can You Trade Options for Free?
+Though many brokers now offer commission-free trading in stocks and ETFs, options trading still involves fees or commissions. There will typically be a fee-per-trade (e.g., $4.95) plus a commission per contract (e.g., $0.50 per contract). Therefore, if you buy 10 options under this pricing structure, the cost to you would be $4.95 + (10 x $0.50) = $9.95.
+
+The Bottom Line
+Options offer alternative strategies for investors to profit from trading underlying securities. There are advanced strategies like the butterfly and Christmas tree that involve different combinations of options contracts. Other strategies focus on the underlying assets and other derivatives. Basic strategies for beginners include buying calls, buying puts, selling covered calls, and buying protective puts. There are advantages to trading options rather than underlying assets, such as downside protection and leveraged returns, but there are also disadvantages, like the requirement for upfront premium payment. The first step to trading options is to choose a broker.

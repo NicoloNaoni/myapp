@@ -1,0 +1,83 @@
+Il Forex e come funziona?
+Il Forex è il mercato dove avvengono tutte le negoziazioni che hanno per oggetto le differenti valute. Il termine deriva dall’inglese FOReign EXchange market. Nasce sulla base di esigenze commerciali, al fine di concludere transazioni. Scopriamo di più.
+
+Forex
+
+  
+• Come funzionano le coppie valutarie?
+
+  
+• Coppie Forex
+
+  
+• Come funziona il Forex?
+
+  
+• Come avvengono le operazioni?
+Il Forex è il mercato dove avvengono tutte le negoziazioni che hanno per oggetto le differenti valute. Non a caso, il termine stesso Forex deriva dall’inglese FOReign EXchange market. 
+
+Ha origini antiche e nasce da esigenze commerciali di cambiare una valuta per un’altra, al fine di concludere transazioni. 
+Il mercato del forex opera grazie ad una rete globale interbancaria, distribuita su quattro principali centri di trading che coprono tutti i fusi orari globali (Londra, New York, Sydney e Tokyo).
+
+La prima e più importante caratteristica del Forex, risiede nella liquidità. Esso è senza dubbio il mercato più liquido al mondo e tale elevata liquidità permette ai prezzi di subire in maniera minore movimenti speculativi e di trovare sempre una controparte, per qualsiasi scambio. 
+
+Forex = Foreign + Exchange
+
+Il forex è il mercato delle valute e ad essere scambiate non sono le singole valute, come spesso si dice, ma coppie di valute. Per esempio, non è possibile vendere dollari e basta. Bisogna vendere dollari e comprare, contemporaneamente, un’altra valuta, ad esempio euro.
+
+Nel Forex si ragiona, quindi, in termini di coppie di valute: ad esempio, EUR/USD sta ad indicare il cambio euro/dollaro.
+Come funzionano le coppie valutarie?
+Le transazioni sul mercato forex comportano sempre la vendita contestuale di una valuta e l’acquisto di un’altra. Per questo motivo si parla di “coppie valutarie”.
+ 
+Ad esempio l’euro dollaro, viene indicato come EUR/USD. La valuta alla sinistra (EUR) viene indicata come valuta principale o di base, mentre la valuta alla destra (USD) è la valuta secondaria o contro valuta.
+Nel nostro caso, l’euro (EUR) viene acquistato o venduto ottenendo in cambio una certa quantità di valuta secondaria, a seconda del tasso di cambio applicabile.
+
+Sul mercato si vedono le quotazioni espresse con due tassi di riferimento, ad esempio EUR/USD 1,1534/1,1536.
+Il prezzo alla sinistra viene indicato come prezzo denaro “bid” ed è il prezzo al quale si è disposti ad acquistare una coppia valutaria.
+Viceversa, il prezzo alla destra viene indicato come prezzo lettera “ask” o di offerta, ovverosia il prezzo al quale si è disposti a vendere una coppia valutaria.
+
+Il differenziale tra il prezzo denaro e il prezzo lettera è comunemente noto con il termine inglese di spread. Questo è il costo dell’operazione di trading e cioè della compravendita.
+Nel nostro esempio, tale differenziale è pari a 0,0002. Per comodità di notazione, si tende ad indicarlo come 2 pip (point in price), 2 punti percentuali.
+Coppie Forex
+Come abbiamo avuto modo di vedere, le valute vengono negoziate in coppie.
+Nonostante virtualmente sia possibile scambiare qualsiasi valuta mondiale per un’altra, vi sono alcune valute che attraggono un volume di scambi maggiore, per lo più in base all’importanza dell’economia di riferimento e agli scambi globali effettuati. Queste vengono denominate coppie maggiori.
+Si tratta del gruppo di valute più comunemente scambiate, che rappresenta oltre l’80% degli scambi complessivi che avvengono sul mercato valutario. 
+L’elevata disponibilità e liquidità fanno sì che le condizioni di trading (che significa appunto commerciare o negoziare) su queste coppie siano particolarmente vantaggiose, con spread relativamente bassi rispetto ad altre coppie meno scambiate.
+Come funziona il Forex?
+Il segreto del funzionamento del Forex è nel c.d. “rapporto di cambio“, che costituisce il “prezzo” con cui una valuta viene scambiata nei confronti dell’altra.
+
+Il Forex serve quindi a determinare il valore di una valuta rispetto a un’altra. Questa stima di valore è importantissima perché serve a molteplici scopi pratici che riguardano direttamente la nostra vita quotidiana.
+
+Se viaggi al di fuori della zona Euro, ad esempio negli Stati Uniti, potrai cambiare i tuoi euro in dollari statunitensi in base al tasso di cambio corrente stabilito nel mercato valutario, ovvero il Forex.
+Se hai un’azienda che fa import/export, il valore delle merci che acquisti o vendi all’estero è influenzato dal Forex.
+Perfino il prezzo dei beni di prima necessità e della benzina è direttamente influenzato dal mercato valutario, spesso senza che ce ne accorgiamo.
+Il trading Forex non è quindi altro che l’acquisto o la vendita di divise (valute).
+Come noi, le banche, le banche centrali, le aziende, gli investitori istituzionali e i trader comuni negoziano sul mercato forex per far fronte a diverse necessità, tra cui commercio internazionale, turismo, investimento, stabilizzazione dei mercati o semplicemente per cercare di generare un profitto dal differenziale tra il prezzo di acquisto e quello di vendita.
+
+Come si è visto, il Forex ha una funzione pratica molto importante. La maggior parte degli operatori hanno bisogno di una valuta estera per il commercio internazionale o per scambi finanziari. 
+
+Ad oggi però il mercato valutario è diventato anche altro, ci sono i trader speculativi, cioè quelli che operano sul forex per guadagnare come:
+
+  
+• Banche e gli istituti finanziari che sono tra i principali attori del Forex: essi conducono le più grandi operazioni, spesso a fini anche speculativi. Anche le banche centrali partecipano al Forex, come la BCE.
+
+  
+• Le grandi società commerciali: queste partecipano sostanzialmente per fare affari e per coprire la loro esposizione, agendo sugli equilibri del mercato.
+
+  
+• I traders retail: si tratta degli operatori finanziari privati, ovvero piccoli e grandi investitori che partecipano al Forex con lo scopo di guadagnare grandi somme di denaro.
+Come avvengono le operazioni?
+Le operazioni di trading Forex avvengono principalmente sotto forma di tre diversi contratti:
+
+  
+• Spot: contratti in cui le parti si accordano per la compravendita di valuta al prezzo di mercato corrente. Tale contratto viene eseguito “a pronti”, (in inglese “on the spot”).
+
+  
+• Forward (a termine): noti anche come contratti forward, prevedono un contratto forex in cui viene stipulato un certo prezzo al quale una valuta deve essere scambiata per un’altra. Significa che sin quando la valuta non arriverà a quel prezzo, lo scambio non avverrà. Questa forma di contratto può essere aperta (senza data di scadenza) o prevedere una data limite entro cui il contratto può essere eseguito, ma dopo la quale verrà annullato.
+Tale tipo di contratto viene comunemente utilizzato nelle strategie di trading per impostare un ordine ad un prezzo specifico non attualmente disponibile.
+
+  
+• Future: sono contratti in cui viene pattuita la compravendita di valute ad un determinato prezzo in una data specifica. La sostanziale differenza tra i contratti forward (a termine) e i contratti future è che i contratti future sono vincolanti per le parti, che sono tenute a adempiere al contratto di scambio entro la scadenza.
+È importante ricordare però che l’obiettivo del mercato forex non è quello di garantire profitti ai trader, ma al contrario di rendere possibili le transazioni commerciali e finanziarie a livello internazionale.
+Ultimo aggiornamento marzo 2022
+A cura di: Giada Carta

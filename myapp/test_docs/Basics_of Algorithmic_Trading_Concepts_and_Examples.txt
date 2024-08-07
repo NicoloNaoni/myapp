@@ -1,0 +1,247 @@
+Basics of Algorithmic Trading: Concepts and Examples
+
+By SHOBHIT SETH Updated December 14, 2023
+Reviewed by THOMAS J. CATALANO
+Fact checked by MELODY KAZEL
+
+What Is Algorithmic Trading?
+Algorithmic trading (also called automated trading, black-box trading, or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade. The trade, in theory, can generate profits at a speed and frequency that is impossible for a human trader.
+
+The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from profit opportunities for the trader, algo-trading renders markets more liquid and trading more systematic by ruling out the impact of human emotions on trading activities.
+
+KEY TAKEAWAYS
+
+  
+• Algorithmic trading combines computer programming and financial markets to execute trades at precise moments.
+
+  
+• Algorithmic trading attempts to strip emotions out of trades, ensures the most efficient execution of a trade, places orders instantaneously and may lower trading fees.
+
+  
+• Common trading strategies include trend-following strategies, arbitrage opportunities, and index fund rebalancing.
+
+  
+• Algorithmic trading is also executed based on trading volume (volume-weighted average price) or the passage of time (time-weighted average price).
+
+  
+• To get started with algorithmic trading, you must have computer access, network access, financial market knowledge, and coding capabilities.
+How Algorithmic Trading Works
+Suppose a trader follows these simple trade criteria:
+
+  
+• Buy 50 shares of a stock when its 50-day moving average goes above the 200-day moving average. (A moving average is an average of past data points that smooths out day-to-day price fluctuations and thereby identifies trends.)  
+
+  
+• Sell shares of the stock when its 50-day moving average goes below the 200-day moving average.
+
+Using these two simple instructions, a computer program will automatically monitor the stock price (and the moving average indicators) and place the buy and sell orders when the defined conditions are met. The trader no longer needs to monitor live prices and graphs or put in the orders manually. The algorithmic trading system does this automatically by correctly identifying the trading opportunity. 
+
+Advantages and Disadvantages of Algorithmic Trading
+Advantages
+Algo-trading provides the following advantages:
+
+  
+• Best Execution: Trades are often executed at the best possible prices.
+
+  
+• Low Latency: Trade order placement is instant and accurate (there is a high chance of execution at the desired levels). Trades are timed correctly and instantly to avoid significant price changes.
+
+  
+• Reduced transaction costs.
+
+  
+• Simultaneous automated checks on multiple market conditions.
+
+  
+• No Human Error: Reduced risk of manual errors or mistakes when placing trades. Also negates human traders; tendency to be swayed by emotional and psychological factors.
+
+  
+• Backtesting: Algo-trading can be backtested using available historical and real-time data to see if it is a viable trading strategy.
+
+Disadvantages
+There are also several drawbacks or disadvantages of algorithmic trading to consider:
+
+  
+• Latency: Algorithmic trading relies on fast execution speeds and low latency, which is the delay in the execution of a trade. If a trade is not executed quickly enough, it may result in missed opportunities or losses.
+
+  
+• Black Swan Events: Algorithmic trading relies on historical data and mathematical models to predict future market movements. However, unforeseen market disruptions, known as black swan events, can occur, which can result in losses for algorithmic traders.
+
+  
+• Dependence on Technology: Algorithmic trading relies on technology, including computer programs and high-speed internet connections. If there are technical issues or failures, it can disrupt the trading process and result in losses.
+
+  
+• Market Impact: Large algorithmic trades can have a significant impact on market prices, which can result in losses for traders who are not able to adjust their trades in response to these changes. Algo trading has also been suspected of increasing market volatility at times, even leading to so-called flash crashes.
+
+  
+• Regulation: Algorithmic trading is subject to various regulatory requirements and oversight, which can be complex and time-consuming to comply with.
+
+  
+• High Capital Costs: The development and implementation of algorithmic trading systems can be costly, and traders may need to pay ongoing fees for software and data feeds.
+
+  
+• Limited Customization: Algorithmic trading systems are based on pre-defined rules and instructions, which can limit the ability of traders to customize their trades to meet their specific needs or preferences.
+
+  
+• Lack of Human Judgment: Algorithmic trading relies on mathematical models and historical data, which means that it does not take into account the subjective and qualitative factors that can influence market movements. This lack of human judgment can be a disadvantage for traders who prefer a more intuitive or instinctive approach to trading.
+
+Pros & Cons of Algorithmic Trading
+Pros
+
+  
+• Instant order confirmation
+
+  
+• Potential for best price and lowest cost trades
+
+  
+• No human error in trade execution
+
+  
+• Not biased by human emotion
+Cons
+
+  
+• Lack of human judgment in real-time
+
+  
+• Can lead to increased volatility or market instability at times
+
+  
+• High capital outlays to build and maintain software & hardware
+
+  
+• May be subject to additional regulatory scrutiny
+
+Algo-Trading Time Scales
+Much of the algo-trading today is high-frequency trading (HFT), which attempts to capitalize on placing a large number of orders at rapid speeds across multiple markets and multiple decision parameters based on preprogrammed instructions. 
+
+Algo-trading is used in many forms of trading and investment activities including:
+
+  
+• Mid- to long-term investors or buy-side firms—pension funds, mutual funds, insurance companies—use algo-trading to purchase stocks in large quantities when they do not want to influence stock prices with discrete, large-volume investments.
+
+  
+• Short-term traders and sell-side participants—market makers (such as brokerage houses), speculators, and arbitrageurs—benefit from automated trade execution; in addition, algo-trading aids in creating sufficient liquidity for sellers in the market.
+
+  
+• Systematic traders—trend followers, hedge funds, or pairs traders (a market-neutral trading strategy that matches a long position with a short position in a pair of highly correlated instruments such as two stocks, exchange-traded funds (ETFs), or currencies)—find it much more efficient to program their trading rules and let the program trade automatically.
+
+Algorithmic trading provides a more systematic approach to active trading than methods based on trader intuition or instinct.
+
+Algorithmic Trading Strategies
+Any strategy for algorithmic trading requires an identified opportunity that is profitable in terms of improved earnings or cost reduction. The following are common trading strategies used in algo-trading:
+
+Trend-Following Strategies
+The most common algorithmic trading strategies follow trends in moving averages, channel breakouts, price level movements, and related technical indicators. These are the easiest and simplest strategies to implement through algorithmic trading because these strategies do not involve making any predictions or price forecasts. Trades are initiated based on the occurrence of desirable trends, which are easy and straightforward to implement through algorithms without getting into the complexity of predictive analysis. Using 50- and 200-day moving averages is a popular trend-following strategy.
+
+Arbitrage Opportunities
+Buying a dual-listed stock at a lower price in one market and simultaneously selling it at a higher price in another market offers the price differential as risk-free profit or arbitrage. The same operation can be replicated for stocks vs. futures instruments as price differentials do exist from time to time. Implementing an algorithm to identify such price differentials and placing the orders efficiently allows profitable opportunities.
+
+Index Fund Rebalancing
+Index funds have defined periods of rebalancing to bring their holdings to par with their respective benchmark indices. This creates profitable opportunities for algorithmic traders, who capitalize on expected trades that offer 20 to 80 basis points profits depending on the number of stocks in the index fund just before index fund rebalancing. Such trades are initiated via algorithmic trading systems for timely execution and the best prices.
+
+Algorithmic trading allows traders to perform high-frequency trades. The speed of high-frequency trades used to be measured in milliseconds. Today, they may be measured in microseconds or nanoseconds (billionths of a second).
+Mathematical Model-Based Strategies
+Proven mathematical models, like the delta-neutral trading strategy, allow trading on a combination of options and the underlying security. (Delta neutral is a portfolio strategy consisting of multiple positions with offsetting positive and negative deltas—a ratio comparing the change in the price of an asset, usually a marketable security, to the corresponding change in the price of its derivative—so that the overall delta of the assets in question totals zero.) 
+
+Trading Range (Mean Reversion)
+Mean reversion strategy is based on the concept that the high and low prices of an asset are a temporary phenomenon that revert to their mean value (average value) periodically. Identifying and defining a price range and implementing an algorithm based on it allows trades to be placed automatically when the price of an asset breaks in and out of its defined range.
+
+Volume-Weighted Average Price (VWAP)
+Volume-weighted average price strategy breaks up a large order and releases dynamically determined smaller chunks of the order to the market using stock-specific historical volume profiles. The aim is to execute the order close to the volume-weighted average price (VWAP).
+
+Time Weighted Average Price (TWAP)
+Time-weighted average price strategy breaks up a large order and releases dynamically determined smaller chunks of the order to the market using evenly divided time slots between a start and end time. The aim is to execute the order close to the average price between the start and end times thereby minimizing market impact.
+
+Percentage of Volume (POV)
+Until the trade order is fully filled, this algorithm continues sending partial orders according to the defined participation ratio and according to the volume traded in the markets. The related “steps strategy” sends orders at a user-defined percentage of market volumes and increases or decreases this participation rate when the stock price reaches user-defined levels.
+
+Implementation Shortfall
+The implementation shortfall strategy aims at minimizing the execution cost of an order by trading off the real-time market, thereby saving on the cost of the order and benefiting from the opportunity cost of delayed execution. The strategy will increase the targeted participation rate when the stock price moves favorably and decrease it when the stock price moves adversely.
+
+Beyond the Usual Trading Algorithms
+There are a few special classes of algorithms that attempt to identify “happenings” on the other side. These “sniffing algorithms”—used, for example, by a sell-side market maker—have the built-in intelligence to identify the existence of any algorithms on the buy side of a large order. Such detection through algorithms will help the market maker identify large order opportunities and enable them to benefit by filling the orders at a higher price. This is sometimes identified as high-tech front-running. Generally, the practice of front-running can be considered illegal depending on the circumstances and is heavily regulated by the Financial Industry Regulatory Authority (FINRA).
+
+A 2018 study by the Securities and Exchange Commission noted that "electronic trading and algorithmic trading are both widespread and integral to the operation of our capital market."
+Technical Requirements for Algorithmic Trading
+Implementing the algorithm using a computer program is the final component of algorithmic trading, accompanied by backtesting (trying out the algorithm on historical periods of past stock-market performance to see if using it would have been profitable). The challenge is to transform the identified strategy into an integrated computerized process that has access to a trading account for placing orders. The following are the requirements for algorithmic trading:
+
+  
+• Computer-programming knowledge to program the required trading strategy, hired programmers, or pre-made trading software.
+
+  
+• Network connectivity and access to trading platforms to place orders.
+
+  
+• Access to market data feeds that will be monitored by the algorithm for opportunities to place orders.
+
+  
+• The ability and infrastructure to backtest the system once it is built before it goes live on real markets.
+
+  
+• Available historical data for backtesting depending on the complexity of rules implemented in the algorithm.
+
+An Example of Algorithmic Trading
+Royal Dutch Shell (RDS) is listed on the Amsterdam Stock Exchange (AEX) and London Stock Exchange (LSE). We start by building an algorithm to identify arbitrage opportunities. Here are a few interesting observations:
+
+  
+• AEX trades in euros while LSE trades in British pound sterling.
+
+  
+• Due to the one-hour time difference, AEX opens an hour earlier than LSE followed by both exchanges trading simultaneously for the next few hours and then trading only in LSE during the last hour as AEX closes.
+
+Can we explore the possibility of arbitrage trading on the Royal Dutch Shell stock listed on these two markets in two different currencies?
+
+Requirements:
+
+  
+• A computer program that can read current market prices.
+
+  
+• Price feeds from both LSE and AEX.
+
+  
+• A forex (foreign exchange) rate feed for GBP-EUR.
+
+  
+• Order-placing capability that can route the order to the correct exchange.
+
+  
+• Backtesting capability on historical price feeds.
+
+The computer program should perform the following:
+
+  
+• Read the incoming price feed of RDS stock from both exchanges.
+
+  
+• Using the available foreign exchange rates, convert the price of one currency to the other.
+
+  
+• If there is a large enough price discrepancy (discounting the brokerage costs) leading to a profitable opportunity, then the program should place the buy order on the lower-priced exchange and sell the order on the higher-priced exchange.
+
+  
+• If the orders are executed as desired, the arbitrage profit will follow.
+
+Simple and easy! However, the practice of algorithmic trading is not that simple to maintain and execute. Remember, if one investor can place an algo-generated trade, so can other market participants. Consequently, prices fluctuate in milli- and even microseconds. In the above example, what happens if a buy trade is executed but the sell trade does not because the sell prices change by the time the order hits the market? The trader will be left with an open position making the arbitrage strategy worthless.
+
+There are additional risks and challenges such as system failure risks, network connectivity errors, time-lags between trade orders and execution and, most important of all, imperfect algorithms. The more complex an algorithm, the more stringent backtesting is needed before it is put into action.
+
+Is Algorithmic Trading Legal?
+Yes, algorithmic trading is legal. There are no rules or laws that limit the use of trading algorithms. Some investors may contest that this type of trading creates an unfair trading environment that adversely impacts markets. However, there's nothing illegal about it.
+
+How Do I Learn Algorithmic Trading?
+Algorithmic trading relies heavily on quantitative analysis or quantitative modeling. As you'll be investing in the stock market, you'll need trading knowledge or experience with financial markets. Last, as algorithmic trading often relies on technology and computers, you'll likely rely on a coding or programming background.
+
+Can You Make Money With Algorithmic Trading?
+Yes, it is possible to make money with algorithmic trading. Algorithmic trading can provide a more systematic and disciplined approach to trading, which can help traders to identify and execute trades more efficiently than a human trader could. Algorithmic trading can also help traders to execute trades at the best possible prices and to avoid the impact of human emotions on trading decisions.
+However, it is important to note that algorithmic trading carries the same risks and uncertainties as any other form of trading, and traders may still experience losses even with an algorithmic trading system. Additionally, the development and implementation of an algorithmic trading system is often quite costly, keeping it out of reach from most ordinary traders -- and traders may need to pay ongoing fees for software and data feeds. As with any form of investing, it is important to carefully research and understand the potential risks and rewards before making any decisions.
+
+What Programming Language Do Algorithmic Traders Use?
+Because it is highly efficient in processing high volumes of data, C++ is a popular programming choice among algorithmic traders. However, C or C++ are both more complex and difficult languages, so finance professionals looking entry into programming may be better suited transitioning to a more manageable language such as Python.
+
+The Bottom Line
+Algorithmic trading brings together computer software, and financial markets to open and close trades based on programmed code. Investors and traders can set when they want trades opened or closed. They can also leverage computing power to perform high-frequency trading. With a variety of strategies traders can use, algorithmic trading is prevalent in financial markets today. To get started, get prepared with computer hardware, programming skills, and financial market experience.
+
+Investopedia does not provide tax, investment, or financial services and advice. The information is presented without consideration of the investment objectives, risk tolerance, or financial circumstances of any specific investor and might not be suitable for all investors. Investing involves risk, including the possible loss of principal.

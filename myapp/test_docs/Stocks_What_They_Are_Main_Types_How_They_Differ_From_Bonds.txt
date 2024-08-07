@@ -1,0 +1,133 @@
+Stocks: What They Are, Main Types, How They Differ From Bonds
+
+By ADAM HAYES Updated May 13, 2024
+Reviewed by THOMAS J. CATALANO
+Fact checked by MELODY KAZEL
+Part of the Series
+Day Trading Introduction
+
+Nez Riaz / Investopedia
+
+What Are Stocks?
+A stock, also known as equity, is a security that represents the ownership of a fraction of the issuing corporation. Units of stock are called shares, which entitle the owner to a proportion of the corporation’s assets and profits equal to how much stock they own.
+
+Stocks are bought and sold predominantly on stock exchanges and are the foundation of many individual investors’ portfolios. Stock trades have to conform to government regulations meant to protect investors from fraudulent practices.
+
+KEY TAKEAWAYS
+
+  
+• A stock is a form of security that indicates the holder has proportionate ownership in the issuing corporation and is sold predominantly on stock exchanges.
+
+  
+• Corporations issue stock to raise funds to operate their businesses.
+
+  
+• There are two main types of stock: common and preferred.
+
+  
+• Historically, stocks have outperformed most other investments over the long run.
+Understanding Stocks
+Corporations issue stock to raise funds to operate their businesses. The holder of stock, a shareholder, may have a claim to part of the company’s assets and earnings.
+
+A shareholder is considered an owner of the issuing company, determined by the number of shares an investor owns relative to the number of outstanding shares. If a company has 1,000 shares of stock outstanding and one person owns 100 shares, that person would own and have a claim to 10% of the company’s assets and earnings.
+
+Stockholders do not own a corporation, but corporations are a special type of organization because the law treats them as legal persons. Corporations file taxes, can borrow, can own property, and can be sued. The idea that a corporation is a “person” means that the corporation owns its assets. A corporate office full of chairs and tables belongs to the corporation, and not to the shareholders.
+
+Corporate property is legally separated from the property of shareholders, which limits the liability of both the corporation and the shareholder. If the corporation goes bankrupt, a judge may order all of its assets sold, but a shareholder’s assets are not at risk. The court cannot force you to sell your shares, although the value of your shares may have fallen. Likewise, if a major shareholder goes bankrupt, they cannot sell the company’s assets to pay their creditors.
+
+Shareholder
+A person, company, or institution that owns at least one share of a company’s stock
+What Is Shareholder Ownership?
+What shareholders own are shares issued by the corporation, and the corporation owns the assets held by a firm. If you own 33% of the shares of a company, it is incorrect to assert that you own one-third of that company. However, you do own one-third of the company’s shares. This is known as “separation of ownership and control.”
+
+Owning stock gives you the right to vote in shareholder meetings, receive dividends if and when they are distributed, and the right to sell your shares to somebody else.
+
+If you own a majority of shares, your voting power increases so that you can indirectly control the direction of a company by appointing its board of directors. This becomes most apparent when one company buys another. The acquiring company buys all the outstanding shares.
+
+The board of directors is responsible for increasing the value of the corporation and often does so by hiring professional managers, or officers, such as the chief executive officer (CEO). Ordinary shareholders do not manage the company.
+
+The importance of being a shareholder is that you are entitled to a portion of the company’s profits, which is the foundation of a stock’s value. The more shares you own, the larger the portion of the profits you get. Many stocks, however, do not pay out dividends and instead reinvest profits back into growing the company. These retained earnings, however, are still reflected in the value of a stock.
+
+Read about Investopedia’s 10 Rules of Investing by picking up a copy of our special-issue print edition.
+How to Compare Common and Preferred Stock
+There are two main types of stock: common and preferred.
+
+Common stock usually entitles the owner to vote at shareholders’ meetings and to receive any dividends paid out by the corporation.
+
+Preferred stockholders generally do not have voting rights, though they have a higher claim on assets and earnings than common stockholders. For example, owners of preferred stock receive dividends before common shareholders and have priority if a company goes bankrupt and is liquidated.
+
+The first common stock ever issued was by the Dutch East India Company in 1602.
+Companies can issue new shares whenever there is a need to raise additional cash. This process dilutes the ownership and rights of existing shareholders (provided that they do not buy any of the new offerings). Corporations can also engage in stock buybacks, which benefit existing shareholders because they cause their shares to appreciate in value.
+
+What Is the Difference Between Stocks and Bonds?
+Stocks are issued by companies to raise capital to grow the business or undertake new projects. There are important distinctions between whether somebody buys shares directly from the company when it issues them in the primary market or from another shareholder in the secondary market. When the corporation issues shares, it does so in return for money.
+
+Bonds vary from stocks in several ways. Bondholders are creditors to the corporation and are entitled to interest as well as repayment of the principal invested. Also, creditors are given legal priority over other stakeholders in the event of a bankruptcy and will be made whole first if a company is forced to sell assets.
+
+Conversely, shareholders often receive nothing in the event of bankruptcy, implying that stocks are inherently riskier investments than bonds.
+
+How Do You Buy Stock?
+Most often, stocks are bought and sold on stock exchanges, such as the Nasdaq or the New York Stock Exchange (NYSE). After a company goes public through an initial public offering (IPO), its stock becomes available for investors to buy and sell on an exchange.
+Typically, investors will use a brokerage account to purchase stock on the exchange, which will list the purchasing price (the bid) or the selling price (the offer). The price of the stock is influenced by supply and demand factors in the market, among other variables.
+
+How Can You Earn Income from Owning Stock?
+There are two ways to earn money by owning shares of stock: through dividends and capital appreciation.
+Dividends are cash distributions of company profits. If a company has 1,000 shares outstanding and declares a $5,000 dividend, then stockholders will get $5 for each share they own.
+Capital appreciation is the increase in the share price itself. If you sell a share to someone for $10, and the stock is later worth $11, the shareholder has made $1.
+
+Is It Risky to Own Stock?
+All investments have a degree of risk. Stocks, bonds, mutual funds, and exchange-traded funds (ETFs) can lose value if market conditions decline.
+When you invest, you make choices about what to do with your financial assets. Your investment value might rise or fall because of market conditions or corporate decisions, such as whether to expand into a new area of business or merge with another company.
+Historically, stocks have outperformed most other investments over the long run.
+
+The Bottom Line
+A stock represents fractional ownership of equity in an organization. It is different from a bond, which operates like a loan made by creditors to the company in return for periodic payments.
+
+A company issues stock to raise capital from investors for new projects or to expand its business operations. The type of stock, common or preferred, held by a shareholder determines the rights and benefits of ownership.
+
+ARTICLE SOURCES
+
+Part of the Series
+Day Trading Introduction
+
+Day Trading Basics
+
+Day Trading Instruments
+
+  
+•  Stock Definition
+
+  
+• CURRENT ARTICLE
+
+  
+•  Options Trading
+
+  
+•  Forex (FX) Trading
+
+Trading Platforms, Tools, Brokers
+
+Trading Order Types
+
+Strategy & Analysis
+
+Risk & Money Management
+
+Day Trading Psychology
+
+Related Terms
+Common Stock: What It Is, Different Types, vs. Preferred Stock
+Stock is a security that represents ownership in a corporation. Stock can be either common or preferred. This article discusses the differences between the two. more
+Shareholder (Stockholder): Definition, Rights, and Types
+A shareholder is any person, company, or institution that owns at least one share in a company. more
+What Are Shares? How They Compare to Stocks
+Shares are a unit of ownership of a company that may be purchased by an investor. more
+Preferred Stock: What it Is, How it Works
+Preferred stock refer to a class of ownership that has a higher claim on assets and earnings than common stock have. more
+What Are Financial Securities? Examples, Types, Regulation, and Importance
+A security is a fungible, negotiable financial instrument that represents some type of financial value, usually in the form of a stock, bond, or option. more
+Incorporation: Definition, How It Works, and Advantages
+Incorporation is the legal process by which a business entity is formed. A corporation is a separate legal entity from its owners. more
+
+

@@ -1,0 +1,122 @@
+Quants: What They Do and How They've Evolved
+
+By SHOBHIT SETH Updated September 11, 2023
+Reviewed by CHARLES POTTERS
+Fact checked by VIKKI VELASQUEZ
+
+Quantitative trading (also called quant trading) involves the use of computer algorithms and programs—based on simple or complex mathematical models—to identify and capitalize on available trading opportunities. At the back end, quant trading also involves research work on historical data with an aim to identify profit opportunities.
+
+Quant trading is widely used at individual and institutional levels for high frequency, algorithmic, arbitrage, and automated trading. Traders involved in such quantitative analysis and related trading activities are commonly referred to as "quants" or "quant traders."
+
+KEY TAKEAWAYS
+
+  
+• Quantitative trading (also called quant trading) involves the use of computer algorithms and programs—based on simple or complex mathematical models—to identify and capitalize on available trading opportunities.
+
+  
+• Quant trading also involves research work on historical data with an aim to identify profit opportunities.
+
+  
+• Quant trading is widely used at individual and institutional levels for high frequency, algorithmic, arbitrage, and automated trading.
+
+  
+• In the last two decades, MBAs and Ph.D. holders in finance, computer science, and even neural networks are taking traders' jobs at reputed trading institutions.
+
+  
+• Employers include the trading desks of global investment banks, hedge funds, or arbitrage trading firms, in addition to small-sized local trading firms.
+How Has Quantitative Trading Evolved?
+Earlier, markets were physical and floor-based, where traders and market makers interacted, agreed on a security, price, and quantity, and settled the trade on paper. Among other qualifications, a loud clear voice and a good strong build were considered an asset for trading job aspirants because these made them impressive on the trading floor.
+
+As markets became digital with global reach and expansion, the floors emptied out. Traders who had little to offer but a loud voice began to vanish, making way for the computer-savvy techies. Electronic markets offered vast expansion, loads of trading data, new assets, and securities, and there came the opportunity for data mining, research, analysis, and automated trading systems.
+
+In the last two decades, MBAs and Ph.D. holders in finance, computer science, and even neural networks are taking traders' jobs at reputed trading institutions.
+
+In the United States, quant trading positions are most prevalent in big financial hubs such as New York and Chicago, and areas where hedge funds tend to cluster, such as Boston, Massachusetts, and Stamford, Connecticut. Globally, quant traders may find employment opportunities in major financial hubs such as London, Hong Kong, Singapore, Tokyo, and Sydney, among other regional financial centers.
+The Profile of a Quant Trader
+A quant trader may work for a small-, mid- or large-size trading firm for a handsome salary with high bonus payouts, based on the generated trading profits. Employers include the trading desks of global investment banks, hedge funds, or arbitrage trading firms, in addition to small-sized local trading firms.
+
+Today, getting a trader’s job at established firms often requires a specialized master’s degree in a quantitative stream (MBA, Ph.D., CFA), unless one is a seasoned trader with proven work experience. Other less experienced younger quants can start at small-sized firms, or start as junior analysts and work their way up over a long period, although it is a fiercely competitive field.
+
+In addition to having a background in finance, mathematics, and computer programming, quants should have the following skills and background:
+
+  
+• Expertise with computer usage
+
+  
+• Hands-on knowledge of one or more programming languages
+
+  
+• Familiarity with building and customizing trading systems and automation possibilities
+
+  
+• Familiarity with data feeds and usage
+
+  
+• Data mining, research, and analytical abilities
+
+  
+• Risk-taking abilities and trader’s temperament
+
+  
+• An innovative mindset to continuously discover new strategies and opportunities
+
+Quant Trader Tools
+Quants implement their own algorithms on real-time data containing prices and quotes. They need to be familiar with any associated systems that provide data feeds and content. Quant traders typically have access to these tools:
+
+  
+• Systems for accessing market data, like the Bloomberg data terminal, having the necessary technical and quantitative analysis tools available that fit into their stream of trading (like Bollinger bands, charts, etc.)
+
+  
+• Computer systems with programming language compatibility: Perl, C++, Java, Python are the common ones among the trader community
+
+  
+• Historical and/or real-time data availability, to backtest their identified strategies
+
+  
+• Automated access to brokerage/trading accounts usually through Direct Market Access
+
+Quant Trader Duties
+Using the above, a quant trader typical performs the following activities:
+
+  
+• Identify a trading strategy: It can be based on simple price-volume numbers, or on a complex mathematical model
+
+  
+• Develop and build the working algorithm/program/system based on the trading strategy
+
+  
+• Backtest the prototype to verify practical implementation, and required customization: Once identified, it is very important to backtest the strategy on historical/live test data to assess practical feasibility. Further changes are incorporated as needed
+
+  
+• Include risk management criteria: perform scenario analysis, implement stop-loss mechanisms, capital allocation limits, etc. to make the system as protective as possible
+
+  
+• Implement the system on live feeds for trade execution in the open market: Let the quantitative setup go live, and continued observation on profit-making potential. Further customization for identified enhancements or failures, if any
+
+  
+• Continued efforts on identifying new strategies
+
+  
+• Additionally, works in the background within the research department, and provides trading tips to the traders in the trading department
+
+A quant trader’s job is a continuous and rigorous process with long working hours. Present-day trading seems to have become a computer vs. computer market, where a human trader’s contributions are limited to building computer programs smart enough to trade better than those developed by counterparts. The more automation built in the overall market, the more efficiency is needed as profit opportunities thin out with every passing day.
+
+How Much Do Quants Make?
+Compensation in the field of finance tends to be very high. According to Bureau of Labor Statistics data, the median annual pay for financial analysts in 2022 was $95,080, while the highest 10% earned more than $169,940. However, in the field of quantitative analysis, it is not uncommon to find positions with posted salaries of $250,000 or more. With bonuses, the actual salary could top $500,000 per year. As with most careers, the more experience you have, the higher a salary you can command. Hedge funds or other trading firms generally pay the most, while an entry-level quant position may earn only $125,000 or $150,000.
+
+How Much Do Hedge Fund Quants Make?
+If you are a quant trader, you will generally earn the highest salary working for a hedge fund. For example, based on the Selby Jennings' North American quant team salary and bonus survey for 2020, a graduate with a Ph.D. in a STEM field (science, technology engineering, or mathematics) could earn between $300,000 and $400,000 in total compensation (combined salary and bonus) at a top hedge fund or independent trading firm.
+
+What Are the Steps to Become a Quant?
+Most firms require at least a master's degree, or preferably a Ph.D., in a quantitative subject (mathematics, economics, finance, or statistics). Master's degrees in financial engineering or computational finance may also be effective entry points for careers as a quant trader.
+If you hold an MBA degree, you will likely also need a very strong mathematical or computational skill set, in addition to some solid experience in the real world in order to be hired as a quant trader.
+Alongside their educational requirements, quant traders must also have advanced software skills. C++ is typically used for high-frequency trading applications, and offline statistical analysis would be performed in MATLAB, SAS, S-PLUS, or a similar package. Pricing knowledge may also be embedded in trading tools created with Java, .NET or VBA, and are often integrated with Excel. 
+
+What Area of Statistics Is Most Useful for Quants?
+Certain aspects of statistics are the backbone of quantitative trading, including regression theory and time-series analysis. Electronic engineering techniques such as Fourier analysis and wavelet analysis are also utilized in quantitative analysis. Most of the statistics concepts you will need to understand to work in quant trading is so advanced that it is not taught at an undergraduate level. For this reason, it is important to pursue advanced study in statistics (namely Ph.D. coursework).
+
+What Programming Languages Do Quants Need to Know?
+C++ and Java are the main programming languages used in trading systems. Quants often need to code in C++, in addition to knowing how to use tools like R, MatLab, Stata, Python, and to a lesser extent Perl.
+
+The Bottom Line
+A quant trader’s job and associated perks appear very lucrative, but the ones qualifying for this highly competitive field need multifaceted skills, knowledge, and temperament. Quantitative traders usually have a moderate success rate, and many diversify or move out to other streams after a few years due to burnout. Apart from all the necessary infrastructure, skills, and knowledge, one needs to have the right mindset to be successful as a quant.

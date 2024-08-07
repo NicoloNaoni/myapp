@@ -1,0 +1,36 @@
+Introduction to options
+What are options?
+An option is a contract that represents the right to buy or sell a financial product at an agreed-upon price for a specific period of time. You can typically buy and sell an options contract at any time before expiration.
+Options are available on numerous financial products, including equities, indices, and ETFs. Options are called "derivatives" because the value of the option is "derived" from the underlying asset.
+Owning an option, in and of itself, does not impart ownership in the underlying security, nor does it entitle the holder to any dividend payments.
+Learn about the fundamentals of options contracts.
+
+Why trade options?
+Whether you're bullish, bearish, or neutral with equities trading, you are limited to buying and selling. Incorporating options into your trading strategy gives you the ability to implement additional strategies such as:
+
+  
+• Buying the right to purchase a stock at a specified price between now and a future date.
+
+  
+• Getting paid to potentially purchase a stock at a discount to its current price.
+
+  
+• Protecting a stock in your portfolio from a substantial price decline.
+
+  
+• Generating income on existing stocks in your portfolio.
+Important considerations
+It is important to understand that there are risks, costs, and trade-offs along with the potential benefits offered by any options strategy. Be sure you fully understand these aspects before trading options.
+To trade options, you'll also need a brokerage account that's approved for options trading. The types of options trades you can place depend on your specific options approval level, which is based on a number of your personal suitability factors.
+Three objectives for options trading
+There are three general objectives when determining your options trading strategy:
+
+  
+• Hedging – Hedging against a price decline of a stock you already own
+
+  
+• Generating income – Earning from a stock you own and are willing to sell
+
+  
+• Speculating – Profiting from a stock's price change
+Learn about various options strategies that correspond to each objective.
